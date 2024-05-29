@@ -1,0 +1,56 @@
+Question:
+The inorder and preorder traversal of a binary tree are
+   d b e a f c g and a b d e c f g, respectively.
+The postorder traversal of the binary tree is
+Options:
+(A) d e b f g e a
+(B) e d b g f c a
+(C) e d b f g c a
+(D) d e f g b c a
+Solution:
+The first element in the preorder traversal is the root of the tree.
+Find the root element in the inorder traversal. Elements to the left of the root in the inorder traversal represent the left subtree, and elements to the right represent the right subtree.
+Recursively repeat the process for the left and right subtrees.
+Let's apply this algorithm:
+
+Inorder traversal: d b e a f c g
+Preorder traversal: a b d e c f g
+
+The root is 'a'.
+Elements to the left of 'a' in the inorder traversal ('d', 'b', 'e') represent the left subtree.
+Elements to the right of 'a' in the inorder traversal ('f', 'c', 'g') represent the right subtree.
+Now, apply the same process recursively:
+
+Left subtree:
+Root: 'b'
+Left subtree: 'd'
+Right subtree: 'e'
+
+Right subtree:
+Root: 'c'
+Left subtree: 'f'
+Right subtree: 'g'
+
+Now, assemble the postorder traversal by recursively applying the process:
+Postorder traversal: d e b f g c a
+
+Label:
+algorithms_graph_traversals_dfs_inorder
+algorithms_graph_traversals_dfs_preorder
+algorithms_graph_traversals_dfs_postorder
+
+
+Algorithms->Graph traversals->DFS->Inorder
+Traverse the left subtree, i.e., call Inorder(left->subtree)
+Visit the root.
+Traverse the right subtree, i.e., call Inorder(right->subtree)
+
+Algorithms->Graph traversals->DFS->Preorder
+Visit the root.
+Traverse the left subtree, i.e., call Preorder(left->subtree)
+Traverse the right subtree, i.e., call Preorder(right->subtree)
+
+Algorithms->Graph traversals->DFS->Postorder
+Traverse the left subtree, i.e., call Postorder(left->subtree)
+Traverse the right subtree, i.e., call Postorder(right->subtree)
+Visit the root
