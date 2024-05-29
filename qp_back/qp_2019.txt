@@ -1,0 +1,774 @@
+Question:
+The expenditure on the project ____ as follows: equipment Rs.20 lakhs, salaries Rs.12
+lakhs, and contingency Rs.3 lakhs.
+Options:
+(A) break down 
+(B) break 
+(C) breaks down 
+(D) breaks
+
+Question:
+The search engine's business model ____ around the fulcrum of trust.
+Options:
+(A) revolves 
+(B) plays 
+(C) sinks 
+(D) bursts
+
+Question:
+Two cars start at the same time from the same location and go in the same direction. The
+speed of the first car is 50 km/h and the speed of the second car is 60 km/h. The number of
+hours it takes for the distance between the two cars to be 20km is ____.
+Options:
+(A) 1 
+(B) 2 
+(C) 3 
+(D) 6
+
+Question:
+Ten friends planned to share equally the cost of buying a gift for their teacher. When two of
+them decided not to contribute, each of the other friends had to pay Rs 150 more. The cost
+of the gift was Rs ____.
+Options:
+(A) 666 
+(B) 3000 
+(C) 6000 
+(D) 12000
+
+Question:
+A court is to a judge as ____ is to a teacher.
+Options:
+(A) a student 
+(B) a punishment 
+(C) asyllabus 
+(D) a school
+
+Question:
+The police arrested four criminals - P, Q, R and S. The criminals knew each other. They
+made the following statements:
+
+P says "Q commnitted the crime."
+Q says "S committed the crime."
+R says "I did not do it."
+S says "What Q said about me is false."
+
+Assume only one of the arrested four committed the crime and only one of the statements
+made above is true. Who committed the crime?
+Options:
+(A) P 
+(B) R 
+(C) S 
+(D) Q
+
+Question:
+In the given diagram, teachers are represented in the triangle, researchers in the circle and
+administrators in the rectangle. Out of the total number of the people, the percentage of
+administrators shall be in the range of ____.
+
+    <img src="img/2019_7.png" width="100px" height="100px" />
+Options:
+(A) 0 to 15 
+(B) 16 to 30 
+(C) 31 to 45 
+(D) 46 to 60
+
+Question:
+"A recent High Court judgement has sought to dispel the idea of begging as a disease -
+which leads to its stigmatization and criminalization - and to regard it as a symptom. The
+underlying disease is the failure of the state to protect citizens who fall through the social
+security net."
+
+Which one of the following statements can be inferred from the given passage?
+
+Options:
+(A) Beggars are lazy people who beg because they are unwilling to work
+(B) Beggars are created because of the lack of social welfare schemes
+(C) Begging is an offence that has to be dealt with firmly
+(D) Begging has to be banned because it adversely affects the welfare of the state
+
+Question:
+In a college, there are three student clubs. Sixty students are only in the Drama club, 80
+students are only in the Dance club, 30 students are only in the Maths club, 40 students
+are in both Drama and Dance clubs, 12 students are in both Dance and Maths clubs, 7
+students are in both Drama and Maths clubs, and 2 students are in all the clubs. If 75%
+of the students in the college are not in any of these clubs, then the total number of
+students in the college is ____.
+Options:
+(A) 1000 
+(B) 975 
+(C) 900 
+(D) 225
+
+Question:
+Three of the five students allocated to a hostel put in special requests to the warden. Given the floor
+plan of the vacant rooms, select the allocation plan that will accommodate all their requests.
+Request by X: Due to pollen allergy, I want to avoid a wing next to the garden.
+Request by Y: I want to live as far from the washrooms as possible, since I am very sensitive to smell.
+Request by Z: I believe in Vaastu and so want to stay in the South-west wing.
+The shaded rooms are already occupied. WR is washroom.
+Options:
+(A) <img src="img/2019_10_1.png" width="100px" height="100px" /> 
+(B) <img src="img/2019_10_2.png" width="100px" height="100px" />
+(C) <img src="img/2019_10_3.png" width="100px" height="100px" />
+(D) <img src="img/2019_10_4.png" width="100px" height="100px" />
+
+Question:
+A certain processor uses a fully associative cache of size 16 kB. The cache block size is 16
+bytes. Assume that the main memory is byte addressable and uses a 32-bit address. How
+many bits are required for the Tag and the Index fields respectively in the addresses generated
+by the processor?
+Options:
+(A) 24 bits and 0 bits 
+(B) 28 bits and 4 bits
+(C) 24 bits and 4 bits 
+(D) 28 bits and 0 bits
+
+Question:
+The chip select logic for a certain DRAM chip in a memory system design is shown below.
+Assume that the memory system has 16 address lines denoted by A<sub>15</sub> to A<sub>0</sub>. What is the range
+of addresses (in hexadecimal) of the memory system that can get enabled by the chip select
+(CS) signal?
+
+    <img src="img/2019_2.png" width="100px" height="100px" />
+Options:
+(A) C800 to CFFF 
+(B) CA00 to CAFF
+(C) C800 to C8FF 
+(D) DA00 to DFFF
+
+Question:
+Which one of the following kinds of derivation is used by LR parsers?
+Options:
+(A) Leftmost 
+(B) Leftmost in reverse
+(C) Rightmost 
+(D) Rightmost in reverse
+
+Question:
+In 16-bit 2's complement representation, the decimal number -28 is:
+Options:
+(A) 1111 1111 0001 1100 
+(B) 0000 0000 1110 0100
+(C) 1111 1111 1110 0100 
+(D) 1000 0000 1110 0100
+
+Question:
+Let U = {1,2, ..., n}. Let A = {(x, X)|x &isin; X,X &sube; U}. Consider the following two statements
+on |A|.
+
+    I. |A| = n2n-1
+                     n
+   II. |A| = &sum;<sup>n</sup><sub>k-1</sub>k (  )
+                     k
+Which of the above statements is/are TRUE?
+Options:
+(A) Only I 
+(B) Only II
+(C) Both I and II 
+(D) Neither I nor II
+
+Question:
+Which one of the following is NOT a valid identity?
+Options:
+(A) (x &oplus; y) &oplus; z = x &oplus; (y &oplus; z)
+(B) (x &oplus; y) &oplus; z = x &oplus; (y + z)
+(C) x &oplus; y  = x + y, if xy = 0 
+(D) x &oplus; y  = (xy + x'y')'
+
+Question:
+If L is a regular language over &sum; = {a,b}, which one of the following languages is NOT
+regular ?
+Options:
+(A) L . L<sup>R</sup> = {xy |x &isin; L,y<sup>R</sup> &isin; L}
+(B) {ww<sup>R</sup> | w &isin; L}
+(C) Prefix(L) = {x &isin; &sum;<sup>*</sup>|&exist;y &isin; &sum;<sup>*</sup> such that xy &isin; L}
+(D) Suffix(L) = {y &isin; &sum;<sup>*</sup>|&exist;x &isin; &sum;<sup>*</sup> such that xy &isin; L}
+
+Question:
+Consider Z = X - Y, where X, Y and Z are all in sign-magnitude form. X and Y are each
+represented in n bits. To avoid overflow, the representation of Z would require a minimum
+of:
+Options:
+(A) n bits 
+(B) n - 1 bits
+(C) n + 1 bits 
+(D) n + 2 bits
+
+Question:
+Let X be a square matrix. Consider the following two statements on X.
+
+  I. X is invertible.
+ II. Determinant of X is non-zero.
+
+Which one of the following is TRUE?
+Options:
+(A) I implies II; II does not imply I.
+(B) II implies I, I does not imply II.
+(C) I does not imply II; II does not imply I.
+(D) I and II are equivalent statements.
+
+Question:
+Let G be an arbitrary group. Consider the following relations on G:
+
+    R1:&forall;a,b &isin; G, aR1b if and only if &exist;g &isin; G such that a = g<sup>-1</sup>bg
+    R2:&forall;a,b &isin; G, aR2b if and only if a = b<sup>-1</sup>
+
+Which of the above is/are equivalence relation/relations?
+Options:
+(A) R1 and R2 
+(B) R1 only 
+(C) R2 only 
+(D) Neither R1 nor R2
+
+Question:
+Consider the following two statements about database transaction schedules:
+
+   I. Strict two-phase locking protocol generates conflict serializable schedules that
+      are also recoverable.
+  II. Timestamp-ordering concurrency control protocol with Thomas' Write Rule can
+      generate view serializable schedules that are not conflict serializable.
+
+Which of the above statements is/are TRUE?
+Options:
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II
+
+Question:
+Let G be an undirected complete graph on n vertices, where n > 2. Then, the number of
+different Hamiltonian cycles in G is equal to
+Options:
+(A) n! 
+(B) (n - 1)! 
+(C) 1 
+(D) (n-1)!/2
+
+Question:
+Compute 
+         
+         lim<sub>x &rarr; 3</sub> (x<sup>4</sup> - 81)/(2x<sup>2</sup> - 5x - 3)         
+Options:
+(A) 1 
+(B) 53/12
+(C) 108/7 
+(D) Limit does not exist
+
+Question:
+Which one of the following statements is NOT correct about the B+ tree data structure used
+for creating an index of a relational database table?
+Options:
+(A) B+ Tree is a height-balanced tree
+(B) Non-leaf nodes have pointers to data records
+(C) Key values in each node are kept in sorted order
+(D) Each leaf node has a pointer to the next leaf node
+
+Question:
+For &sum; = {a,b}, let us consider the regular language L = {x |x = a<sup>2+3k</sup> or x =
+b<sup>10+12k</sup>, k &ge; 0}. Which one of the following can be a pumping length (the constant guaranteed by
+the pumping lemma) for L ?
+Options:
+(A) 3 
+(B) 5 
+(C) 9 
+(D) 24
+
+Question:
+Which of the following protocol pairs can be used to send and retrieve e-mails (in that order)?
+Options:
+(A) IMAP, POP3 
+(B) SMTP, POP3
+(C) SMTP, MIME 
+(D) IMAP, SMTP
+
+Question:
+The following C program is executed on a Unix/Linux system:
+
+<code>
+    #include <unistd.h>
+    int main()
+    {
+        int i;
+        for (i = 0; i < 10; i++)
+            if (i % 2 == 0) fork();
+        return 0;
+    }
+</code>
+
+The total number of child processes created is ____.
+
+Question:
+Consider the following C program:
+
+<code>
+    #include <stdio.h>
+    int jumble(int x, int y){
+        x = 2*x + y;
+        return x;
+    }
+    int main(){
+        int x = 2, y = 5;
+        y = jumble(y, x);
+        x = jumble(y, x);
+        print("%d \n", x);
+        return 0;
+    }
+</code>
+
+The value printed by the program is ____.
+
+Question:
+Consider the grammar given below:
+
+    S &rarr; Aa
+    A &rarr; BD
+    B &rarr; b | &epsilon;
+    D &rarr; d | &epsilon;
+
+Let a, b, d, and $ be indexed as follows:
+
+    a    b   d   $
+    3    2   1   0
+
+Compute the FOLLOW set of the non-terminal B and write the index values for the symbols
+in the FOLLOW set in the descending order. (For example, if the FOLLOW set is {a, b, d,
+$}, then the answer should be 3210)
+
+Answer: ____.
+
+Question:
+An array of 25 distinct elements is to be sorted using quicksort. Assume that the pivot
+element is chosen uniformly at random. The probability that the pivot element gets placed in
+the worst possible location in the first round of partitioning (rounded off to 2 decimal places)
+is ____.
+
+Question:
+The value of 3<sup>51</sup> mod 5 is ____.
+
+Question:
+Two numbers are chosen independently and uniformly at random from the set {1,2,..., 13}.
+The probability (rounded off to 3 decimal places) that their 4-bit (unsigned) binary
+representations have the same most significant bit is ____.
+
+Question:
+Consider three concurrent processes P1, P2 and P3 as shown below, which access a shared
+variable D that has been initialized to 100.
+
+     P1          P2           P3
+     :           :            :
+     :           :            :
+  D = D + 20   D = D - 50   D = D + 10 
+     :           :            :
+     :           :            :
+
+The processes are executed on a uniprocessor system running a time-shared operating
+system. If the minimum and maximum possible values of D after the three processes have
+completed execution are X and Y respectively, then the value of Y - X is ____.
+
+Question:
+Consider the following C program:
+
+<code>
+    #include <stdio.h>
+    int main(){
+        int arr[]={1,2,3,4,5,6,7,8,9,0,1,2,5}, *ip=arr+4;
+        printf("%d\n", ip[1]);
+        return 0;
+    }
+</code>
+
+The number that will be displayed on execution of the program is ____.
+
+Question:
+Consider a sequence of 14 elements: A = [-5, -10, 6, 3, -1, -2, 13, 4, -9, -1, 4, 12, -3, 0].
+The subsequence sum S(i, j) = &sum;<sup>j</sup><sub>k=i</sub>A[k] . Determine the maximum of S(i, j),
+where 0 &le; i &le; j < 14. (Divide and conquer approach may be used.)
+
+Answer: ____.
+
+Question:
+Consider the following C function.
+
+<code>
+    void convert(int n){
+        if(n < 0)
+            printf("%d"",n);
+        else {
+            convert(n / 2);
+            printf("%d",n % 2);
+        }
+     }
+</code>
+
+Which one of the following will happen when the function convert is called with any
+positive integer n as argument?
+
+Options:
+(A) It will print the binary representation of n and terminate
+(B) It will print the binary representation of n in the reverse order and terminate
+(C) It will print the binary representation of n but will not terminate
+(D) It will not print anything and will not terminate
+
+Question:
+Consider the following C program:
+
+<code>
+    #include <stdio.h>
+    int r(){
+        static int num = 7;
+        return num--;
+    }
+
+    int main(){
+        for (r();r();r())
+            printf("%d",r());
+        return 0;
+    }
+</code>
+
+Which one of the following values will be displayed on execution of the programs?
+Options:
+(A) 41 
+(B) 52 
+(C) 63 
+(D) 630
+
+Question:
+Consider three machines M, N, and P with IP addresses 100.10.5.2, 100.10.5.5, and
+100.10.5.6 respectively. The subnet mask is set to 255.255.255.252 for all the three
+machines. Which one of the following is true?
+
+Options:
+(A) M,N, and P all belong to the same subnet
+(B) Only M and N belong to the same subnet
+(C) Only N and P belong to the same subnet
+(D) M,N, and P belong to three different subnets
+
+Question:
+Suppose that in an IP-over-Ethernet network, a machine X wishes to find the MAC address
+of another machine Y in its subnet. Which one of the following techniques can be used for
+this?
+
+Options:
+(A) X sends an ARP request packet to the local gateway's IP address which then finds the
+    MAC address of Y and sends to X
+(B) X sends an ARP request packet to the local gateway's MAC address which then finds
+    the MAC address of Y and sends to X
+(C) X sends an ARP request packet with broadcast MAC address in its local subnet
+(D) X sends an ARP request packet with broadcast IP address in its local subnet
+
+Question:
+Consider three 4-variable functions f1, f2, and f3, which are expressed in sum-of-minterms as
+f1 = &sum;(0, 2, 5, 8, 14), f2c= &sum;(2, 3, 6, 8, 14, 15), f3 = &sum;(2, 7, 11, 14)
+For the following circuit with one AND gate and one XOR gate, the output function f can be
+expressed as:
+
+    <img src="img/2019_30.png" width="100px" height="100px" />
+
+Options:
+(A) &sum;(7, 8, 11)
+(B) &sum;(2, 7, 8, 11, 14)
+(C) &sum;(2, 14)
+(D) &sum;(0, 2, 3, 5, 6, 7, 8, 11, 14, 15)
+
+Question:
+Which one of the following languages over &sum; = {a, b} is NOI context-free?
+Options:
+(A) {ww<sup>R</sup> |w &isin; {a, b}<sup>*</sup>}
+(B) {wa<sup>n</sup>b<sup>n</sup>w<sup>R</sup> |w &isin; {a, b}<sup>*</sup>, n &ge; 0}
+(C) {wa<sup>n</sup>w<sup>R</sup>b<sup>n</sup> |w &isin; {a, b}<sup>*</sup>, n &ge; 0}
+(D) {a<sup>n</sup>b<sup>i</sup> |i &isin; {n, 3n, 5n}, n &ge; 0}
+
+Question:
+Let the set of functional dependencies F = {QR &rarr; S, R &rarr; P, S &rarr; Q} hold on a relation
+schema X = (PQRS). X is not in BCNF. Suppose X is decomposed into two schemas Y and
+Z, where Y = (PR) and Z = (QRS).
+
+Consider the two statements given below.
+
+  I. Both Y and Z are in BCNF
+ II. Decomposition of X into Y and Z is dependency preserving and lossless
+
+Which of the above statements is/are correct?
+Options:
+(A) Both I and II 
+(B) I only 
+(C) II only 
+(D) Neither I nor II
+
+Question:
+Assume that in a certain computer, the virtual addresses are 64 bits long and the physical
+addresses are 48 bits long. The memory is word addressible. The page size is 8 kB and the
+word size is 4 bytes. The Translation Look-aside Buffer (TLB) in the address translation path
+has 128 valid entries. At most how many distinct virtual addresses can be translated without
+any TLB miss?
+
+Options:
+(A) 16 x 2<sup>10</sup> 
+(B) 256 x 2<sup>10</sup> 
+(C) 4 x 2<sup>20</sup> 
+(D) 8 x 2<sup>20</sup>
+
+Question:
+Consider the following sets:
+
+    S1. Set of all recursively cnumerable languages over the alphabet {0,1}
+    S2. Set of all syntactically valid C programs
+    S3. Set of all languages over the alphabet {0,1}
+    S4. Set of all non-regular languages over the alphabet {0,1}
+
+Which of the above sets are uncountable?
+
+Options:
+(A) S1 and S2 
+(B) S3 and S4 
+(C) S2 and S3 
+(D) S1 and S4
+
+Question:
+Consider the first order predicate formula &phi;:
+
+    &forall;x[(&forall;z z|x &Implies; ((z = x) &or; (z = 1))) &Implies; &exist;w (w > x) &and; (&forall;z z|w &Implies; ((w = z) &or; (z = 1)))]
+
+Here 'a|b' denotes that 'a divides b', where a and b are integers. Consider the following
+sets:
+
+    S1. {1,2,3, ..., 100}
+
+    S2. Set of all positive integers
+
+    S3. Set of all integers
+
+Which of the above sets satisfy &phi;?
+Options:
+(A) S1 and S2 
+(B) S1 and S3 
+(C) S2 and S3 
+(D) S1, S2 and S3
+
+Question:
+Consider the following grammar and the semantic actions to support the inherited type
+declaration attributes. Let X1, X2, X3, X4, X5, and X6 be the placeholders for the non-
+terminals D, T, L or L1 in the following table:
+
+    Production rule         Semantic action
+    D &rarr; TL.            X1.type = X2.type
+    T &rarr; int            T.type = int
+    T &rarr; float          T.type = float
+    L &rarr; L1,id          X3.type = X4.type
+                            addType(id.entry, X5.type)
+    L &rarr; id             addType(id.entry, X6.type)
+
+Which one of the following are the appropriate choices for X1, X2, X3 and X4?
+
+Options:
+(A) X1 = L, X2 =T, X3 = L1, X4 = L 
+(B) X1 = T, X2 =L, X3 = L1, X4 = T
+(C) X1 = L, X2 =L, X3 = L1, X4 = T 
+(D) X1 = T, X2 =L, X3 = T,  X4 = L1
+
+Question:
+There are n unsorted arrays: A1, A2, ..., An. Assume that n is odd. Each of Aa, A2, ..., An
+contains 7 distinct elements. There are no common elements between any two arrays. The
+worst-case time complexity of computing the median of the medians of A1, A2, ..., An is
+Options:
+(A) O(n) 
+(B) O(nlog n) 
+(C) O(n<sup>2</sup>) 
+(D) &Omega;(n<sup>2</sup>log n)
+
+Question:
+Let G be any connected, weighted, undirected graph.
+
+   I. G has a unique minimum spanning tree, if no two edges of G have the same weight.
+  II. G has a unique minimum spanning tree, if, for every cut of G, there is a unique
+      minimum-weight edge crossing the cut.
+
+Which of the above two statements is/are TRUE?
+Options:
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II
+
+Question:
+Consider the following snapshot of a system running n concurrent processes. Process i is
+holding X<sub>i</sub> imstances of a resource R, 1 &le; i &le; n. Assume that all instances of R are
+currently in use. Further, for all i, process i can place a request for at most Y<sub>i</sub> additional
+instances of R while holding the X<sub>i</sub> instances it already has. Of the n processes, there are
+exactly two processes p and q such that Y<sub>p</sub> = Y<sub>q</sub> = 0. Which one of the following
+conditions guarantees that no other process apart from p and q can complete execution?
+
+Options:
+(A) X<sub>p</sub> + X<sub>q</sub> < Min {Y<sub>k</sub> | 1 &le; k &le; n, k &ne;p, k &ne; q}
+(B) X<sub>p</sub> + X<sub>q</sub> < Max {Y<sub>k</sub> | 1 &le; k &le; n, k &ne;p, k &ne; q}
+(C) Min(X<sub>p</sub>, X<sub>q</sub>) &ge; Min {Y<sub>k</sub> | 1 &le; k &le; n, k &ne;p, k &ne; q}
+(D) Min(X<sub>p</sub>, X<sub>q</sub>) &le; Max {Y<sub>k</sub> | 1 &le; k &le; n, k &ne;p, k &ne; q}
+
+Question:
+Consider the following statements:
+    I. The smallest element in a max-heap is always at a leaf node
+   II. The second largest element in a max-heap is always a child of the root node
+  III. A max-heap can be constructed from a binary search tree in &Theta;(n) time
+   IV. A binary search tree can be constructed from a max-heap in &Theta;(n) time
+
+Which of the above statements are TRUE?
+Options:
+(A) I, II and III 
+(B) I, II and IV 
+(C) I, III and IV 
+(D) II, III and IV
+
+Question:
+Consider the following four processes with arrival times (in milliseconds) and their length
+of CPU bursts (in milliseconds) as shown below:
+
+    Process         | P1 | P2 | P3 | P4 |
+    Arrival time    | 0  |  1 | 3  |  4 |
+    CPU burst time  | 3  |  1 | 3  |  Z |
+
+These processes are run on a single processor using preemptive Shortest Remaining Time
+First scheduling algorithm. If the average waiting time of the processes is 1 millisecond,
+then the value of Z is ____ .
+
+Question:
+The index node (inode) of a Unix-like file system has 12 direct, one single-indirect and one
+double-indirect pointers. The disk block size is 4 kB, and the disk block address is 32-bits
+long. The maximum possible file size is (rounded off to 1 decimal place) ____ GB.
+
+Question:
+Consider the augmented grammar given below:
+
+    S' &rarr; S
+    S  &rarr; (L) | id
+    L  &rarr; L,S | S
+
+Let I<sub>o</sub> = CLOSURE ({[S' &rarr; *S]}). The number of items in the set GOTO (I<sub>o</sub> , { ) is ____.
+
+Question:
+Consider the following matrix:
+
+         [1   2   4   8]
+    R =  [1   3   9  27]
+         [1   4  16  64]
+         [1   5  25 125]
+
+The absolute value of the product of Eigen values of R is ____
+
+Question:
+A certain processor deploys a single-level cache. The cache block size is 8 words and the
+word size is 4 bytes. The memory system uses a 60-MHz clock. To service a cache miss, the
+memory controller first takes 1 cycle to accept the starting address of the block, it then takes
+3 cycles to fetch all the eight words of the block, and finally transmits the words of the
+requested block at the rate of 1 word per cycle. The maximum bandwidth for the memory
+system when the program running on the processor issues a series of read operations is
+ ____x 10<sup>6</sup> bytes/sec.
+
+Question:
+Let T be a full binary tree with 8 leaves. (A full binary tree has every level full.) Suppose
+two leaves a and b of T are chosen uniformly and independently at random. The expected
+value of the distance between a and b in T (i.e., the number of edges in the unique path
+between a and b) is (rounded off to 2 decimal places) ____.
+
+Question:
+Suppose Y is distributed uniformly in the open interval (1,6). The probability that the
+polynomial 3x<sup>2</sup> + 6xY + 3Y + 6 has only real roots is (rounded off to 1 decimal place)
+ ____.
+
+Question:
+Let &sum; be the set of all bijections from {1,...,5} to {1,...,5}, where id denotes the identity
+function, i.e. id(j) =j,&forall;j. Let &deg; denote composition on functions. For a string x =
+x<sub>1</sub> x<sub>2</sub> ...x<sub>n</sub>, &isin &sum;<sup>n</sup>, n &ge; 0, let &pi;(x) = x<sub>1</sub> &deg; x<sub>2</sub>&deg; ...&deg; x<sub>n</sub>.
+Consider the language L = {x &isin; &sum;<sup>*</sup>| &pi;(x) = id}. The minimum number of states in any
+DFA accepting L is ____.
+
+Question:
+Consider that 15 machines need to be connected in a LAN using 8-port Ethernet switches.
+Assume that these switches do not have any separate uplink ports. The minimum number of
+switches needed is ____.
+
+Question:
+What is the minimum number of 2-input NOR gates required to implement a 4-variable
+function expressed in sum-of-minterms form as f= &sum;(0, 2, 5, 7, 8, 10, 13, 15)? Assume that
+all the inputs and their complements are available. Answer: ____ .
+
+Question:
+A relational database contains two tables Student and Performance as shown below:
+
+    Student              Performance
+  Roll_no Student_name  Roll_no Subject_code  Marks
+  1       Amit          1       A             86
+  2       Priya         1       B             95
+  3       Vinit         1       C             90
+  4       Rohan         2       A             89
+  5       Smita         2       C             92
+                        3       C             80
+
+The primary key of the Student table is Roll_no. For the Performance table, the columns
+Roll_no. and Subject_code together form the primary key. Consider the SQL query given
+below:
+
+SELECT S.Student_name, sum(P.Marks)
+FROM Student S, Performance P
+WHERE P.Marks > 84
+GROUP BY S.Student_name;
+
+The number of rows returned by the above SQL query is ____.
+
+Question:
+Consider the following C program:
+
+<code>
+    #include <stdio.h>
+    int main(){
+        float sum = 0.0, j = 1.0, i = 2.0;
+        while (i/j > 0.0625){
+            j = j + j;
+            sum = sum + i/j;
+            printf("%f\n", sum);
+        }
+        return 0;
+    }
+</code>
+
+The number of times the variable sum will be printed, when the above program is executed,
+is ____.
+
+Question:
+Consider the following C program:
+
+<code>
+    #include <stdio.h>
+    int main()
+    {
+        int a[] = {2, 4, 6, 8, 10};
+        int i, sum = 0, *b = a + 4;
+        for (i = 0; i < 5; i++)
+            sum = sum + (*b - i) - *(b - i);
+        printf ("%d\n", sum);
+        return 0;
+    }
+</code>
+
+The output of the above C program is ____.
+
+Question:
+In an RSA cryptosystem, the value of the public modulus parameter n is 3007. If it is also
+known that &phi;(n) = 2880, where &phi;() denotes Euler's Totient Function, then the prime factor
+of n which is greater than 50 is ____.
+
+Question:
+Consider the following relations P(X, Y, Z), Q(X, Y, T) and R(Y, V).
+
+      P            Q               R
+  X   Y   Z     X    Y   T      Y     V
+ X1   Y1  Z1    X2   Y1  2     Y1     V1
+ X1   Y1  Z2    X1   Y2  2     Y3     V2
+ X2   Y2  Z2    X1   Y1  2     Y2     V3
+ X2   Y4  Z4    X3   Y3  2     Y2     V2
+
+How many tuples will be returned by the following relational algebra query?
+
+&prod;<sub>X</sub>(&sigma;(P.Y = R.Y &and; R.V = V2)(P X R)) - &prod;<sub>X</sub>(&sigma;(Q.Y = R.Y &and; Q.T > 2)(Q X R))
+
+Answer: ____.

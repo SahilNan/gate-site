@@ -1,0 +1,834 @@
+Question:
+The ____ is too high for it to be considered ____ . 
+Options:
+(A) fair / fare 
+(B) faer / fair 
+(C) fare / fare 
+(D) fare / fair 
+
+Question:
+A function y(x) is defined in the interval [0, 1] on the x-axis as 
+
+           2 if 0 &le; x < 1/3
+    y(x) = 3 if 1/3 &le; x < 3/4
+           1 if 3/4 &le; x &le; 1
+
+Which one of the following is the area under the curve for the interval [0, 1] on 
+the x-axis? 
+Options:
+(A) 5/6
+(B) 6/5
+(C) 13/6
+(D) 6/13
+
+Question:
+Let r be a root of the equation x + 2x + 6 = 0.  
+Then the value of the expression (r + 2)(r + 3)(r + 4)(r + 5) is 
+Options:
+(A) 51 
+(B) -51 
+(C) 126 
+(D) -126 
+
+Question:
+Given below are four statements. 
+
+  Statement 1: All students are inquisitive. 
+  Statement 2: Some students are inquisitive. 
+  Statement 3: No student is inquisitive. 
+  Statement 4: Some students are not inquisitive. 
+
+From the given four statements, find the two statements that CANNOT BE 
+TRUE simultaneously, assuming that there is at least one student in the class. 
+Options:
+(A) Statement 1 and Statement 3 
+(B) Statement 1 and Statement 2 
+(C) Statement 2 and Statement 4 
+(D) Statement 3 and Statement 4 
+
+Question:
+A palindrome is a word that reads the same forwards and backwards. In a game 
+of words, a player has the following two plates painted with letters.  
+      A D
+From the additional plates given in the options, which one of the combinations 
+of additional plates would allow the player to construct a five-letter palindrome. 
+The player should use all the five plates exactly once. The plates can be rotated 
+in their plane.  
+Options:
+(A) D D J
+(B) R A R
+(C) Z E D
+(D) I L Y
+
+Question:
+Some people believe that "what gets measured, improves". Some others believe 
+that "what gets measured, gets gamed". One possible reason for the difference in 
+the beliefs is the work culture in organizations. In organizations with good work 
+culture, metrics help improve outcomes. However, the same metrics are 
+counterproductive in organizations with poor work culture. 
+Which one of the following is the CORRECT logical inference based on the 
+information in the above passage? 
+Options:
+(A) Metrics are useful in organizations with poor work culture 
+(B) Metrics are useful in organizations with good work culture 
+(C) Metrics are always counterproductive in organizations with good work culture 
+(D) Metrics are never useful in organizations with good work culture 
+
+Question:
+In a recently conducted national entrance test, boys constituted 65% of those who 
+appeared for the test. Girls constituted the remaining candidates and they 
+accounted for 60% of the qualified candidates.  
+Which one of the following is the correct logical inference based on the 
+information provided in the above passage? 
+Options:
+(A) Equal number of boys and girls qualified 
+(B) Equal number of boys and girls appeared for the test 
+(C) The number of boys who appeared for the test is less than the number of girls 
+    who appeared 
+(D) The number of boys who qualified the test is less than the number of girls who 
+    qualified
+
+Question:
+A box contains five balls of same size and shape.  Three of them are green 
+coloured balls and two of them are orange coloured balls. Balls are drawn from 
+the box one at a time. If a green ball is drawn, it is not replaced. If an orange ball 
+is drawn, it is replaced with another orange ball.  
+First ball is drawn.  What is the probability of getting an orange ball in the next 
+draw? 
+Options:
+(A) 1/2
+(B) 8/25
+(C) 19/50
+(D) 23/50
+
+Question:
+The corners and mid-points of the sides of a triangle are named using the distinct 
+letters P, Q, R, S, T and U, but not necessarily in the same order. Consider the 
+following statements:
+    The line joining P and R is parallel to the line joining Q and S. 
+    P is placed on the side opposite to the corner T.  
+    S and U cannot be placed on the same side. 
+Which one of the following statements is correct based on the above 
+information? 
+Options:
+(A) P cannot be placed at a corner 
+(B) S cannot be placed at a corner 
+(C) U cannot be placed at a mid-point 
+(D) R cannot be placed at a corner
+
+Question:
+A plot of land must be divided between four families. They want their 
+individual plots to be similar in shape, not necessarily equal in area. The land 
+has equally spaced poles, marked as dots in the below figure. Two ropes, R1 and 
+R2, are already present and cannot be moved.  
+What is the least number of additional straight ropes needed to create the 
+desired plots? A single rope can pass through three poles that are aligned in a 
+straight line. 
+
+<img src="img/2022_10.png" width="100px" height="100px" />
+
+Options:
+(A) 2 
+(B) 4 
+(C) 5 
+(D) 3 
+
+Question:
+Which one of the following statements is TRUE for all positive functions f(n) ? 
+Options:
+(A) f(n<sup>2</sup>) = &Theta;(f(n)<sup>2</sup>), when f(n) is a polynomial 
+(B) f(n<sup>2</sup>) = o(f(n)<sup>2</sup>)  
+(C) f(n<sup>2</sup>) = O(f(n)<sup>2</sup>), when f(n) is an exponential function 
+(D) f(n<sup>2</sup>) = &Omega;(f(n)<sup>2</sup>) 
+
+Question:
+Which one of the following regular expressions correctly represents the language 
+of the finite automaton given below? 
+
+<img src="img/2022_12.png" width="100px" height="100px" />
+Options:
+(A) ab<sup>*</sup>bab<sup>*</sup> + ba<sup>*</sup>aba<sup>*</sup>  
+(B) (ab<sup>*</sup>b)<sup>*</sup>ab<sup>*</sup> + (ba<sup>*</sup>a)<sup><sup>*</sup></sup>ba*  
+(C) (ab<sup>*</sup>b + ba<sup>*</sup>a)<sup>*</sup>(a<sup>*</sup> + b<sup>*</sup>)  
+(D) (ba<sup>*</sup>a + ab<sup>*</sup>b)<sup>*</sup>(ab<sup>*</sup> + ba<sup>*</sup>) 
+ 
+Question:
+Which one of the following statements is TRUE?  
+Options:
+(A) The LALR(1)  parser for a grammar G  cannot have reduce-reduce conflict if the 
+    LR(1)  parser for G  does not have reduce-reduce conflict. 
+(B) Symbol table is accessed only during the lexical analysis phase. 
+(C) Data flow analysis is necessary for run-time memory management. 
+(D) LR(1)  parsing is sufficient for deterministic context-free languages. 
+
+Question:
+In a relational data model, which one of the following statements is TRUE? 
+Options:
+(A) A relation with only two attributes is always in BCNF. 
+(B) If all attributes of a relation are prime attributes, then the relation is in BCNF. 
+(C) Every relation has at least one non-prime attribute. 
+(D) BCNF decompositions preserve functional dependencies. 
+
+Question:
+Consider the problem of reversing a singly linked list. To take an example, given 
+the linked list below,  
+
+       head &rarr; a &rarr; b &rarr; c &rarr; d &rarr; e
+
+the reversed linked list should look like 
+
+       head &rarr; e &rarr; d &rarr; c &rarr; b &rarr; a
+
+Which one of the following statements is TRUE about the time complexity of 
+algorithms that solve the above problem in O(1) space? 
+Options:
+(A) The best algorithm for the problem takes &Theta;(n)  time in the worst case. 
+(B) The best algorithm for the problem takes &Theta;(nlog n)  time in the worst case. 
+(C) The best algorithm for the problem takes &Theta;(n<sup>2</sup>)  time in the worst case. 
+(D) It is not possible to reverse a singly linked list in O(1)  space. 
+
+Question:
+Suppose we are given n keys, m hash table slots, and two simple uniform hash 
+functions h<sub>1</sub> and h<sub>2</sub>.Further suppose our hashing scheme uses h<sub>1</sub> for the odd keys 
+and h<sub>2</sub> for the even keys. What is the expected number of keys in a slot? 
+Options:
+(A) m/n
+(B) n/m
+(C) 2n/m
+(D) n/2m
+
+Question:
+Which one of the following facilitates transfer of bulk data from hard disk to main 
+memory with the highest throughput? 
+Options:
+(A) DMA based I/O transfer 
+(B) Interrupt driven I/O transfer 
+(C) Polling based I/O transfer 
+(D) Programmed I/O transfer
+
+Question:
+Let R1 and R2 be two 4-bit registers that store numbers in 2's complement form. 
+For the operation R1 + R2, which one of the following values of R1 and R2 gives an 
+arithmetic overflow? 
+Options:
+(A) R1 = 1011 and R2 = 1110 
+(B) R1 = 1100 and R2 = 1010 
+(C) R1 = 0011 and R2 = 0100 
+(D) R1 = 1001 and R2 = 1111 
+
+Question:
+Consider the following threads, T1, T2, and T3 executing on a single processor, 
+synchronized using three binary semaphore variables, S1, S2, and S3, operated upon 
+using standard wait() and signal(). The threads can be context switched in 
+any order and at any time.  
+<code>     
+        T1               T2              T3 
+  while(true){      while(true){     while(true){ 
+      wait(S3);         wait(S1);        wait(S2); 
+      print("C");       print("B");      print("A"); 
+      signal(S2); }     signal(S3); }    signal(S1); }
+</code> 
+
+ Which initialization of the semaphores would print the sequence BCABCABCA....? 
+Options:
+(A) S1 = 1; S2 = 1; S3 = 1 
+(B) S1 = 1; S2 = 1; S3 = 0 
+(C) S1 = 1; S2 = 0; S3 = 0 
+(D) S1 = 0; S2 = 1; S3 = 1 
+
+Question:
+Consider the following two statements with respect to the matrices A<sub>m x n</sub> , B<sub>n x m</sub>,  
+C<sub>n x n</sub>  and D<sub>n x n</sub>.
+ 
+    Statement 1: tr(AB) = tr(BA) 
+    Statement 2: tr(CD) = tr(DC) 
+
+where tr() represents the trace of a matrix. Which one of the following holds? 
+Options:
+(A) Statement 1 is correct and Statement 2 is wrong. 
+(B) Statement 1 is wrong and Statement 2 is correct. 
+(C) Both Statement 1 and Statement 2 are correct. 
+(D) Both Statement 1 and Statement 2 are wrong. 
+
+Question:
+What is printed by the following ANSI C program? 
+<code>
+    #include<stdio.h> 
+    int main(int argc, char *argv[]) 
+    { 
+        int x = 1, z[2] = {10, 11}; 
+        int *p = NULL; 
+        p = &x;   
+        *p = 10; 
+        p = &z[1]; 
+        *(&z[0] + 1) += 3; 
+        printf("%d, %d, %d\n", x, z[0], z[1]); 
+        return 0; 
+   }
+</code>
+Options:
+(A) 1, 10, 11  
+(B) 1, 10, 14  
+(C) 10, 14, 11  
+(D) 10, 10, 14  
+
+Question:
+Consider an enterprise network with two Ethernet segments, a web server and a 
+firewall, connected via three routers as shown below.
+ 
+<img src="img/2022_22.png" width="100px" height="100px" />
+
+What is the number of subnets inside the enterprise network? 
+Options:
+(A) 3 
+(B) 12 
+(C) 6 
+(D) 8
+
+Question:
+Which of the following statements is/are TRUE? 
+Options:
+(A) Every subset of a recursively enumerable language is recursive. 
+(B) If a language L  and its complement <span class="above_bar">L</span>  are both recursively enumerable, then L  
+    must be recursive. 
+(C) Complement of a context-free language must be recursive. 
+(D) If L<sub>1</sub>  and L<sub>2</sub>  are regular, then L<sub>1</sub> &cap; L<sub>2</sub>  must be deterministic context-free.
+
+Question:
+Let WB and WT be two set associative cache organizations that use LRU algorithm 
+for cache block replacement. WB is a write back cache and WT is a write through 
+cache. Which of the following statements is/are FALSE?  
+Options:
+(A) Each cache block in WB and WT has a dirty bit. 
+(B) Every write hit in WB leads to a data transfer from cache to main memory. 
+(C) Eviction of a block from WT will not lead to data transfer from cache to main 
+    memory. 
+(D) A read miss in WB will never lead to eviction of a dirty block from WB. 
+
+Question:
+Consider the following three relations in a relational database. 
+    
+    Employee(<ins>eId</ins>, Name),  Brand (<ins>bId</ins>,bName),  Own(<ins>eId</ins> ,<ins>bId</ins>)  
+
+Which of the following relational algebra expressions return the set of eIds  
+who own all the brands? 
+Options:
+(A) &prod;<sub>eId</sub>(&prod;<sub>eId,bId</sub>(Own) / &prod;<sub>bId</sub>(Brand))  
+(B) &prod;<sub>eId</sub>(Own) - &prod;<sub>eId</sub>((&prod;<sub>eId</sub>(Own) X &prod;<sub>bId</sub>(Brand)) - &prod;<sub>eId,bId</sub>(Own))  
+(C) &prod;<sub>eId</sub>(&prod;<sub>eId,bId</sub>(Own) / &prod;<sub>bId</sub>(Own))  
+(D) &prod;<sub>eId</sub>((&prod;<sub>eId</sub>(Own) X &prod;<sub>bId</sub>(Own)) / &prod;<sub>bId</sub>(Brand))
+
+Question:
+Which of the following statements is/are TRUE with respect to deadlocks? 
+Options:
+(A) Circular wait is a necessary condition for the formation of deadlock.  
+(B) In a system where each resource has more than one instance, a cycle in its wait-for 
+    graph indicates the presence of a deadlock. 
+(C) If the current allocation of resources to processes leads the system to unsafe state, 
+    then deadlock will necessarily occur. 
+(D) In the resource-allocation graph of a system, if every edge is an assignment edge, 
+    then the system is not in deadlock state.
+
+Question:
+Which of the following statements is/are TRUE for a group G ?  
+Options:
+(A) If for all x, y &isin; G,  (xy)<sup>2</sup> = x<sup>2</sup>y<sup>2</sup>,   then G is commutative. 
+(B) If for all x &isin; G , x<sup>2</sup> = I, then G is commutative. Here, I is the identity element of G .  
+(C) If the order of G is 2, then G is commutative. 
+(D) If G is commutative, then a subgroup of G  need not be commutative. 
+
+Question:
+Suppose a binary search tree with 1000 distinct elements is also a complete binary 
+tree. The tree is stored using the array representation of binary heap trees. Assuming 
+that the array indices start with 0, the 3rd largest element of the tree is stored at 
+index ____ .
+
+Question:
+Consider the augmented grammar with {+, *, (, ), id} as the set of terminals. 
+
+  S' &rarr; S  
+  S &rarr; S + R | R  
+  R &rarr; R<sup>*</sup> P | P  
+  P &rarr; (S) | id  
+
+If I<sub>O</sub> is the set of two LR(O)  items {[S' &rarr; S<sub>.</sub>], [S &rarr; S<sub>.</sub> + R]}, then 
+goto(closure(I<sub>O</sub>),+)  contains exactly ____ items. 
+
+Question:
+Consider a simple undirected graph of 10 vertices. If the graph is disconnected, then 
+the maximum number of edges it can have is ____ .
+
+Question:
+Consider a relation R(A, B,C, D, E)  with the following three functional 
+dependencies. 
+
+ AB &rarr; C;   BC &rarr; D;   C &rarr; E;
+
+The number of superkeys in the relation R is ____ .
+
+Question:
+The number of arrangements of six identical balls in three identical bins is ____ .
+
+Question:
+A cache memory that has a hit rate of 0.8 has an access latency 10 ns and miss 
+penalty 100 ns. An optimization is done on the cache to reduce the miss rate. 
+However, the optimization results in an increase of cache access latency to 15 ns, 
+whereas the miss penalty is not affected. The minimum hit rate (rounded off to two 
+decimal places) needed after the optimization such that it should not increase the 
+average memory access time is ____ .
+
+Question:
+The value of the following limit is ____ . 
+    
+    lim <sub>x &rarr; 0<sup>+</sup></sub> &radic;x / (1 - e<sup>2&radic;x</sup>)
+
+Question:
+Consider the resolution of the domain name www.gate.org.in by a DNS 
+resolver. Assume that no resource records are cached anywhere across the DNS 
+servers and that iterative query mechanism is used in the resolution. The number 
+of DNS query-response pairs involved in completely resolving the domain name 
+is ____ . 
+
+Question:
+Which one of the following is the closed form for the generating function of the 
+sequence { a<sub>n</sub> }<sub>n &ge; 0</sub> defined below?
+
+              n + 1, n is odd
+         a<sub>n</sub> = 
+              1, otherwise
+Options:
+(A) x(1 + x<sup>2</sup>)/(1 - x<sup>2</sup>)<sup>2</sup> + 1/(1 - x)
+(B) x(3 - x<sup>2</sup>)/(1 - x<sup>2</sup>)<sup>2</sup> + 1/(1 - x)
+(C) 2x/(1 - x<sup>2</sup>)<sup>2</sup> + 1/(1 - x)
+(D) x/(1 - x<sup>2</sup>)<sup>2</sup> + 1/(1 - x)
+
+Question:
+Consider a simple undirected unweighted graph with at least three vertices. If A  is 
+the adjacency matrix of the graph, then the number of 3-cycles in the graph is given 
+by the trace of 
+Options:
+(A) A<sup>3</sup>  
+(B) A<sup>3</sup>  divided by 2  
+(C) A<sup>3</sup>  divided by 3  
+(D) A<sup>3</sup>  divided by 6
+
+Question:
+Which one of the following statements is FALSE? 
+Options:
+(A) The TLB performs an associative search in parallel on all its valid entries using page 
+    number of incoming virtual address. 
+(B) If the virtual address of a word given by CPU has a TLB hit, but the subsequent  
+    search for the word results in a cache miss, then the word will always be present in 
+    the main memory. 
+(C) The memory access time using a given inverted page table is always same for all 
+    incoming virtual addresses.  
+(D) In a system that uses hashed page tables, if two distinct virtual addresses V1 and V2 
+    map to the same value while hashing, then the memory access time of these 
+    addresses will not be the same. 
+
+Question:
+Let R<sub>i</sub>(z) and W<sub>i</sub>(z) denote read and write operations on a data element z by a 
+transaction T<sub>i</sub>, respectively. Consider the schedule S with four transactions. 
+
+    S: R<sub>4</sub>(x)R<sub>2</sub>(x)R<sub>3</sub>(x)R<sub>1</sub>(y)W<sub>1</sub>(y)W<sub>2</sub>(x)W<sub>3</sub>(y)R<sub>4</sub>(y)
+ 
+Which one of the following serial schedules is conflict equivalent to S?  
+Options:
+(A) T<sub>1</sub> &rarr; T<sub>3</sub> &rarr; T<sub>4</sub> &rarr; T<sub>2</sub>  
+(B) T<sub>1</sub> &rarr; T<sub>4</sub> &rarr; T<sub>3</sub> &rarr; T<sub>2</sub>  
+(C) T<sub>4</sub> &rarr; T<sub>1</sub> &rarr; T<sub>3</sub> &rarr; T<sub>2</sub>  
+(D) T<sub>3</sub> &rarr; T<sub>1</sub> &rarr; T<sub>4</sub> &rarr; T<sub>2</sub> 
+
+Question:
+Consider a digital display system (DDS) shown in the figure that displays the 
+contents of register X. A 16-bit code word is used to load a word in X, either from 
+S or from R. S is a 1024-word memory segment and R is a 32-word register file. 
+Based on the value of mode bit M, T selects an input word to load in X. P and Q 
+interface with the corresponding bits in the code word to choose the addressed word. 
+Which one of the following represents the functionality of P, Q, and T?   
+ 
+<img src="img/2022_40.png" width="100px" height="100px" />
+
+Options:
+(A) P is 10:1 multiplexer;   Q is 5:1 multiplexer; T is 2:1 multiplexer 
+(B) P is 10:2<sup>10</sup> decoder;      Q is 5:2<sup>5</sup> decoder;  T is 2:1 encoder 
+(C) P is 10:2<sup>10</sup> decoder;      Q is 5:2<sup>5</sup> decoder;  T is 2:1 multiplexer 
+(D) P is 1:10 de-multiplexer; Q is 1:5 de-multiplexer;  T is 2:1 multiplexer
+
+Question:
+Consider three floating point numbers A, B and C  stored in registers R<sub>A</sub>, R<sub>B</sub> and 
+R<sub>C</sub>, respectively as per IEEE-754 single precision floating point format. The 32-bit 
+content stored in these registers (in hexadecimal form) are as follows. 
+
+    R<sub>A</sub>= 0xC1400000 R<sub>B</sub> = 0x42100000 R<sub>C</sub> = 0x41400000 
+
+Which one of the following is FALSE? 
+Options:
+(A) A + C = 0  
+(B) C = A + B  
+(C) B = 3C  
+(D) (B - C) > 0
+
+Question:
+Consider four processes P, Q, R, and S scheduled on a CPU as per round robin 
+algorithm with a time quantum of 4 units. The processes arrive in the order P, Q, R, 
+S, all at time t = 0. There is exactly one context switch from S to Q, exactly one 
+context switch from R to Q, and exactly two context switches from Q to R. There is 
+no context switch from S to P. Switching to a ready process after the termination of 
+another process is also considered a context switch. Which one of the following is 
+NOT possible as CPU burst time (in time units) of these processes?  
+Options:
+(A) P = 4, Q = 10, R = 6, S = 2 
+(B) P = 2, Q = 9,  R = 5, S = 1 
+(C) P = 4, Q = 12, R = 5, S = 4 
+(D) P = 3, Q = 7,  R = 7, S = 3
+
+Question:
+What is printed by the following ANSI C program? 
+<code>
+    #include<stdio.h> 
+    int main(int argc, char *argv[]) 
+    { 
+      int a[3][3][3] =  
+            {{1, 2, 3, 4, 5, 6, 7, 8, 9}, 
+             {10, 11, 12, 13, 14, 15, 16, 17, 18}, 
+             {19, 20, 21, 22, 23, 24, 25, 26, 27}}; 
+      int i = 0, j = 0, k = 0; 
+      for( i = 0; i < 3; i++ ){   
+          for(k = 0; k < 3; k++ ) 
+              printf("%d ", a[i][j][k]); 
+          printf("\n"); 
+      } 
+      return 0; 
+    }
+</code> 
+Options:
+(A) 1 2 3 
+    10 11 12 
+    19 20 21 
+(B) 1 4 7 
+    10 13 16 
+    19 22 25 
+(C) 1 2 3 
+    4 5 6 
+    7 8 9 
+(D) 1 2 3 
+    13 14 15 
+    25 26 27 
+
+Question:
+What is printed by the following ANSI C program? 
+<code>
+    #include<stdio.h> 
+    int main(int argc, char *argv[]){ 
+        char a = 'P'; 
+        char b = 'x'; 
+        char c = (a & b) + '*'; 
+        char d = (a | b) - '-'; 
+        char e = (a ^ b) + '+'; 
+        printf("%c %c %c\n", c, d, e);  
+        return 0; 
+    } 
+</code>
+
+ASCII encoding for relevant characters is given below 
+
+
+       A   B   C ..... Z.   a   b   c ..... z
+       65  66  67      90   97  98  99 .....122
+
+       *    +   -
+       42  43  45
+
+Options:
+(A)  z K S 
+(B)  122 75 83  
+(C)  * - +  
+(D)  P x + 
+
+Question:
+Consider solving the following system of simultaneous equations using  
+LU decomposition. 
+ 
+    x<sub>1</sub> + x<sub>2</sub> - 2x<sub>3</sub>  = 4
+    x<sub>1</sub> + 3x<sub>2</sub> - x<sub>3</sub>  = 7  
+    2x<sub>1</sub> + x<sub>2</sub> - 5x<sub>3</sub> = 7
+
+where L  and U  are denoted as
+
+    L = [L<sub>11</sub>  0    0]
+        [L<sub>21</sub>  L<sub>22</sub>   0]
+        [L<sub>31</sub>  L<sub>32</sub>  L<sub>33</sub>]
+
+    U = [U<sub>11</sub>  U<sub>12</sub>   U<sub>13</sub>]
+        [0    U<sub>22</sub>   U<sub>23</sub>]
+        [0    0     U<sub>33</sub>]
+
+Which one of the following is the correct combination of values for L<sub>32</sub>, U<sub>33</sub>, and 
+x<sub>1</sub> ?   
+Options:
+(A) L<sub>32</sub> = 2, U<sub>33</sub> = -1/2, x<sub>1</sub> = -1
+(B) L<sub>32</sub> = 2, U<sub>33</sub> = 2, x<sub>1</sub> = -1 
+(C) L<sub>32</sub> = -1/2, U<sub>33</sub> = 2, x<sub>1</sub> = 0
+(D) L<sub>32</sub> = -1/2, U<sub>33</sub> = -1/2, x<sub>1</sub> = 0
+
+Question:
+Which of the following is/are undecidable? 
+Options:
+(A) Given two Turing machines M1 and M2, decide if L(M1) = L(M2).  
+(B) Given a Turing machine M, decide if L(M ) is regular. 
+(C) Given a Turing machine M, decide if M accepts all strings. 
+(D) Given a Turing machine M, decide if M takes more than 1073 steps on every 
+    string.
+ 
+Question:
+Consider the following languages: 
+
+    L1 = {a<sup>n</sup>wa<sup>n</sup> | w &isin; {a, b}<sup>*</sup>}   
+    L2 = {wxw<sup>R</sup> | w, x &isin; {a,b}<sup>*</sup>,|w|,|x| > 0} 
+
+Note that w<sup>R</sup> is the reversal of the string w.Which of the following is/are TRUE? 
+Options:
+(A) L1 and L2 are regular. 
+(B) L1 and L2 are context-free. 
+(C) L1 is regular and L2 is context-free. 
+(D) L1 and L2 are context-free but not regular.
+
+Question:
+Consider the following languages: 
+
+    L1 = {ww|w &isin; {a,b}<sup>*</sup>} 
+    L2 = {a<sup>n</sup>b<sup>n</sup>c<sup>m</sup>| m,n &ge; 0}  
+    L3 = {a<sup>m</sup>b<sup>n</sup>c<sup>n</sup>| m,n &ge; 0}  
+
+Which of the following statements is/are FALSE? 
+Options:
+(A) L1 is not context-free but L2 and L3 are deterministic context-free. 
+(B) Neither L1  nor L2  is context-free. 
+(C) L2, L3  and L2 &cap; L3  all are context-free. 
+(D) Neither L1 nor its complement is context-free.
+
+Question:
+Consider a simple undirected weighted graph G,  all of whose edge weights are 
+distinct. Which of the following statements about the minimum  spanning trees of 
+G  is/are TRUE? 
+Options:
+(A) The edge with the second smallest weight is always part of any minimum spanning 
+    tree of G . 
+(B) One or both of the edges with the third smallest and the fourth smallest weights are 
+    part of any minimum spanning tree of G . 
+(C) Suppose S &sube; V  be such that S &ne; &Phi;  and S &ne; V . Consider the edge with the minimum 
+    weight such that one of its vertices is in S  and the other in V \ S . Such an edge will 
+    always be part of any minimum spanning tree of G . 
+(D) G  can have multiple minimum spanning trees.
+
+Question:
+The following simple undirected graph is referred to as the Peterson graph. 
+
+    <img src="img/2022_50_1.png" width="100px" height="100px" />
+
+Which of the following statements is/are TRUE? 
+Options:
+(A) The chromatic number of the graph is 3. 
+(B) The graph has a Hamiltonian path. 
+(C) The following graph is isomorphic to the Peterson graph. 
+         <img src="img/2022_50_2.png" width="100px" height="100px" />
+(D) The size of the largest independent set of the given graph is 3. (A subset of vertices 
+    of a graph form an independent set if no two vertices of the subset are adjacent.) 
+
+Question:
+Consider the following recurrence: 
+ 
+    f(1)      = 1;
+    f(2n)     = 2f(n) - 1, for n &ge; 1;  
+    f(2n - 1) = 2f(n) + 1, for n &ge; 1.
+
+Then, which of the following statements is/are TRUE? 
+Options:
+(A) f(2<sup>n</sup> - 1) = 2<sup>n</sup> - 1  
+(B) f(2<sup>n</sup>) = 1 
+(C) f(5 . 2<sup>n</sup>) = 2<sup>n + 1</sup> + 1  
+(D) f(2<sup>n</sup> + 1) = 2<sup>n</sup> + 1 
+
+Question:
+Which of the properties hold for the adjacency matrix A of a simple undirected 
+unweighted graph having n vertices? 
+Options:
+(A) The diagonal entries of A<sup>2</sup> are the degrees of the vertices of the graph. 
+(B) If the graph is connected, then none of the entries of A<sup>n - 1</sup> + I<sub>n</sub>  can be zero. 
+(C) If the sum of all the elements of A  is at most 2(n - 1),  then the graph must be 
+    acyclic.  
+(D) If there is at least a 1 in each of A's rows and columns, then the graph must be 
+    connected. 
+
+Question:
+Which of the following is/are the eigenvector(s) for the matrix given below? 
+
+    [-9   -6   -2   -4]
+    [-8   -6   -3   -1]
+    [20   15    8    5]
+    [32   21    7   12]
+
+Options:
+(A) [ -1 ]
+    [  1 ]
+    [  0 ]
+    [  1 ]
+(B) [  1 ]
+    [  0 ]
+    [ -1 ]
+    [  0 ]
+(C) [ -1 ]
+    [  0 ]
+    [  2 ]
+    [  2 ]
+(D) [  0 ]
+    [  1 ]
+    [ -3 ]
+    [  0 ]
+
+Question:
+Consider a system with 2 KB direct mapped data cache with a block size of 64 bytes. 
+The system has a physical address space of 64 KB and a word length of 16 bits. 
+During the execution of a program, four data words P, Q, R, and S are accessed in 
+that order 10 times (i.e., PQRSPQRS...). Hence, there are 40 accesses to data cache 
+altogether. Assume that the data cache is initially empty and no other data words are 
+accessed by the program. The addresses of the first bytes of P, Q, R, and S are 
+0xA248, 0xC28A, 0xCA8A, and 0xA262, respectively. For the execution of the 
+above program, which of the following statements is/are TRUE with respect to the 
+data cache? 
+Options:
+(A) Every access to S is a hit. 
+(B) Once P is brought to the cache it is never evicted. 
+(C) At the end of the execution only R and S reside in the cache. 
+(D) Every access to R evicts Q from the cache.
+
+Question:
+Consider routing table of an organization's router shown below:  
+ 
+    Subnet Number   Subnet Mask     Next Hop 
+    12.20.164.0     255.255.252.0   R1 
+    12.20.170.0     255.255.254.0   R2 
+    12.20.168.0     255.255.254.0   Interface 0 
+    12.20.166.0     255.255.254.0   Interface 1 
+    default                         R3 
+
+Which of the following prefixes in CIDR notation can be collectively used to  
+correctly aggregate all of the subnets in the routing table? 
+Options:
+(A) 12.20.164.0/20 
+(B) 12.20.164.0/22 
+(C) 12.20.164.0/21 
+(D) 12.20.168.0/22 
+
+Question:
+Consider the relational database with the following four schemas and their 
+respective instances.
+  
+    Student(<ins>sNo</ins>, sName, dNo) Dept(<ins>dNo</ins>, dName)  
+    Course(<ins>cNo</ins>, cName, dNo) Register(<ins>sNo</ins>, <ins>cNo</ins>) 
+
+   <img src="img/2022_56.png" width="100px" height="100px" /> 
+
+SQL Query: 
+
+SELECT * FROM Student AS S WHERE NOT EXIST 
+ (SELECT cNo FROM Course WHERE dNo = "D01"  
+ EXCEPT  
+  SELECT cNo FROM Register WHERE sNo = S.sNo) 
+
+The number of rows returned by the above SQL query is ____ . 
+
+Question:
+Consider a network with three routers P, Q, R shown in the figure below. All the 
+links have cost of unity. 
+
+         P--Q--R 
+
+The routers exchange distance vector routing information and have converged on 
+the routing tables, after which the link Q-R fails. Assume that P and Q send out 
+routing updates at random times, each at the same average rate. The probability of 
+a routing loop formation (rounded off to one decimal place) between P and Q, 
+leading to count-to-infinity problem, is ____ . 
+
+Question:
+Let G(V , E)  be a directed graph, where V = {1, 2,3, 4, 5}  is the set of vertices and  
+E is the set of directed edges, as defined by the following adjacency matrix A.  
+
+                  1, 1 &le; j &le; i &le; 5
+       A[i][j] =  
+                  0, otherwise
+
+A[i][j] = 1 indicates a directed edge from node i to node j. A directed spanning 
+tree of G,  rooted at r &isin; V, is defined as a subgraph T of G such that the undirected 
+version of T is a tree, and T contains a directed path from r to every other vertex 
+in V.  The number of such directed spanning trees rooted at vertex 5 
+is ____ . 
+
+Question:
+Consider a 100 Mbps link between an earth station (sender) and a satellite (receiver) 
+at an altitude of 2100 km. The signal propagates at a speed of 3 x 10<sup>8</sup> m/s. The time 
+taken (in milliseconds, rounded off to two decimal places) for the receiver to 
+completely receive a packet of 1000 bytes transmitted by the sender is ____ .
+
+Question:
+Consider the data transfer using TCP over a 1 Gbps link. Assuming that the 
+maximum segment lifetime (MSL) is set to 60 seconds, the minimum number of 
+bits required for the sequence number field of the TCP header, to prevent the 
+sequence number space from wrapping around during the MSL  is ____ . 
+
+Question:
+QA processor X1 operating at 2 GHz has a standard 5-stage RISC instruction pipeline 
+having a base CPI (cycles per instruction) of one without any pipeline hazards.  
+For a given program P that has 30% branch instructions, control hazards incur 2 
+cycles stall for every branch. A new version of the processor X2 operating at same 
+clock frequency has an additional branch predictor unit (BPU) that completely 
+eliminates stalls for correctly predicted branches. There is neither any savings nor 
+any additional stalls for wrong predictions. There are no structural hazards and data 
+hazards for X1 and X2. If the BPU has a prediction accuracy of 80%, the speed up 
+(rounded off to two decimal places) obtained by X2 over X1 in executing  
+P is ____ .
+
+Question:
+Consider the queues Q1  containing four elements and Q2  containing none (shown 
+as the Initial State in the figure). The only operations allowed on these two queues 
+are Enqueue(Q,element) and Dequeue(Q). The minimum number of 
+Enqueue operations on Q1  required to place the elements of Q1  in Q2  in reverse 
+order (shown as the Final State in the figure) without using any additional storage 
+is ____ .
+
+<img src="img/2022_62.png" width="100px" height="100px" /> 
+
+Question:
+Consider two files systems A and B, that use contiguous allocation and linked 
+allocation, respectively. A file of size 100 blocks is already stored in A and also in 
+B. Now, consider inserting a new block in the middle of the file (between 50<sup>th</sup> and 
+51<sup>st</sup> block), whose data is already available in the memory. Assume that there are 
+enough free blocks at the end of the file and that the file control blocks are already 
+in memory. Let the number of disk accesses required to insert a block in the middle 
+of the file in A  and  B  are  n<sub>A</sub> and n<sub>B</sub>,  respectively, then the value of  
+n<sub>A</sub> + n<sub>B</sub>  is ____ .
+
+Question:
+Consider a demand paging system with four page frames (initially empty) and LRU 
+page replacement policy. For the following page reference string
+
+     7, 2, 7, 3, 2, 5, 3, 4, 6, 7, 7, 1, 5, 6, 1
+
+the page fault rate, defined as the ratio of number of page faults to the number of 
+memory accesses (rounded off to one decimal place) is ____ .  
+
+Question:
+Consider the following grammar along with translation rules.
+
+    S &rarr; S<sub>1</sub>  # T   {S<sub>.val</sub> = S<sub>1.val</sub> *T<sub>.val</sub>}  
+    S &rarr; T         {S<sub>.val</sub> = T<sub>.val</sub>}  
+    T &rarr; T<sub>1</sub>%R      {T<sub>.val</sub> = S<sub>.val</sub> % R<sub>.val</sub>}  
+    T &rarr; R         {T<sub>.val</sub> = R<sub>.val</sub>}  
+    R &rarr; id        {R<sub>.val</sub> = id<sub>.val</sub>}
+  
+Here #  and %  are operators and id is a token that represents an integer and id.val  
+represents the corresponding integer value. The set of non-terminals is {S ,T , R, P}  
+and a subscripted non-terminal indicates an instance of the non-terminal. 
+Using this translation scheme, the computed value of S.val for root of the parse tree 
+for the expression 20#10%5#8%2%2  is ____ .

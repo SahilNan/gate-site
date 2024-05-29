@@ -1,0 +1,969 @@
+Question:
+Gauri said that she can play the keyboard ____ her sister.
+Options:
+(A) as well as
+(B) as better as
+(C) as nicest as
+(D) as worse as
+Category:
+GeneralAptitude
+
+Question:
+<img src="img/2021_2_2.png" width="100px" height="100px" />
+A transparent square sheet shown above is folded along the dotted line. The folded
+sheet will look like ____ .
+Options:
+(A) <img src="img/2021_2_2_1.png" width="100px" height="100px" />
+(B) <img src="img/2021_2_2_2.png" width="100px" height="100px" />
+(C) <img src="img/2021_2_2_3.png" width="100px" height="100px" />
+(D) <img src="img/2021_2_2_4.png" width="100px" height="100px" />
+Category:
+GeneralAptitude
+
+Question:
+If &theta; is the angle, in degrees, between the longest diagonal of the cube and any
+one of the edges of the cube, then, cos &theta; =
+Options:
+(A) 1/2
+(B) 1/&radic;3
+(C) 1/&radic;2
+(D) &radic;3/2
+Category:
+GeneralAptitude
+
+Question:
+If (x - 1/2)<sup>2</sup> - (x - 3/2)<sup>2</sup> = x + 2, then the value of x is
+Options:
+(A) 2
+(B) 4
+(C) 6
+(D) 8
+Category:
+GeneralAptitude
+
+Question:
+Pen : Write :: Knife : ____
+
+Which one of the following options maintains a similar logical relation in the
+above?
+Options:
+(A) Vegetables
+(B) Sharp
+(C) Cut
+(D) Blunt
+Category:
+GeneralAptitude
+
+Question:
+Listening to music during exercise improves exercise performance and reduces
+discomfort. Scientists researched whether listening to music while studying can
+help students learn better and the results were inconclusive. Students who needed
+external stimulation for studying fared worse while students who did not need
+any external stimulation benefited from music.
+
+Which one of the following statements is the CORRECT inference of the above
+passage?
+Options:
+(A) Listening to music has no effect on learning and a positive effect on physical
+    exercise.
+(B) Listening to music has a clear positive effect both on physical exercise and on
+    learning.
+(C) Listening to music has a clear positive effect on physical exercise. Music has a
+    positive effect on learning only in some students.
+(D) Listening to music has a clear positive effect on learning in all students. Music
+    has a positive effect only in some students who exercise.
+Category:
+GeneralAptitude
+
+Question:
+<img src="img/2021_2_7.png" width="100px" height="100px" />
+
+A jigsaw puzzle has 2 pieces. One of the pieces is shown above. Which one of
+the given options for the missing piece when assembled will form a rectangle?
+The piece can be moved, rotated or flipped to assemble with the above piece.
+Options:
+(A) <img src="img/2021_2_7_1.png" width="100px" height="100px" />
+(B) <img src="img/2021_2_7_2.png" width="100px" height="100px" />
+(C) <img src="img/2021_2_7_3.png" width="100px" height="100px" />
+(D) <img src="img/2021_2_7_4.png" width="100px" height="100px" />
+Category:
+GeneralAptitude
+
+Question:
+The number of students in three classes is in the ratio 3:13:6. If 18 students are
+added to each class, the ratio changes to 15:35:21.
+
+The total number of students in all the three classes in the beginning was:
+Options:
+(A) 22
+(B) 66
+(C) 88
+(D) 110
+Category:
+GeneralAptitude
+
+Question:
+<img src="img/2021_2_9.png" width="100px" height="100px" />
+
+The number of units of a product sold in three different years and the respective
+net profits are presented in the figure above. The cost/unit in Year 3 was 1, which
+was half the cost/unit in Year 2. The cost/unit in Year 3 was one-third of the
+cost/unit in Year 1. Taxes were paid on the selling price at 10%, 13% and 15%
+respectively for the three years. Net profit is calculated as the difference between
+the selling price and the sum of cost and taxes paid in that year.
+The ratio of the selling price in Year 2 to the selling price in Year 3 is ____
+Options:
+(A) 4:3
+(B) 1:1
+(C) 3:4
+(D) 1:2
+Category:
+GeneralAptitude
+
+Question:
+Six students P, Q, R, S, T and U, with distinct heights, compare their heights
+and make the following observations.
+
+Observation I: S is taller than R.
+Observation II: Q is the shortest of all.
+Observation III: U is taller than only one student.
+Observation IV: T is taller than S but is not the tallest.
+
+The number of students that are taller than R is the same as the number of
+students shorter than ____
+Options:
+(A) T
+(B) R
+(C) S
+(D) P
+Category:
+GeneralAptitude
+
+Question:
+Let G be a connected undirected weighted graph. Consider the following two state-
+ments.
+
+S1: There exists a minimum weight edge in G which is present in every
+    minimum spanning tree of G.
+S2: If every edge in G has distinct weight, then G has a unique minimum
+    spanning tree.
+
+Which one of the following options is correct?
+Options:
+(A) Both S; and 5S are true.
+(B) S1 is true and S2 is false.
+(C) S1 is false and S2 is true.
+(D) Both S1 and S2 are false.
+
+
+Question:
+Let H be a binary min-heap consisting of n elements implemented as an array. What
+is the worst case time complexity of an optimal algorithm to find the maximum
+element in H?
+Options:
+(A) &Theta;(1)
+(B) &Theta;(log n)
+(C) &Theta;(n)
+(D) &Theta;(nlog n)
+
+
+Question:
+Consider the following ANSI C program:
+
+int main() {
+    Integer x;
+    return 0;
+}
+Which one of the following phases in a seven-phase C compiler will throw an error?
+Options:
+(A) Lexical analyzer
+(B) Syntax analyzer
+(C) Semantic analyzer
+(D) Machine dependent optimizer
+
+
+Question:
+The format of the single-precision floating-point representation of a real number as
+per the IEEE 754 standard is as follows:
+
+sign | exponent | mantissa |
+
+Which one of the following choices is correct with respect to the smallest normalized
+positive number represented using the standard?
+Options:
+(A) exponent = 00000000 and mantissa = 00000000000000000000000
+(B) exponent = 00000000 and mantissa = 00000000000000000000001
+(C) exponent = 00000001 and mantissa = 00000000000000000000000
+(D) exponent = 00000001 and mantissa = 00000000000000000000001
+Category:
+DigitalLogic
+
+Question:
+Which one of the following circuits implements the Boolean function given below?
+
+f(x, y, z) = m<sub>0</sub> + m<sub>1</sub> + m<sub>3</sub> + m<sub>4</sub> + m<sub>5</sub> + m<sub>6</sub>, where m<sub>i</sub> is the i<sup>th</sup> minterm.
+Options:
+(A) <img src="img/2021_2_5_1.png" width="100px" height="100px" />
+(B) <img src="img/2021_2_5_2.png" width="100px" height="100px" />
+(C) <img src="img/2021_2_5_3.png" width="100px" height="100px" />
+(D) <img src="img/2021_2_5_4.png" width="100px" height="100px" />
+Category:
+DigitalLogic
+
+Question:
+Consider the following statements S1 and S2 about the relational data model:
+
+S1: A relation scheme can have at most one foreign key.
+S2: A foreign key in a relation scheme R cannot be used to refer to tuples of R.
+
+Which one of the following choices is correct?
+Options:
+(A) Both S1 and S2 are true.
+(B) S1 is true and S2 is false.
+(C) S1 is false and S2 is true.
+(D) Both S1 and S2 are false.
+
+
+Question:
+Consider the three-way handshake mechanism followed during TCP connection es-
+tablishment between hosts P and Q. Let X and Y be two random 32-bit starting
+sequence numbers chosen by P and Q respectively. Suppose P sends a TCP connec-
+tion request message to Q with a TCP segment having SYN bit = 1, SEQ number
+= X, and ACK bit = 0. Suppose Q accepts the connection request. Which one of
+the following choices represents the information present in the TCP segment header
+that is sent by Q to P?
+Options:
+(A) SYN bit = 1, SEQ number = X+1, ACK bit = 0, ACK number = Y, FIN bit = 0
+(B) SYN bit = 0, SEQ number = X+1, ACK bit = 0, ACK number = Y, FIN bit = 1
+(C) SYN bit = 1, SEQ number = Y, ACK bit = 1, ACK number = X+1, FIN bit = 0
+(D) SYN bit = 1, SEQ number = Y, ACK bit = 1, ACK number = X, FIN bit = 0
+
+
+Question:
+What is the worst-case number of arithmetic operations performed by recursive
+binary search on a sorted array of size n?
+Options:
+(A) &Theta;(&radic;n)
+(B) &Theta;(log<sub>n</sub> (n))
+(C) &Theta;(n<sup>2</sup>)
+(D) &Theta;(n)
+Category:
+Algorithms
+
+Question:
+Let L &sube; {0,1}<sup>*</sup> be an arbitrary regular language accepted by a minimal DFA with
+k states. Which one of the following languages must necessarily be accepted by a
+minimal DFA with k states?
+Options:
+(A) L - {01}
+(B) L &cup; {01}
+(C) {0,1}<sup>*</sup> - L
+(D) L . L
+
+
+Question:
+Consider the following ANSI C program.
+<code>
+#include < stdio.h >
+int main(){
+    int arr[4] [5];
+    int i, j;
+    for (i=0; i < 4; i++){
+        for (j=0; j < 5; j++){
+            arr[i][j] = 10*i + j;
+        }
+     }
+    printf("%d", *(arr[1] + 9));
+    return 0;
+}
+</code>
+What is the output of the above program?
+Options:
+(A) 14
+(B) 20
+(C) 24
+(D) 30
+
+
+Question:
+Consider the following sets, where n &ge; 2:
+
+S1: Set of all n x n matrices with entries from the set {a, b, c}
+S2: Set of all functions from the set {0,1,2,...,n<sup>2</sup> - 1} to the set {0, 1, 2}
+
+Which of the following choice(s) is/are correct?
+Options:
+(A) There does not exist a bijection from S1 to S2.
+(B) There exists a surjection from S1 to S2.
+(C) There exists a bijection from S1 to S2.
+(D) There does not exist an injection from S1 to S2.
+
+
+Question:
+Let L1 be a regular language and L2 be a context-free language. Which of the
+following languages is/are context-free?
+Options:
+(A) L1 &cap; <span class="above_bar">L2</span>
+(B) <span class="above_bar"><span class="above_bar">L1</span> &cup; <span class="above_bar">L2</span></span>
+(C) L1 &cup; (L2 &cup; <span class="above_bar">L2</span>)
+(D) (L1 &cap; L2) &cup; (<span class="above_bar">L1</span> &cap; L2)
+
+
+Question:
+In the context of compilers, which of the following is/are NOT an intermediate
+representation of the source program?
+Options:
+(A) Three address code
+(B) Abstract Syntax Tree (AST)
+(C) Control Flow Graph (CFG)
+(D) Symbol table
+
+
+Question:
+Which of the following statement(s) is/are correct in the context of CPU scheduling?
+Options:
+(A) Turnaround time includes waiting time.
+(B) The goal is only maximize CPU utilization and minimize throughput.
+(C) Round-robin policy can be used even when the CPU time required by each of the
+    processes is not known apriori.
+(D) Implementing preemptive scheduling needs hardware support.
+
+
+Question:
+Choose the correct choice(s) regarding the following propositional logic assertion
+S:
+
+S:((P &and; Q) &rarr; R) &rarr; ((P &and; Q) &rarr; (Q &rarr; R))
+Options:
+(A) S is neither a tautology nor a contradiction.
+(B) S is a tautology.
+(C) S is a contradiction.
+(D) The antecedent of S is logically equivalent to the consequent of S.
+
+
+Question:
+Consider a complete binary tree with 7 nodes. Let A denote the set of first 3
+elements obtained by performing Breadth-First Search (BFS) starting from the
+root. Let B denote the set of first 3 elements obtained by performing Depth-First
+Search (DFS) starting from the root.
+The value of |A - B| is ____
+
+
+Question:
+Consider the following deterministic finite automaton (DFA).
+
+<img src="img/2021_2_17.png" width="100px" height="100px" />
+
+The number of strings of length 8 accepted by the above automaton is ____
+
+
+Question:
+If x and y are two decimal digits and (0.1101)<sub>2</sub> = (0.8xy5)<sub>10</sub>, the decimal value of
+x + y is  ____
+
+
+Question:
+Consider a set-associative cache of size 2KB (1KB = 2<sup>10</sup> bytes) with cache block
+size of 64 bytes. Assume that the cache is byte-addressable and a 32-bit address is
+used for accessing the cache. If the width of the tag field is 22 bits, the associativity
+of the cache is ____
+
+
+Question:
+Consider a computer system with DMA support. The DMA module is transferring
+one 8-bit character in one CPU cycle from a device to memory through cycle stealing
+at regular intervals. Consider a 2 MHz processor. If 0.5% processor cycles are used
+for DMA, the data transfer rate of the device is ____ bits per second.
+
+
+Question:
+A data file consisting of 1,50,000 student-records is stored on a hard disk with block
+size of 4096 bytes. The data file is sorted on the primary key Rol1No. The size of
+a record pointer for this disk is 7 bytes. Each student-record has a candidate key
+attribute called ANum of size 12 bytes. Suppose an index file with records consisting
+of two fields, ANum value and the record pointer to the corresponding student record,
+is built and stored on the same disk. Assume that the records of data file and index
+file are not split across disk blocks. The number of blocks in the index file is 
+____
+
+
+Question:
+For a given biased coin, the probability that the outcome of a toss is a head is 0.4.
+This coin is tossed 1,000 times. Let X denote the random variable whose value
+is the number of times that head appeared in these 1,000 tosses. The standard
+deviation of X (rounded to 2 decimal places) is ____
+
+
+Question:
+Consider the following ANSI C function:
+
+int SomeFunction(int x, int y)
+{
+    if ((x == 1) || (y == 1)) return 1;
+    if (x == y) return x;
+    if (x > y) return SomeFunction(x - y, y);
+    if (y > x) return SomeFunction(x, y - x);
+}
+
+The value returned by SomeFunction(15, 255) is ____
+
+
+Question:
+Suppose that P is a 4 x 5 matrix such that every solution of the equation Px = 0
+is a scalar multiple of [2 5 4 3 1]<sup>T</sup>. The rank of P is ____
+Category:
+EngineeringMathematics
+
+Question:
+Suppose that f: R &rarr; R is a continuous function on the interval [-3, 3] and
+a differentiable function in the interval (-3, 3) such that for every x in the
+interval, f'(x) &le; 2. If f(-3) = 7, then f(3) is at most ____
+
+
+Question:
+Consider the string abbccddeee. Each letter in the string must be assigned a
+binary code satisfying the following properties:
+
+1. For any two letters, the code assigned to one letter must not be a prefix of the
+   code assigned to the other letter.
+2. For any two letters of the same frequency, the letter which occurs earlier in the
+   dictionary order is assigned a code whose length is at most the length of the
+   code assigned to the other letter.
+
+Among the set of all binary code assignments which satisfy the above two properties,
+what is the minimum length of the encoded string?
+Options:
+(A) 21
+(B) 23
+(C) 25
+(D) 30
+
+
+Question:
+Assume a two-level inclusive cache hierarchy, L1 and L2, where L2 is the larger of
+the two. Consider the following statements.
+
+S1: Read misses in a write through L1 cache do not result in writebacks
+    of dirty lines to the L2.
+S2: Write allocate policy must be used in conjunction with write
+    through caches and no-write allocate policy is used with writeback
+    caches.
+
+Which of the following statements is correct?
+Options:
+(A) S1 is true and S2 is false
+(B) S1 is false and S2 is true
+(C) S1 is true and S2 is true
+(D) S1 is false and S2 is false
+
+
+Question:
+Suppose we want to design a synchronous circuit that processes a string of 0's
+and 1's. Given a string, it produces another string by replacing the first 1 in any
+subsequence of consecutive 1's by a 0. Consider the following example.
+
+Input sequence:  00100011000011100
+Output sequence: 00000001000001100
+
+A Mealy Machine is a state machine where both the next state and the output are
+functions of the present state and the current input.
+The above mentioned circuit can be designed as a two-state Mealy machine. The
+states in the Mealy machine can be represented using Boolean values 0 and 1. We
+denote the current state, the next state, the next incoming bit, and the output bit
+of the Mealy machine by the variables s, t, b and y respectively.
+Assume the initial state of the Mealy machine is 0.
+
+What are the Boolean expressions corresponding to t and y in terms of s and b?
+Options:
+(A) t = s + b
+    y = sb
+(B) t = b
+    y = sb
+(C) t = b
+    y = s<span class="above_bar">b</span>
+(D) t = s + b
+    y = s<span class="above_bar">b</span>
+
+
+Question:
+In an examination, a student can choose the order in which two questions (QuesA
+and QuesB) must be attempted.
+
+- If the first question is answered wrong, the student gets zero marks.
+- If the first question is answered correctly and the second question is not answered
+  correctly, the student gets the marks only for the first question.
+- If both the questions are answered correctly, the student gets the sum of the
+  marks of the two questions.
+
+The following table shows the probability of correctly answering a question and the
+marks of the question respectively.
+
+question | probability of answering correctly | marks
+QuesA    | 0.8                                | 10      
+QuesB    | 0,5                                | 20
+
+Assuming that the student always wants to maximize her expected marks in the
+examination, in which order should she attempt the questions and what is the
+expected marks for that order (assume that the questions are independent)?
+Options:
+(A) First QuesA and then QuesB. Expected marks 14.
+(B) First QuesB and then QuesA. Expected marks 14.
+(C) First QuesB and then QuesA. Expected marks 22.
+(D) First QuesA and then QuesB. Expected marks 16.
+
+
+Question:
+Consider the following ANSI C code segment:
+
+z = x + 3 + y->f1 + y->f2;
+for (i = 0; i < 200; i = i + 2){
+    if (z > i){
+        p = p + x + 3;
+        q = q + y->f1;
+    } else {
+        p = p + y->f2;
+        q = q + x + 3;
+    }
+}
+
+Assume that the variable y points to a struct (allocated on the heap) containing
+two fields f1 and f2, and the local variables x, y, z, p, q, and i are allotted
+registers. Common sub-expression elimination (CSE) optimization is applied on
+the code. The number of addition and dereference operations (of the form y->f1
+or y->f2 ) in the optimized code, respectively, are:
+Options:
+(A) 403 and 102
+(B) 203 and 2
+(C) 303 and 102
+(D) 303 and 2
+
+
+Question:
+The relation scheme given below is used to store information about the employees of
+a company, where empId is the key and deptId indicates the department to which
+the employee is assigned. Each employee is assigned to exactly one department.
+
+emp(empId, name, gender, salary, deptId)
+
+Consider the following SQL query:
+
+select deptId, count(*)
+from emp
+where gender = "female" and salary > (select avg(salary) from emp)
+group by deptId;
+
+The above query gives, for each department in the company, the number of
+female employees whose salary is greater than the average salary of
+Options:
+(A) employees in the department.
+(B) employees in the company.
+(C) female employees in the department.
+(D) female employees in the company.
+Category:
+Databases
+
+Question:
+Let S be the following schedule of operations of three transactions T1, T2 and T3
+in a relational database system:
+
+R2(Y), R1(X), R3(Z), R1(Y), W1(X), R2(Z), W2(Y), R3(X), W3(Z)
+Consider the statements P and Q below:
+
+P: S is conflict-serializable.
+Q: If T3 commits before T1 finishes, then S is recoverable.
+
+Which one of the following choices is correct?
+Options:
+(A) Both P and Q are true.
+(B) P is true and Q is false.
+(C) P is false and Q is true.
+(D) Both P and Q are false.
+
+
+Question:
+A bag has r red balls and b black balls. All balls are identical except for their
+colours. In a trial, a ball is randomly drawn from the bag, its colour is noted and
+the ball is placed back into the bag along with another ball of the same colour.
+Note that the number of balls in the bag will increase by one, after the trial. A
+sequence of four such trials is conducted. Which one of the following choices gives
+the probability of drawing a red ball in the fourth trial?
+Options:
+(A) r/(r + b)
+(B) r/(r + b + 3)
+(C) (r + 3)/(r + b + 3)
+(D) (r/(r + b))((r + 1)/(r + b + 1))((r + 2)/(r + b + 2))((r + 3)/(r + b + 3))
+
+
+Question:
+Consider the cyclic redundancy check (CRC) based error detecting scheme having
+the generator polynomial X<sup>3</sup> + X + 1, Suppose the message m<sub>4</sub>m<sub>3</sub>m<sub>2</sub>m<sub>1</sub>m<sub>0</sub> = 11000
+is to be transmitted. Check bits c<sub>2</sub>c<sub>1</sub>c<sub>0</sub> are appended at the end of the message by
+the transmitter using the above CRC scheme. The transmitted bit string is denoted
+by m<sub>4</sub>m<sub>3</sub>m<sub>2</sub>m<sub>1</sub>m<sub>0</sub>c<sub>2</sub>c<sub>1</sub>c<sub>0</sub>. The value of the checkbit sequence c<sub>2</sub>c<sub>1</sub>c<sub>0</sub> is
+Options:
+(A) 101
+(B) 110
+(C) 100
+(D) 111
+
+
+Question:
+Consider the following ANSI C program:
+
+<code>
+#include < stdio.h >
+#include < stdlib.h >
+struct Node{
+    int value;
+    struct Node *next;};
+int main(){
+    struct Node *boxE, *head, *boxN; int index = 0;
+    boxE = head = (struct Node *) malloc(sizeof (struct Node));
+    head->value = index;
+    for (index = 1; index <= 3; index++){
+        boxN = (struct Node *) malloc(sizeof(struct Node));
+        boxE->next = boxN;
+        boxN->value = index;
+        boxE = boxN; }
+    for (index = 0; index <= 3; indext+) {
+        printf("Value at index %d is %d\n", index, head->value) ;
+        head = head->next;
+        printf("Value at index %d is %d\n", indext+i, head->value); } }
+</code>
+
+Which one of the statements below is correct about the program?
+Options:
+(A) Upon execution, the program creates a linked-list of five nodes.
+(B) Upon execution, the program goes into an infinite loop.
+(C) It has a missing return which will be reported as an error by the compiler.
+(D) It dereferences an uninitialized pointer that may result in a run-time error.
+
+
+Question:
+Consider the following two statements about regular languages:
+
+S1: Every infinite regular language contains an undecidable language as a subset.
+S2: Every finite language is regular.
+
+Which one of the following choices is correct?
+Options:
+(A) Only S1 is true.
+(B) Only S2 is true.
+(C) Both S1 and S1 are true.
+(D) Neither S1 nor S2 is true.
+
+
+Question:
+For two n-dimensional real vectors P and Q, the operation s(P,Q) is defined as
+follows:
+
+s(P,Q) = &sum;<sup>n</sup><sub>i=1</sub>(P[i] . Q[i])
+
+Let L be a set of 10-dimensional non-zero real vectors such that for every pair of
+distinct vectors P,Q &isin; L, s(P,Q) = 0. What is the maximum cardinality possible
+for the set L?
+Options:
+(A) 9
+(B) 10
+(C) 11
+(D) 100
+
+
+Question:
+For a statement S in a program, in the context of liveness analysis, the following
+sets are defined:
+
+USE(S) : the set of variables used in S
+IN(S) : the set of variables that are live at the entry of S
+OUT(S) : the set of variables that are live at the exit of S
+
+Consider a basic block that consists of two statements, S1 followed by S2.
+Which one of the following statements is correct?
+Options:
+(A) OUT(S1) = IN(S2)
+(B) OUT(S1) = IN(S1) &cup; USE(S1)
+(C) OUT(S1) = IN(S2) &cup; OUT(S2)
+(D) OUT(S1) = USE(S1) &cup; IN(S2)
+
+
+Question:
+For constants a &ge; 1 and b > 1, consider the following recurrence defined on the
+non-negative integers:
+
+T(n) = a . T(n/b) + f(n)
+
+Which one of the following options is correct about the recurrence T(n)?
+Options:
+(A) If f(n) is nlog<sub>2</sub>(n), then T(n) is &Theta;(nlog<sub>2</sub>(n)).
+(B) If f(n) is n/log<sub>2</sub>(n) then T(n) is &Theta;(log<sub>2</sub>(n)).
+(C) If f(n) is O(n<sup>log<sub>b</sub>(a) - &epsilon;</sup>) for some &epsilon; > 0, then T(n) is 
+    &Theta;(n<sup>log<sub>b</sub>(a)</sup>).
+(D) If f(n) is O(n<sup>log<sub>b</sub>(a)</sup>), then T(n) is Q(n<sup>log<sub>b</sub>(a)</sup>).
+
+
+Question:
+Suppose the following functional dependencies hold on a relation U with attributes
+P,Q, R, S, and T:
+
+P &rarr; QR
+RS &rarr; T
+
+Which of the following functional dependencies can be inferred from the above
+functional dependencies?
+Options:
+(A) PS &rarr; T
+(B) R &rarr; T
+(C) P &rarr; R
+(D) PS &rarr; Q
+
+
+Question:
+For a string w, we define w<sup>R</sup> to be the reverse of w. For example, if w = 01101
+then w<sup>R</sup> = 10110.
+Which of the following languages is/are context-free?
+dt
+Options:
+(A) {wxw<sup>R</sup>x<sup>R</sup> | w, x &isin; {0,1}<sup>*</sup>}
+(B) {ww<sup>R</sup>xx<sup>R</sup> | w, x &isin; {0,1}<sup>*</sup>}
+(C) {wxw<sup>R</sup>  | w, x &isin; {0,1}<sup>*</sup>}
+(D) {wxx<sup>R</sup>w<sup>R</sup> | w, x &isin; {0,1}<sup>*</sup>}
+
+
+Question:
+Consider the following multi-threaded code segment (in a mix of C and pseudo-
+code), invoked by two processes P1 and P2, and each of the processes spawns two
+threads T1 and T2:
+
+int x = 0; // global
+Lock L1; // global
+main() {
+    create a thread to execute foo(); // Thread T1
+    create a thread to execute foo(); // Thread T2
+    wait for the two threads to finish execution;
+    print (x);}
+
+foo() {
+    int y = 0;
+    Acquire L1;
+    x = x + 1;
+    y = y + 1;
+    Release L1;
+    print (y);}
+
+Which of the following statement(s) is/are correct'?
+Options:
+(A) Both P1 and P2 will print the value of x as 2.
+(B) At least one of P1 and P2 will print the value of x as 4.
+(C) At least one of the threads will print the value of y as 2.
+(D) Both T1 and T2, in both the processes, will print the value of y as 1.
+Category:
+OperatingSystem
+
+Question:
+Consider a computer system with multiple shared resource types, with one instance
+per resource type. Each instance can be owned by only one process at a time.
+Owning and freeing of resources are done by holding a global lock (L). The following
+scheme is used to own a resource instance :
+
+function OWNRESOURCE(Resource R)
+    Acquire lock L // a global lock
+    if R is available then
+        Acquire R
+        Release lock L
+    else
+        if R is owned by another process P then
+            Terminate P, after releasing all resources owned by P
+            Acquire R.
+            Restart P
+            Release lock L
+        end if
+    end if
+end function
+
+Which of the following choice(s) about the above scheme is/are correct'?
+Options:
+(A) The scheme ensures that deadlocks will not occur.
+(B) The scheme may lead to live-lock.
+(C) The scheme may lead to starvation.
+(D) The scheme violates the mutual exclusion property.
+
+
+Question:
+If the numerical value of a 2-byte unsigned integer on a little endian computer
+is 255 more than that on a big endian computer, which of the following choices
+represent(s) the unsigned integer on a little endian computer?
+Options:
+(A) 0x6665
+(B) 0x0001
+(C) 0x4243
+(D) 0x0100
+
+
+Question:
+Consider a computer network using the distance vector routing algorithm in its
+network layer. The partial topology of the network is as shown below.
+
+<img src="img/2021_2_45.png" width="100px" height="100px" />
+
+The objective is to find the shortest-cost path from the router R to routers P and Q.
+Assume that R does not initially know the shortest routes to P and Q. Assume that
+R has three neighbouring routers denoted as X, Y, and Z. During one iteration,
+R measures its distance to its neighbours X, Y, and Z as 3, 2, and 5, respectively.
+Router FR gets routing vectors from its neighbours that indicate that the distance
+to router P from routers X, Y, and Z are 7, 6, and 5, respectively. The routing
+vector also indicates that the distance to router Q from routers X, Y, and Z are
+4, 6, and 8, respectively. Which of the following statement(s) is/are correct with
+respect to the new routing table of R, after updation during this iteration?
+Options:
+(A) The distance from R to P will be stored as 10.
+(B) The distance from R to Q will be stored as 7.
+(C) The next hop router for a packet from R to P is Y.
+(D) The next hop router for a packet from R to Q is Z.
+
+
+Question:
+Consider the following directed graph:
+
+<img src="img/2021_2_46.png" width="100px" height="100px" />
+
+Which of the following is/are correct about the graph?
+Options:
+(A) The graph does not have a topological order.
+(B) A depth-first traversal starting at vertex S classifies three directed edges as back
+    edges.
+(C) The graph does not have a strongly connected component.
+(D) For each pair of vertices u and v, there is a directed path from u to v.
+
+
+Question:
+Which of the following regular expressions represent(s) the set of all binary numbers
+that are divisible by three? Assume that the string &epsilon; is divisible by three.
+Options:
+(A) (0 + 1(01<sup>*</sup>0)<sup>*</sup>1)<sup>*</sup>
+(B) (0 +11 + 10(1 + 00)<sup>*</sup>01)<sup>*</sup>
+(C) (0<sup>*</sup>(1(01<sup>*</sup>0)<sup>*</sup>1)<sup>*</sup>)<sup>*</sup>
+(D) (0 + 11+ 11(1 + 00)<sup>*</sup>00)<sup>*</sup>
+
+
+Question:
+Consider a three-level page table to translate a 39-bit virtual address to a physical
+address as shown below.
+
+  < --------- 39-bit virtual address ----------- >
+
+      | Level 1 | Level 2 | Level 3 | Page
+      | offset  | offset  | offset  | offset
+        9 bits    9 bits    9 bits    12 bits
+
+The page size is 4KB (1KB = 2<sup>10</sup> bytes) and page table entry size at every level
+is 8 bytes. A process P is currently using 2GB (1GB = 2<sup>30</sup> bytes) virtual memory
+which is mapped to 2GB of physical memory. The minimum amount of memory
+required for the page table of P across all levels is ____ KB.
+
+
+Question:
+Consider the following ANSI C program.
+
+<code>
+#include < stdio.h >
+
+int foo(int x, int y, int q)
+{
+    if ((x <= 0) && (y <= 0))
+        return q;
+    if (x <= 0)
+        return foo(x, y-q, q);
+    if (y <= 0)
+        return foo(x-q, y, q);
+    return foo(x, y-q, q) + foo(x-q, y, q);
+}
+int main()
+{
+    int r = foo(15,15,10);
+    printf("%d", r);
+    return 0;
+}
+</code>
+
+The output of the program upon execution is ____
+
+
+Question:
+Let S be a set consisting of 10 elements. The number of tuples of the form (A, B)
+such that A and B are subsets of S, and A &sube; B is ____
+
+
+Question:
+Consider the following augmented grammar with {#, @, < , > , a, b, c} as the set
+of terminals.
+
+S' &rarr; S
+S &rarr; S#cS
+S &rarr; SS
+S &rarr; S@
+S &rarr; < S >
+S &rarr; a
+S &rarr; b
+S &rarr; c
+
+Let I<sub>0</sub> = CLOSURE({S' &rarr; .S}). The number of items in the set
+GOTO(GOTO(I<sub>0</sub>, < ), < ) is  ____
+
+
+Question:
+Consider a Boolean function f(w, x, y, z) such that
+
+f(w,0,0,z) = 1
+f(1,x,1,z) = x + z
+f(w,1,y,z) = wz + y
+
+The number of literals in the minimal sum-of-products expression of f is
+ ____
+
+
+Question:
+Consider a pipelined processor with 5 stages, Instruction Fetch (IF), Instruction
+Decode (ID), Execute (EX), Memory Access (MEM), and Write Back (WB). Each stage
+of the pipeline, except the EX stage, takes one cycle. Assume that the ID stage
+merely decodes the instruction and the register read is performed in the EX stage.
+The EX stage takes one cycle for ADD instruction and two cycles for MUL instruction.
+Ignore pipeline register latencies.
+
+Consider the following sequence of 8 instructions:
+
+ADD, MUL, ADD, MUL, ADD, MUL, ADD, MUL
+
+Assume that every MUL instruction is data-dependent on the ADD instruction just
+before it and every ADD instruction (except the first ADD) is data-dependent on the
+MUL instruction just before it. The Speedup is defined as follows:
+
+Speedup = Execution time without operand forwarding / Execution time with operand forwarding
+           
+The Speedup achieved in executing the given instruction sequence on the pipelined
+processor (rounded to 2 decimal places) is ____
+Category:
+ComputerOrganizationAndArchitecture
+
+Question:
+Consider a network using the pure ALOHA medium access control protocol, where
+each frame is of length 1,000 bits. The channel transmission rate is 1 Mbps (= 10<sup>6</sup>
+bits per second). The aggregate number of transmissions across all the nodes (in-
+cluding new frame transmissions and retransmitted frames due to collisions) is
+modelled as a Poisson process with a rate of 1,000 frames per second. Throughput
+is defined as the average number of frames successfully transmitted per second. The
+throughput of the network (rounded to the nearest integer) is ____
+
+
+Question:
+In a directed acyclic graph with a source vertex s, the quality-score of a directed
+path is defined to be the product of the weights of the edges on the path. Further,
+for a vertex v other than s, the quality-score of v is defined to be the maximum
+among the quality-scores of all the paths from s to v. The quality-score of s is
+assumed to be 1.
+
+<img src="img/2021_2_55.png" width="100px" height="100px" />
+
+The sum of the quality-scores of all the vertices in the graph shown above is
+ ____
+
+

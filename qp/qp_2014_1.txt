@@ -1,0 +1,760 @@
+Question:
+Which of the following options is the closest in meaning to the phrase underlined in the sentence 
+below? 
+
+It is fascinating to see life forms cope with varied environmental conditions.
+Options:
+(A) adopt to 
+(B) adapt to 
+(C) adept in 
+(D) accept with
+Category:
+GeneralAptitude
+
+Question:
+Choose the most appropriate word from the options given below to complete the following 
+sentence. 
+
+He could not understand the judges awarding her the first prize, because he thought that her 
+performance was quite ____.
+Options:
+(A) superb 
+(B) medium 
+(C) mediocre 
+(D) exhilarating
+Category:
+GeneralAptitude
+
+Question:
+In a press meet on the recent scam, the minister said, "The buck stops here". What did the minister 
+convey by the statement?
+Options:
+(A) He wants all the money 
+(B) He will return the money 
+(C) He will assume final responsibility 
+(D) He will resist all enquiries
+Category:
+GeneralAptitude
+
+Question:
+If(z + 1/z)<sup>2</sup> = 98, compute (z<sup>2</sup> + 1/z<sup>2</sup>)  ____.
+Category:
+GeneralAptitude
+
+Question:
+The roots of ax<sup>2</sup> + bx + c = 0 are real and positive. a, b and c are real. Then ax<sup>2</sup> + b|x| + c = 0 
+has
+Options:
+(A) no roots 
+(B) 2 real roots 
+(C) 3 real roots
+(D) 4 real roots
+Category:
+GeneralAptitude
+
+Question:
+The Palghat Gap (or Palakkad Gap), a region about 30 km wide in the southern part of the Western 
+Ghats in India, is lower than the hilly terrain to its north and south.The exact reasons for the 
+formation of this gap are not clear. It results in the neighbouring regions of Tamil Nadu getting 
+more rainfall from the South West monsoon and the neighbouring regions of Kerala having higher 
+summer temperatures.   
+
+What can be inferred from this passage?
+Options:
+(A) The Palghat gap is caused by high rainfall and high temperatures in southern Tamil Nadu and 
+    Kerala 
+(B) The regions in Tamil Nadu and Kerala that are near the Palghat Gap are low-lying 
+(C) The low terrain of the Palghat Gap has a significant impact on weather patterns in neighbouring 
+    parts of Tamil Nadu and Kerala 
+(D) Higher summer temperatures result in higher rainfall near the Palghat Gap area
+Category:
+GeneralAptitude
+
+Question:
+Geneticists say that they are very close to confirming the genetic roots of psychiatric illnesses such 
+as depression and schizophrenia, and consequently, that doctors will be able to eradicate these 
+diseases through early identification and gene therapy. 
+
+On which of the following assumptions does the statement above rely?
+Options:
+(A) Strategies are now available for eliminating psychiatric illnesses 
+(B) Certain psychiatric illnesses have a genetic basis 
+(C) All human diseases can be traced back to genes and how they are expressed 
+(D) In the future, genetics will become the only relevant field for identifying psychiatric illnesses
+Category:
+GeneralAptitude
+
+Question:
+Round-trip tickets to a tourist destination are eligible for a discount of 10% on the total fare.  In 
+addition, groups of 4 or more get a discount of 5% on the total fare.  If the one way single person 
+fare is Rs 100, a group of 5 tourists purchasing round-trip tickets will be charged Rs  ____.
+Category:
+GeneralAptitude
+
+Question:
+In a survey, 300 respondents were asked whether they own a vehicle or not.  If yes, they were 
+further asked to mention whether they own a car or scooter or both. Their responses are tabulated 
+below. What percent of respondents do not own a scooter?  ____ 
+
+                          Men Women
+                      Car 40  34 
+  Own vehicle     Scooter 30  20 
+                     Both 60  46 
+  Do not own vehicle      20  50
+Category:
+GeneralAptitude
+
+Question:
+When a point inside of a tetrahedron (a solid with four triangular surfaces) is connected by straight 
+lines to its corners, how many (new) internal pAlanes aTre created with these lines? ____
+Category:
+GeneralAptitude
+
+Question:
+Consider the statement 
+
+        "Not all that glitters is gold" 
+
+Predicate(x) is true if x glitters and predicate gold(x) is true if x is gold. Which one of 
+the following logical formulae represents the above statement?
+Options:
+(A) &forall;x: glitters(x) &Implies; &not;gold(x) 
+(B) &forall;x: gold(x) &Implies; glitters(x)
+(C) &exist;x: gold(x) &and; &not;glitters(x)
+(D) &exist;x: glitters(x) &and; &not;gold(x)
+
+
+Question:
+Suppose you break a stick of unit length at a point chosen uniformly at random. Then the expected 
+length of the shorter stick is ____.
+
+
+Question:
+Let G = (V, E) be a directed graph where V is the set of vertices and E the set of edges. Then which 
+one of the following graphs has the same strongly connected components as G ?
+Options:
+(A) G1 = (V, E1) where E1 = {(u,v) | (u,v) &notin; E}
+(B) G2 = (V, E2) where E2 = {(u,v) | (u,v) &isin; E}
+(C) G3 = (V, E3) where E3 = {(u,v) | there is a path of length &le; 2 from u to v in E}  
+(D) G4 = (V4, E) where V4 is the set of vertices in G which are not isolated
+
+
+Question:
+Consider the following system of equations: 
+
+3x + 2y = 1
+4x + 7z = 1 
+x + y + z = 3 
+x - 2y + 7z = 0  
+
+The number of solutions for this system is ____
+Category:
+EngineeringMathematics
+
+Question:
+The value of the dot product of the eigenvectors corresponding to any pair of different eigenvalues 
+of a 4-by-4 symmetric positive definite matrix is ____.
+Category:
+EngineeringMathematics
+
+Question:
+Let the function 
+
+f(&theta;) = sin&theta;      cos&theta;      tan&theta;
+       sin(&pi;/6)  cos(&pi;/6)  tan(&pi;/6)
+       sin(&pi;/3)  cos(&pi;/3)  tan(&pi;/3)
+
+where &theta; &isin; [&pi;/6, &pi;/3] and f'(&theta;) denote the derivative of f with respect to &theta;.  Which of the following 
+statements is/are TRUE?  
+
+ (I) There exists &theta; &isin; (&pi;/6, &pi;/3) such that f'(&theta;) = 0. 
+
+(II) There exists &theta; &isin; (&pi;/6, &pi;/3) such that f'(&theta;) &ne; 0.
+Options:
+(A) I only 
+(B) II only 
+(C) Both I and II  
+(D) Neither I nor II
+
+
+Question:
+Consider the following Boolean expression for F: 
+
+   F(P, Q, R, S) = P Q + <span class="above_bar">P</span> Q R + <span class="above_bar">P</span> Q <span class="above_bar">R</span> S
+
+The minimal sum-of-products form of F is
+Options:
+(A) P Q + Q R + Q S 
+(B) P + Q + R + S
+(C) <span class="above_bar">P</span> + <span class="above_bar">Q</span> + <span class="above_bar">R</span> + <span class="above_bar">S</span>
+(D) <span class="above_bar">P</span> R + <span class="above_bar">P</span> <span class="above_bar">R</span> S + P
+Category:
+DigitalLogic
+
+Question:
+The base (or radix) of the number system such that the following equation holds is ____. 
+ 
+       312/20 = 13.1
+Category:
+DigitalLogic
+
+Question:
+A machine has a 32-bit architecture, with 1A-word long instructions. It has 64 registers, each of 
+which is 32 bits long.  It needs to support 45 instructions, which have an immediate operand in 
+addition to two register oper ands.  Assuming that the immediate operand is an unsigned integer, the 
+maximum value of the immediate operand is ____.
+
+
+Question:
+Consider the following program in C language: 
+
+<code>
+#include < stdio.h >  
+main() 
+{ 
+ int i; 
+ int *pi = &i;  
+ scanf("%d",pi); 
+ printf("%d\n", i+5); 
+} 
+</code>
+
+Which one of the following statements is TRUE?
+Options:
+(A) Compilation fails. 
+(B) Execution results in a run-time error. 
+(C) On execution, the value printed is 5 more than the address of variable i. 
+(D) On execution, the value printed is 5 more than the integer value entered.
+
+
+Question:
+Let G be a graph with n vertices and m edges. What is the tightest upper bound on the running time 
+of Depth First Search on G, when G is represented as an  adjacency matrix?
+Options:
+(A) &Theta;(n)
+(B) &Theta;(n + m)  
+(C) &Theta;(n<sup>2</sup>)
+(D) &Theta;(m<sup>2</sup>)
+
+
+Question:
+Consider a rooted node binary tree represented using pointers. The best upper bound on the time
+required to determine the number of subtrees having exactly 4 nodes is O(n<sup>a</sup>log<sup>b</sup> n)  
+Then the value of a + 10b is ____.
+
+
+Question:
+Consider the directed graph given below.  
+ 
+<img src="img/2014_1_13.png" width="100px" height="100px" />
+
+Which one of the following is TRUE?
+Options:
+(A) The graph does not have any topological ordering.
+(B) Both PQRS and SRQP are topological orderings. 
+(C) Both PSRQ and SPRQ are topological orderings. 
+(D) PSRQ is the only topological ordering.
+
+
+Question:
+Let P be a quicksort program to sort numbers in ascending order using the first element as the 
+pivot. Let t1 and t2  be the number of comparisons made by P for the inputs [1  2  3  4  5] and 
+[4  1  5  3  2] respectively. Which one of the following holds?
+Options:
+(A) t1 = 5 
+(B) t1 < t2  
+(C) t1 > t2 
+(D) t1 = t2
+
+
+Question:
+Which one of the following is TRUE?
+Options:
+(A) The language  L = {a<sup>n</sup>b<sup>n</sup> | n &ge; 0} is regular. 
+(B) The language L = {a<sup>n</sup> | n is prime} is regular. 
+(C) The language  L = {w | w has 3k + 1 b's for some k &isin; N with &sum; = {a,b}} is regular 
+(D) The language  L = {ww | w &isin; &sum;<sup>*</sup> with &sum; = {0,1}} is regular.
+
+
+Question:
+Consider the finite automaton in the following figure.  
+
+<img src="img/2014_1_16.png" width="100px" height="100px" />
+
+What is the set of reachable states for the input string 0011?
+Options:
+(A) {q<sub>0</sub>, q<sub>1</sub>, q<sub>2</sub>}
+(B) {q<sub>0</sub>, q<sub>1</sub>} 
+(C) {{q<sub>0</sub>, q<sub>1</sub>, q<sub>2</sub>, q<sub>3</sub>}
+(D) {q<sub>3</sub>}
+
+
+Question:
+Which one of the following is FALSE?
+Options:
+(A) A basic block is a sequence of instructions where control enters the sequence at the beginning  
+    and exits at the end. 
+(B) Available expression analysis can be used for common subexpression elimination. 
+(C) Live variable analysis can be used for dead code elimination. 
+(D) x = 4 * 5 &Implies; x = 20 is an example of common subexpression elimination.
+
+
+Question:
+Match the following: 
+1) Waterfall model                        a) Specifications can be developed  
+                                             incrementally 
+2) Evolutionary model                     b) Requirements compromises are inevitable 
+3) Component-based software engineering   c) Explicit recognition of risk 
+4) Spiral development                     d) Inflexible partitioning of the project into  
+                                             stages
+Options:
+(A) 1-a, 2-b, 3-c, 4-d 
+(B) 1-d, 2-a, 3-b, 4-c 
+(C) 1-d, 2-b, 3-a, 4-c 
+(D) 1-c, 2-a, 3-b, 4-d
+
+
+Question:
+Suppose a disk has 201 cylinders, numbered from 0 to 200. At some time the disk arm is at cylinder 
+100, and there is a queue of disk access requests for cylinders 30, 85, 90, 100, 105, 110, 135 and 
+145. If Shortest-Seek Time First (SSTF) is being used for scheduling the disk access, the request for 
+cylinder 90 is serviced after servicing ____ number of requests.
+
+
+Question:
+Which one of the following is FALSE?
+Options:
+(A) User level threads are not scheduled by the kernel. 
+(B) When a user level thread is blocked, all other threads of its process are blocked. 
+(C) Context switching between user level threads is faster than context switching between kernel  
+    level threads. )
+(D) Kernel level threads cannot share the code segment.
+Category:
+OperatingSystem
+
+Question:
+Consider the relation schema R = (E, F, G, H, I, J, K, L, M, N) and the set of functional dependencies  
+{{E, F} &rarr; {G}, {F} &rarr; {I, J}, {E, H} &rarr; {K, L}, {K} &rarr; {M}, {L} &rarr; {N}} on R. What is the key for 
+R?
+Options:
+(A) {E, F} 
+(B) {E, F, H} 
+(C) {E, F, H, K, L}
+(D) {E}
+
+
+Question:
+Given the following statements:  
+
+S1: A foreign key declaration can always be replaced by an equivalent check   
+    assertion in SQL.  
+
+S2: Given the table R(a,b,c) where a and b together form the primary key,  
+    the following is a valid table definition.
+    CREATE TABLE S ( 
+        a INTEGER,
+        d INTEGER, 
+        e INTEGER,
+        PRIMARY KEY (d), 
+        FOREIGN KEY (a) references R) 
+
+Which one of the following statements is CORRECT?
+Options:
+(A) S1 is TRUE and S2 is FALSE. 
+(B) Both S1 and S2 are TRUE. 
+(C) S1 is FALSE and S2 is TRUE. 
+(D) Both S1 and S2 are FALSE.
+
+
+Question:
+Consider the following three statements about link state and distance vector routing protocols, for a 
+large network with 500 network nodes and 4000 links. 
+
+[S1] The computational overhead in link state protocols is higher than in distance vector protocols. 
+[S2] A distance vector protocol (with split horizon) avoids persistent routing loops, but not a link   
+     state protocol. 
+[S3] After a topology change, a link state protocol will converge faster than a distance vector  
+     protocol. 
+
+Which one of the following is correct about S1, S2, and S3 ?
+Options:
+(A) S1, S2, and S3 are all true. 
+(B) S1, S2, and S3 are all false. 
+(C) S1 and S2 are true, but S3 is false. 
+(D) S1 and S3 are true, but S2 is false.
+Category:
+ComputerNetworks
+
+Question:
+Which of the following are used to generate a message digest by the network security protocols?  
+(P) RSA (Q) SHA-1 (R) DES (S) MD5
+Options:
+(A) P and R only 
+(B) Q and R only 
+(C) Q and S only 
+(D) R and S only
+Category:
+ComputerNetworks
+
+Question:
+Identify the correct order in which the following actions take place in an interaction between a web 
+browser and a web server.  
+
+1. The web browser requests a webpage using HTTP. 
+2. The web browser establishes a TCP connection with the web server.  
+3. The web server sends the requested webpage using HTTP. 
+4. The web browser resolves the domain name using DNS.
+Options:
+(A) 4,2,1,3 
+(B) 1,2,3,4 
+(C) 4,1,2,3 
+(D) 2,4,1,3
+Category:
+ComputerNetworks
+
+Question:
+Consider a token ring network with a length of 2 km having 10 stations including a monitoring 
+station. The propagation speed of the signal is 2 x 10<sup>8</sup>  m/s and the token transmission time is 
+ignored. If each station is allowed to hold the token for 2 &mu;sec, the minimum time for which the 
+monitoring station should wait (in &mu;sec)before assuming that the token is lost is ____.
+
+
+Question:
+Let the size of congestion window of a TCP connection be 32 KB when a timeout occurs. The round 
+trip time of the connection is 100 msec and the maximum segment size used is 2 KB. The time taken 
+(in msec) by the TCP connection to get back to 32 KB congestion window is ____.
+Category:
+ComputerNetworks
+
+Question:
+Consider a selective repeat sliding window protocol that uses a frame size of 1 KB to send data on a 
+1.5 Mbps link with a one-way latency of 50 msec. To achieve a link utilization of 60%, the 
+minimum number of bits required to represent the sequence number field is ____.
+
+
+Question:
+Consider the following four schedules due to three transactions (indicated by the subscript) using 
+read and write on a data item x, denoted by r(x) and w(x) respectively. Which one of them is 
+conflict serializable?
+Options:
+(A) r1(x); r2(x); w1(x); r3(x); w2(x) 
+(B) r2(x); r1(x); w2(x); r3(x); w1(x) 
+(C) r3(x); r2(x); r1(x); w2(x); w1(x) 
+(D) r2(x); w2(x); r3(x); r1(x); w1(x)
+
+
+Question:
+Given the following two statements:
+
+S1: Every table with two single-valued attributes is in 1NF, 2NF, 3NF
+    and BCNF.  
+S2: AB&rarr;C, D&rarr;E, E&rarr;C is a minimal cover for the set of functional
+    dependencies AB&rarr;C, D&rarr;E, AB&rarr;E, E&rarr;C. 
+
+Which one of the following is CORRECT?
+Options:
+(A) S1 is TRUE and S2 is FALSE. 
+(B) Both S1 and S2 are TRUE.
+(C) S1 is FALSE and S2 is TRUE.
+(D) Both S1 and S2 are FALSE.
+Category:
+Databases
+
+Question:
+An operating system uses the Banker's algorithm for deadlock avoidance when managing the 
+allocation of three resource types X, Y, and Z to three processes P0, P1, and P2. The table given 
+below presents the current system state. Here, the Allocation matrix shows the current number of 
+resources of each type allocated to each process and the Max matrix shows the maximum number 
+of resources of each type required by each process during its execution.  
+
+    Allocation   Max  
+    X   Y   Z    X   Y   Z 
+P0  0   0   1    8   4   3 
+P1  3   2   0    6   2   0 
+P2  2   1   1    3   3   3 
+
+There are 3 units of type X, 2 units of type Y and 2 units of type Z still available. The system is 
+currently in a safe state. Consider the following independent requests for additional resources in the 
+current state: 
+
+REQ1: P0 requests 0 units of X, 0 units of Y and 2 units of Z 
+REQ2: P1 requests 2 units of X, 0 units of Y and 0 units of Z
+
+Which one of the following is TRUE?
+Options:
+(A) Only REQ1 can be permitted.
+(B) Only REQ2 can be permitted.  
+(C) Both REQ1 and REQ2 can be permitted. 
+(D) Neither REQ1 nor REQ2 can be permitted.
+
+
+Question:
+Consider the following set of processes that need to be scheduled on a single CPU. All the times are 
+given in milliseconds. 
+
+Process Name Arrival Time Execution Time 
+A            0            6 
+B            3            2 
+C            5            4 
+D            7            6 
+E            10           3
+
+Using the shortest remaining time first scheduling algorithm, the average process turnaround time 
+(in msec) is ____.
+
+
+Question:
+Assume that there are 3 page frames which are initially empty. If the page reference string is 1, 2, 3, 
+4, 2, 1, 5, 3, 2, 4, 6, the number of page faults using the optimal replacement policy is____.
+
+
+Question:
+A canonical set of items is given below
+
+ S &rarr; L > R
+ Q &rarr; R
+
+On input symbol < the set has
+Options:
+(A) a shift-reduce conflict and a reduce-reduce conflict. 
+(B) a shift-reduce conflict but not a reduce-reduce conflict. 
+(C) a reduce-reduce conflict but not a shift-reduce conflict. 
+(D) neither a shift-reduce nor a reduce-reduce conflict.
+
+
+Question:
+Let L be a language and <span class="above_bar">L</span> be its complement. Which one of the following is NOT a viable 
+possibility?
+Options:
+(A) Neither L nor <span class="above_bar">L</span> is recursively enumerable (r.e.). 
+(B) One of L and <span class="above_bar">L</span> is r.e. but not recursive; the other is not r.e. 
+(C) Both L and <span class="above_bar">L</span> are r.e. but not recursive. 
+(D) Both L and <span class="above_bar">L</span> are recursive.
+
+
+Question:
+Which of the regular expressions given below represent the following DFA?   
+
+<img src="img/2014_1_36.png" width="100px" height="100px" />
+
+   I)  0<sup>*</sup>1(1+00<sup>*</sup>1)<sup>*</sup> 
+  II)  0<sup>*</sup>1<sup>*</sup>1+11<sup>*</sup>0<sup>*</sup>1
+ III) (0+1)<sup>*</sup>1
+Options:
+(A) I and II only 
+(B) I and III only 
+(C) II and III only 
+(D) I, II, and III
+
+
+Question:
+There are 5 bags labeled 1 to 5. All the coins in a given bag have the same weight. Some bags 
+have coins of weight 10 gm, others have coins of weight 11 gm. I pick 1, 2, 4, 8, 16 coins 
+respectively from bags 1 to 5.  Their total weight comes out to 323 gm.  Then the product of the 
+labels of the bags having 11 gm coins is ___.
+
+
+Question:
+Suppose a polynomial time algorithm is discovered that correctly computes the largest clique in a 
+given graph. In this scenario, which one of the following represents the correct Venn diagram of the 
+complexity classes P, NP and NP Complete (NPC)?
+Options:
+(A) <img src="img/2014_1_38_1.png" width="100px" height="100px" /> 
+(B) <img src="img/2014_1_38_2.png" width="100px" height="100px" />
+(C) <img src="img/2014_1_38_3.png" width="100px" height="100px" />
+(D) <img src="img/2014_1_38_4.png" width="100px" height="100px" />
+
+
+Question:
+The minimum number of comparisons required to find the minimum and the maximum of 100 
+numbers is ____.
+
+
+Question:
+Consider a hash table with 9 slots. The hash function is h(k) = k mod 9. The collisions are 
+resolved by chaining. The following 9 keys are inserted in the order: 5, 28, 19, 15, 20, 33, 12, 17, 
+10. The maximum, minimum, and average chain lengths in the hash table, respectively, are
+Options:
+(A) 3, 0, and 1 
+(B) 3, 3, and 3
+(C) 4, 0, and 1
+(D) 3, 0, and 2
+
+
+Question:
+Consider the following C function in which size is the number of elements in the array E: 
+
+<code>
+int MyX(int *E, unsigned int size) 
+{ 
+  int Y = 0; 
+  int Z; 
+  int i, j, k;   
+
+  for(i = 0; i < size; i++) 
+      Y = Y + E[i]; 
+
+  for(i = 0; i < size; i++) 
+      for(j = i; j < size; j++) 
+      {
+         Z = 0; 
+         for(k = i; k <= j; k++)
+             Z = Z + E[k]; 
+         if (Z > Y)  
+             Y = Z;
+       } 
+  return Y;
+} 
+</code>
+
+The value returned by the function MyX is the
+Options:
+(A) maximum possible sum of elements in any sub-array of array E. 
+(B) maximum element in any sub-array of array E.
+(C) sum of the maximum elements in all possible sub-arrays of array E. 
+(D) the sum of all the elements in the array E.
+
+
+Question:
+Consider the following pseudo code. What is the total number of multiplications to be performed?  
+
+   D = 2 
+   for i = 1 to n do 
+     for j = i to n do           
+       for k =  j + 1 to n do   
+           D = D * 3
+Options:
+(A) Half of the product of the 3 consecutive integers. 
+(B) One-third of the product of the 3 consecutive integers. 
+(C) One-sixth of the product of the 3 consecutive integers. 
+(D) None of the above.
+
+
+Question:
+Consider a 6-stage instruction pipeline, where all stages are perfectly balanced.Assume that there is 
+no cycle-time overhead of pipelining. When an application is executing on this 6-stage pipeline, the 
+speedup achieved with respect to non-pipelined execution if 25% of the instructions incur 2 
+pipeline stall cycles is ____.
+
+
+Question:
+An access sequence of cache block addresses is of length N and contains n unique block addresses. 
+The number of unique block addresses between two consecutive accesses to the same block address 
+is bounded above by k. What is the miss ratio if the access sequence is passed through a cache of 
+associativity A &ge; k exercising least-recently-used replacement policy?
+Options:
+(A) n/N 
+(B) 1/N 
+(C) 1/A 
+(D) k/n
+
+
+Question:
+Consider the 4-to-1 multiplexer with two select lines and given below. 
+
+<img src="img/2014_1_45.png" width="100px" height="100px" />
+
+The minimal sum-of-products form of the Boolean expression for the output F of the multiplexer is
+Options:
+(A) <span class="above_bar">P</span> Q + Q <span class="above_bar">R</span> + P <span class="above_bar">Q</span> R 
+(B) <span class="above_bar">P</span> Q + <span class="above_bar">P</span> Q <span class="above_bar">R</span> + P Q <span class="above_bar">R</span> + P <span class="above_bar">Q</span> R  
+(C) <span class="above_bar">P</span> Q R + <span class="above_bar">P</span> Q <span class="above_bar">R</span> + Q <span class="above_bar">R</span> + P <span class="above_bar">Q</span> R  
+(D) P Q <span class="above_bar">R</span>
+Category:
+DigitalLogic
+
+Question:
+The function f(x) = xsinx satisfies the following equation: f''(x) + f(x) + tcosx = 0. The 
+value of t is ____.
+
+
+Question:
+A function f(x) is continuous in the interval [0,2]. It is known that f(0) = f(2) = -1 and
+f(1) = 1.Which one of the following statements must be true?
+Options:
+(A) There exists a y in the interval (0,1)  such that f(y) = f(y + 1)
+(B) For every y in the  interval (0,1), f(y) = f(2 - y)
+(C) The maximum value of the function in the interval (0,2) is 1 
+(D) There exists a y in the  interval  such that f(y) = -f(2 - y)
+
+
+Question:
+Four fair six-sided dice are rolled. The probability that the sum of the results being 22 is X/1296. 
+The value of X is ____.
+
+
+Question:
+A pennant is a sequence of numbers, each number being 1 or 2. An n-pennant is a sequence of 
+numbers with sum equal to n. For example, (1,1,2) is a 4-pennant. The set of all possible 1-pennants 
+is {(1)}, the set of all possible 2-pennants is {(2), (1,1)}and the set of all 3-pennants is {(2,1), 
+(1,1,1), (1,2)}. Note that the pennant (1,2) is not the same as the pennant (2,1).  The number of 10-
+pennants is ____.
+
+
+Question:
+Let S denote the set all functions  f:{0,1}<sup>4</sup> &rarr; {0,1}.  Denote by N the number of functions 
+from S to the set {0,1}. The value of log<sub>2</sub> log<sub>2</sub> N  is ____.
+
+
+Question:
+Consider an undirected graph where self-loops are not allowed.The vertex set of G is {(i,j): 1 &le;
+ i &le; 12, 1 &le; j &le; 12}.There is an edge between (a,b) and (c,d) if |a - c| &le; 1 and |b - d| &le; 1. 
+The number of edges in this graph is ____.
+
+
+Question:
+An ordered n-tuple (d<sub>1</sub>, d<sub>2</sub>, ... ,d<sub>n</sub>) with d<sub>1</sub> &ge; d<sub>2</sub> &ge; ..., &ge; d<sub>n</sub> is called graphic if there exists4 a simple 
+undirected graph with n vertices having degrees d<sub>1</sub>, d<sub>2</sub>, ... ,d<sub>n</sub> respectively. Which of the following 
+6-tuples is NOT graphic?
+Options:
+(A) (1, 1, 1, 1, 1, 1) 
+(B) (2, 2, 2, 2, 2, 2) 
+(C) (3, 3, 3, 1, 0, 0) 
+(D) (3, 2, 1, 1, 1, 0)
+
+
+Question:
+Which one of the following propositional logic formulas is TRUE when exactly two of p, q, and  
+r are TRUE?
+Options:
+(A) ((p &harr; q) &and; r) &or; (p &and; q &and; &sim;r)
+(B) (&sim;(p &harr; q) &and; r) &or; (p &and; q &and; &sim;r)
+(C) ((p &rarr; q) &and; r) &or; (p &and; q &and; &sim;r) 
+(D) (&sim;(p &harr; q) &and; r) &and; (p &and; q &and; &sim;r)
+
+
+Question:
+Given the following schema:
+
+ employees(emp-id, first-name, last-name, hire-date, 
+               dept-id, salary) 
+ departments(dept-id, dept-name, manager-id, location-id) 
+
+You want to display the last names and hire dates of all latest hires in their respective departments 
+in the location ID 1700. You issue the following query: 
+
+SQL>SELECT last-name, hire-date 
+    FROM employees  
+    WHERE (dept-id, hire-date) IN 
+    (SELECT dept-id, MAX(hire-date) 
+    FROM employees JOIN departments USING(dept-id)  )
+    WHERE location-id = 1700 
+    GROUP BY dept-id);
+
+What is the outcome?
+Options:
+(A) It executes but does not give the correct result. 
+(B) It executes and gives the correct result.
+(C) It generates an error because of pairwise comparison.  
+(D) It generates an error because the GROUP BY clause cannot be used with table joins in a sub-
+    query.
+Category:
+Databases
+
+Question:
+Consider two processors P1 and P2 executing the same instruction set. Assume that under identical 
+conditions, for the same input, a program running on P2 takes 25% less time but incurs 20% more 
+CPI (clock cycles per instruction() as compared to the program running on P1. If the clock frequency 
+of P1 is 1GHz, then the clock  frequency of P2 (in GHz) is ____.
+
+

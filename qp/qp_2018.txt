@@ -1,0 +1,972 @@
+Question:
+"From where are they bringing their books? ____ bringing ____ books from
+ ____." 
+
+The words that best fill the blanks in the above sentence are
+Options:
+(A) Their, they're, there 
+(B) They're, their, there 
+(C) There, their, they're 
+(D) They're, there, there
+Category:
+GeneralAptitude
+
+Question:
+"A ____ investigation can sometimes yield new facts, but typically organized ones 
+are more successful." 
+
+The word that best fills the blank in the above sentence is
+Options:
+(A) meandering 
+(B) timely 
+(C) consistent 
+(D) systematic
+Category:
+GeneralAptitude
+
+Question:
+The area of a square is d. What is the area of the circle which has the diagonal of the 
+square as its diameter?
+Options:
+(A) &pi;d 
+(B) &pi;d<sup>2</sup>
+(C) (1/4)&pi;d<sup>2</sup> 
+(D) (1/2)&pi;d
+Category:
+GeneralAptitude
+
+Question:
+What would be the smallest natural number which when divided either by 20 or by 42 or 
+by 76 leaves a remainder of 7 in each case?
+Options:
+(A) 3047 
+(B) 6047 
+(C) 7987  
+(D) 63847
+Category:
+GeneralAptitude
+
+Question:
+What is the missing number in the following sequence?  
+
+2, 12, 60, 240, 720, 1440, ____,  0
+Options:
+(A) 2880 
+(B) 1440 
+(C) 720 
+(D) 0
+Category:
+GeneralAptitude
+
+Question:
+In appreciation of the social improvements completed in a town, a wealthy philanthropist 
+decided to gift Rs 750 to each male senior citizen in the town and Rs 1000 to each female 
+senior citizen. Altogether, there were 300 senior citizens eligible for this gift. However, 
+only 8/9<sup>th</sup> of the eligible men and 2/3<sup>rd</sup> of the eligible women claimed the gift. How much 
+money (in Rupees) did the philanthropist give away in total?
+Options:
+(A) 1,50,000 
+(B) 2,00,000 
+(C) 1,75,000 
+(D) 1,51,000
+Category:
+GeneralAptitude
+
+Question:
+If pqr &ne; 0 and p<sup>-x</sup> = 1/q , q<sup>-y</sup> = 1/r, r<sup>-z</sup> = 1/p , what is the value of the product xyz?
+Options:
+(A) -1
+(B) 1/(pqr)
+(C) 1 
+(D) pqr
+Category:
+GeneralAptitude
+
+Question:
+In a party, 60% of the invited guests are male and 40% are female. If 80% of the invited 
+guests attended the party and if all the invited female guests attended, what would be the 
+ratio of males to females among the attendees in the party?
+Options:
+(A) 2:3 
+(B) 1:1 
+(C) 3:2 
+(D) 2:1
+Category:
+GeneralAptitude
+
+Question:
+In the figure below, &ang;DEC +  &ang;BFC is equal to ____ . 
+
+    <img src="img/2018_9.png" width="100px" height="100px" />
+Options:
+(A) &ang;BCD - &ang;BAD 
+(B) &ang;BAD + &ang;BCF 
+(C) &ang;BAD + &ang;BCD 
+(D) &ang;CBA + &ang;ADC
+Category:
+GeneralAptitude
+
+Question:
+A six sided unbiased die with four green faces and two red faces is rolled seven times. 
+Which of the following combinations is the most likely outcome of the experiment?
+Options:
+(A) Three green faces and four red faces. 
+(B) Four green faces and three red faces. 
+(C) Five green faces and two red faces. 
+(D) Six green faces and one red face.
+Category:
+GeneralAptitude
+
+Question:
+Which one of the following is a closed form expression for the generating function of the 
+sequence {a<sub>n</sub>}, where a<sub>n</sub> = 2n + 3 for all n = 0, 1, 2,... ?
+Options:
+(A) 3/(1 - x)<sup>2</sup>
+(B) 3x/(1 - x)<sup>2</sup>
+(C) (2 - x)/(1 - x)<sup>2</sup> 
+(D) (3 - x)/(1 - x)<sup>2</sup>
+
+
+Question:
+Consider the following C program. 
+
+<code>
+    #include<stdio.h> 
+    struct Ournode{ 
+        char x,y,z; 
+    }; 
+
+    int main(){ 
+        struct Ournode p = {'1', '0', 'a'+2}; 
+        struct Ournode *q = &p; 
+        printf ("%c, %c", *((char*)q+1), *((char*)q+2)); 
+        return 0; 
+    }
+</code>
+
+The output of this program is:
+Options:
+(A) 0, c 
+(B) 0, a+2 
+(C) '0', 'a+2' 
+(D) '0', 'c'
+
+
+Question:
+A queue is implemented using a non-circular singly linked list. The queue has a head pointer 
+and a tail pointer, as shown in the figure. Let n denote the number of nodes in the queue. Let 
+enqueue be implemented by inserting a new node at the head, and dequeue be 
+implemented by deletion of a node from the tail.  
+
+<img src="img/2018_3.png" width="100px" height="100px" /> 
+
+Which one of the following is the time complexity of the most time-efficient implementation 
+of enqueue and dequeue, respectively, for this data structure?
+Options:
+(A) &Theta;(1), &Theta;(1) 
+(B) &Theta;(1), &Theta;(n) 
+(C) &Theta;(n), &Theta;(1) 
+(D) &Theta;(n), &Theta;(n)
+
+
+Question:
+Let &oplus;  and  &odot; denote the Exclusive OR and Exclusive NOR operations, respectively. 
+Which one of the following is NOT CORRECT?
+Options:
+(A) <span class="above_bar">P &oplus; Q</span> = P &odot; Q 
+(B) <span class="above_bar">P</span> &oplus; Q = P &odot; Q 
+(C) <span class="above_bar">P</span> &oplus; <span class="above_bar">Q</span> = P &oplus; Q 
+(D) (P &oplus; <span class="above_bar">P</span>) &oplus; Q =  (P &odot; <span class="above_bar">P</span>) &odot; <span class="above_bar">Q</span>
+
+
+Question:
+Consider the following processor design characteristics. 
+
+    I. Register-to-register arithmetic operations only 
+   II. Fixed-length instruction format 
+  III. Hardwired control unit 
+
+Which of the characteristics above are used in the design of a RISC processor?
+Options:
+(A)  I and II only 
+(B)  II and III only 
+(C)  I and III only 
+(D)  I, II and III
+
+
+Question:
+Let N be an NFA with n states. Let k be the number of states of a minimal DFA which is 
+equivalent to N. Which one of the following is necessarily true?
+Options:
+(A) k &ge; 2<sup>n</sup> 
+(B) k &ge; n 
+(C) k &le; n<sup>2</sup> 
+(D) k &le; 2<sup>n</sup>
+
+
+Question:
+The set of all recursively enumerable languages is
+Options:
+(A) closed under complementation. 
+(B) closed under intersection. 
+(C) a subset of the set of all recursive languages. 
+(D) an uncountable set.
+
+
+Question:
+Which one of the following statements is FALSE?
+Options:
+(A) Context-free grammar can be used to specify both lexical and syntax rules. 
+(B) Type checking is done before parsing. 
+(C) High-level language programs can be translated to different Intermediate 
+    Representations. 
+(D) Arguments to a function can be passed using the program stack.
+
+
+Question:
+The following are some events that occur after a device controller issues an interrupt while 
+process L is under execution.  
+
+(P) The processor pushes the process status of L onto the control stack. 
+(Q) The processor finishes the execution of the current instruction. 
+(R) The processor executes the interrupt service routine. 
+(S) The processor pops the process status of L from the control stack. 
+(T) The processor loads the new PC value based on the interrupt.
+ 
+Which one of the following is the correct order in which the events above occur?
+Options:
+(A) QPTRS 
+(B) PTRSQ 
+(C) TRPQS 
+(D) QTPRS
+
+
+Question:
+Consider a process executing on an operating system that uses demand paging. The average 
+time for a memory access in the system is M units if the corresponding memory page is 
+available in memory, and D units if the memory access causes a page fault. It has been 
+experimentally measured that the average time taken for a memory access in the process is 
+X units.  
+
+Which one of the following is the correct expression for the page fault rate experienced by 
+the process?
+Options:
+(A) (D - M) / (X - M) 
+(B) (X - M) / (D - M) 
+(C) (D - X) / (D - M) 
+(D) (X - M) / (D - X)
+
+
+Question:
+In an Entity-Relationship (ER) model, suppose R is a many-to-one relationship from entity 
+set E1 to entity set E2. Assume that E1 and E2 participate totally in R and that the cardinality 
+of E1 is greater than the cardinality of E2. 
+
+Which one of the following is true about R?
+Options:
+(A) Every entity in E1 is associated with exactly one entity in E2. 
+(B) Some entity in E1 is associated with more than one entity in E2. 
+(C) Every entity in E2 is associated with exactly one entity in E1. 
+(D) Every entity in E2 is associated with at most one entity in E1.
+
+
+Question:
+Consider the following two tables and four queries in SQL. 
+
+Book (<ins>isbn</ins>, bname), Stock (<ins>isbn</ins>, copies) 
+
+Query 1:           SELECT B.isbn, S.copies 
+                         FROM Book B INNER JOIN Stock S 
+                         ON B.isbn = S.isbn; 
+
+Query 2:           SELECT B.isbn, S.copies 
+                         FROM Book B LEFT OUTER JOIN Stock S 
+                         ON B.isbn = S.isbn; 
+
+Query 3:           SELECT B.isbn, S.copies 
+                          FROM Book B RIGHT OUTER JOIN Stock S 
+                          ON B.isbn = S.isbn; 
+
+Query 4:           SELECT B.isbn, S.copies 
+                         FROM Book B FULL OUTER JOIN Stock S 
+                         ON B.isbn = S.isbn; 
+
+Which one of the queries above is certain to have an output that is a superset of the outputs 
+of the other three queries?
+Options:
+(A) Query 1 
+(B) Query 2 
+(C) Query 3 
+(D) Query 4
+Category:
+Databases
+
+Question:
+Match the following: 
+
+Field                                   Length in bits 
+
+P.  UDP Header's Port Number            I. 48  
+Q.  Ethernet MAC Address               II.  8 
+R.  IPv6 Next Header                  III. 32 
+S.  TCP Header's Sequence Number       IV. 16
+Options:
+(A) P-III, Q-IV, R-II, S-I 
+(B) P-II,   Q-I,    R-IV,  S-III 
+(C) P-IV,  Q-I,  R-II,  S-III 
+(D) P-IV, Q-I,    R-III, S-II
+
+
+Question:
+Consider the following statements regarding the slow start phase of the TCP congestion 
+control algorithm.  Note that cwnd stands for the TCP congestion window and MSS denotes 
+the Maximum Segment Size. 
+
+  (i) The cwnd increases by 2 MSS on every successful acknowledgment. 
+ (ii) The cwnd approximately doubles on every successful acknowledgement. 
+(iii) The cwnd increases by 1 MSS every round trip time. 
+ (iv) The cwnd approximately doubles every round trip time. 
+
+Which one of the following is correct?
+Options:
+(A) Only (ii) and (iii) are true 
+(B) Only (i) and (iii) are true 
+(C) Only (iv) is true 
+(D) Only (i) and (iv) are true
+
+
+Question:
+Two people, P and Q, decide to independently roll two identical dice, each with 6 faces, 
+numbered 1 to 6. The person with the lower number wins. In case of a tie, they roll the dice 
+repeatedly until there is no tie. Define a trial as a throw of the dice by P and Q. Assume that 
+all 6 numbers on each dice are equi-probable and that all trials are independent. The 
+probability (rounded to 3 decimal places) that one of them wins on the third trial is ____.
+Category:
+EngineeringMathematics
+
+Question:
+The value of <sup>&pi;/4</sup>&int;<sub>0</sub> xcos(x<sup>2</sup>)dx  correct to three decimal places  
+(assuming that  &pi; = 3.14 ) is ____.
+
+
+Question:
+Consider a matrix A = uv<sup>T</sup>  where u = [1] , v = [1] . Note that v<sup>T</sup> denotes the     
+                                     [2]       [1]
+transpose of v. The largest eigenvalue of A  is ____.
+Category:
+EngineeringMathematics
+
+Question:
+The chromatic number of the following graph is ____. 
+
+<img src="img/2018_18.png" width="100px" height="100px" />
+
+
+Question:
+Let G be a finite group on 84 elements. The size of a largest possible proper subgroup of G 
+is ____.
+
+
+Question:
+The postorder traversal of a binary tree is 8,9,6,7,4,5,2,3,1. The inorder traversal of the same 
+tree is 8,6,9,4,7,2,5,1,3. The height of a tree is the length of the longest path from the root to 
+any leaf. The height of the binary tree above is ____.
+
+
+Question:
+Consider the following C program: 
+
+<code>
+#include < stdio.h > 
+
+int counter = 0; 
+
+int calc (int a, int b) { 
+    int c; 
+
+    counter++; 
+    if (b==3) return (a*a*a); 
+    else { 
+        c = calc(a, b/3); 
+        return (c*c*c); 
+    } 
+} 
+
+int main (){ 
+    calc(4, 81); 
+    printf ("%d", counter); 
+} 
+</code>
+
+The output of this program is ____.
+
+
+Question:
+Consider the sequential circuit shown in the figure, where both flip-flops used are positive 
+edge-triggered D flip-flops. 
+
+<img src="img/2018_22.png" width="100px" height="100px" />
+
+The number of states in the state transition diagram of this circuit that have a transition back 
+to the same state on some value of "in" is ____.
+
+
+Question:
+A 32-bit wide main memory unit with a capacity of 1 GB is built using 256M x 4-bit DRAM 
+chips. The number of rows of memory cells in the DRAM chip is 2<sup>14</sup>. The time taken to 
+perform one refresh operation is 50 nanoseconds. The refresh period is 2 milliseconds. The 
+percentage (rounded to the closest integer) of the time available for performing the memory 
+read/write operations in the main memory unit is ____.
+
+
+Question:
+Consider a system with 3 processes that share 4 instances of the same resource type. Each 
+process can request a maximum of K instances. Resource instances can be requested and 
+released only one at a time. The largest value of K that will always avoid deadlock is ____.
+
+
+Question:
+Consider a long-lived TCP session with an end-to-end bandwidth of 1 Gbps (= 10<sup>9</sup> bits-per-
+second). The session starts with a sequence number of 1234. The minimum time (in seconds, 
+rounded to the closest integer) before this sequence number can be used again is ____.
+
+
+Question:
+Consider a matrix P whose only eigenvectors are the multiples of [1] .  
+                                                                 [4]
+
+ Consider the following statements. 
+
+    (I) P does not have an inverse 
+   (II) P has a repeated eigenvalue 
+  (III) P cannot be diagonalized 
+
+Which one of the following options is correct?
+Options:
+(A) Only I and III are necessarily true 
+(B) Only II is necessarily true 
+(C) Only I and II are necessarily true 
+(D) Only II and III are necessarily true
+
+
+Question:
+Let N be the set of natural numbers. Consider the following sets. 
+
+       P:  Set of Rational numbers (positive and negative) 
+       Q:  Set of functions from {0, 1} to N 
+       R:  Set of functions from N to {0, 1} 
+       S:  Set of finite subsets of N. 
+
+Which of the sets above are countable?
+Options:
+(A) Q and S only 
+(B) P and S only 
+(C) P and R only 
+(D) P, Q and S only
+
+
+Question:
+Consider the first-order logic sentence 
+
+&phi; &equiv;  &exist;s&exist;t&exist;u&forall;v&forall;w&forall;x&forall;y&psi;(s, t, u, v, w, x, y) 
+
+where &psi;(s, t, u, v, w, x, y) is a quantifier-free first-order logic formula using only predicate 
+symbols, and possibly equality, but no function symbols. Suppose &phi; has a model with a 
+universe containing 7 elements.   
+
+Which one of the following statements is necessarily true?
+Options:
+(A) There exists at least one model of &phi; with universe of size less than or equal to 3. 
+(B) There exists no model of &phi; with universe of size less than or equal to 3. 
+(C) There exists no model of &phi; with universe of size greater than 7. 
+(D) Every model of &phi; has a universe of size equal to 7.
+
+
+Question:
+Consider the following C program:  
+
+<code>
+#include< stdio.h > 
+
+void fun1(char *s1, char *s2){ 
+ char *tmp; 
+ tmp = s1; 
+ s1 = s2; 
+ s2 = tmp; 
+} 
+void fun2(char **s1, char **s2){ 
+ char *tmp; 
+ tmp = *s1; 
+ *s1 = *s2; 
+ *s2 = tmp; 
+} 
+int main(){ 
+ char *str1 = "Hi", *str2 = "Bye"; 
+ fun1(str1, str2);   printf("%s %s ", str1, str2); 
+ fun2(&str1, &str2); printf("%s %s", str1, str2); 
+ return 0; 
+}
+</code> 
+
+The output of the program above is
+Options:
+(A) Hi Bye Bye Hi 
+(B) Hi Bye Hi Bye 
+(C) Bye Hi Hi Bye 
+(D) Bye Hi Bye Hi
+
+
+Question:
+Let G be a simple undirected graph. Let T<sub>D</sub> be a depth first search tree of G. Let T<sub>B</sub> be a 
+breadth first search tree of G. Consider the following statements. 
+
+  (I) No edge of G is a cross edge with respect to T<sub>D</sub>.(A cross edge in G is between two 
+      nodes neither of which is an ancestor of the other in T<sub>D</sub>.) 
+ (II) For every edge (u,v) of G, if u is at depth i and v is at depth j in T<sub>B</sub>, then |i - j| = 1.
+ 
+Which of the statements above must necessarily be true?
+Options:
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II
+
+
+Question:
+Assume that multiplying a matrix G<sub>1</sub> of dimension p x  q with another matrix G<sub>2</sub> of 
+dimension q x r requires pqr scalar multiplications. Computing the product of n matrices 
+G<sub>1</sub>G<sub>2</sub>G<sub>3</sub>...G<sub>n</sub> can be done by parenthesizing in different ways. Define Gi Gi+1 as an explicitly 
+computed pair for a given paranthesization if they are directly multiplied. For example, in 
+the matrix multiplication chain G<sub>1</sub>G<sub>2</sub>G<sub>3</sub>G<sub>4</sub>G<sub>5</sub>G<sub>6</sub> using parenthesization  
+(G<sub>1</sub>(G<sub>2</sub>G<sub>3</sub>))(G<sub>4</sub>(G<sub>5</sub>G<sub>6</sub>)),  G<sub>2</sub>G<sub>3</sub> and G<sub>5</sub>G<sub>6</sub> are the only explicitly computed pairs. 
+
+Consider a matrix multiplication chain F<sub>1</sub>F<sub>2</sub>F<sub>3</sub>F<sub>4</sub>F<sub>5</sub>, where matrices F<sub>1</sub>, F<sub>2</sub>, F<sub>3</sub>, F<sub>4</sub> and F<sub>5</sub> are 
+of dimensions 2 x 25, 25 x 3, 3 x 16, 16 x 1 and 1 x 1000, respectively. In the parenthesization of 
+F<sub>1</sub>F<sub>2</sub>F<sub>3</sub>F<sub>4</sub>F<sub>5</sub>  that minimizes the total number of scalar multiplications, the explicitly 
+computed pairs is/are
+Options:
+(A) F<sub>1</sub>F<sub>2</sub> and F<sub>3</sub>F<sub>4</sub> only 
+(B) F<sub>2</sub>F<sub>3</sub> only 
+(C) F<sub>3</sub>F<sub>4</sub> only 
+(D) F<sub>1</sub>F<sub>2</sub> and F<sub>4</sub>F<sub>5</sub> only
+
+
+Question:
+Consider the following C code. Assume that unsigned long int type length is 64 
+bits. 
+
+<code>
+unsigned long int fun(unsigned long int n){ 
+    unsigned long int i, j = 0, sum = 0; 
+    for (i = n; i > 1; i = i/2) j++; 
+    for ( ; j > 1; j = j/2) sum++; 
+    return(sum); 
+}
+</code> 
+
+The value returned when we call fun with the input 2<sup>40</sup> is
+Options:
+(A) 4 
+(B) 5 
+(C) 6 
+(D) 40
+
+
+Question:
+Consider the unsigned 8-bit fixed point binary number representation below, 
+
+                    b7  b6  b5  b4  b3 .  b2   b1  b0 
+
+where the position of the binary point is between b3 and b2.  Assume b7 is the most significant 
+bit.  Some of the decimal numbers listed below cannot be represented exactly in the above 
+representation: 
+(i) 31.500       (ii)     0.875     (iii)  12.100      (iv)   3.001 
+
+Which one of the following statements is true?
+Options:
+(A) None of (i), (ii), (iii), (iv) can be exactly represented 
+(B) Only (ii) cannot be exactly represented 
+(C) Only (iii) and (iv) cannot be exactly represented 
+(D) Only (i) and (ii) cannot be exactly represented
+
+
+Question:
+The size of the physical address space of a processor is 2<sup>P</sup> bytes. The word length is 
+2<sup>W</sup> bytes. The capacity of cache memory is 2<sup>N</sup> bytes. The size of each cache block is 
+2<sup>M</sup> words. For a K-way set-associative cache memory, the length (in number of bits) of the 
+tag field is
+Options:
+(A) P - N - log<sub>2</sub> K 
+(B) P - N + log<sub>2</sub> K 
+(C) P - N - M - W - log<sub>2</sub> K 
+(D) P - N - M - W + log<sub>2</sub> K
+
+
+Question:
+Consider the following languages:   
+
+    I. {a<sup>m</sup>b<sup>n</sup>c<sup>p</sup>d<sup>q</sup>| m + p = n + q, where m, n, p, q &ge; 0} 
+   II. {a<sup>m</sup>b<sup>n</sup>c<sup>p</sup>d<sup>q</sup>| m = n and p = q, where m, n, p, q &ge; 0} 
+  III. {a<sup>m</sup>b<sup>n</sup>c<sup>p</sup>d<sup>q</sup>| m = n = p and p &ne; q, where m, n, p, q &ge; 0} 
+   IV. {a<sup>m</sup>b<sup>n</sup>c<sup>p</sup>d<sup>q</sup>| mn = p + q, where m, n, p, q &ge; 0} 
+
+Which of the languages above are context-free?
+Options:
+(A) I and IV only 
+(B) I and II only 
+(C) II and III only 
+(D) II and IV only
+
+
+Question:
+Consider the following problems. L(G) denotes the language generated by a grammar G. 
+L(M) denotes the language accepted by a machine M. 
+
+  (I) For an unrestricted grammar G and a string &omega;, whether w &isin; L(G) 
+ (II) Given a Turing machine M, whether L(M) is regular 
+(III) Given two grammars G1 and G2, whether L(G1) = L(G2) 
+ (IV) Given an NFA N, whether there is a deterministic PDA P such that N and P 
+      accept the same language. 
+
+Which one of the following statements is correct?
+Options:
+(A) Only I and II are undecidable 
+(B) Only III is undecidable 
+(C) Only II and IV are undecidable 
+(D) Only I, II and III are undecidable
+
+
+Question:
+A lexical analyzer uses the following patterns to recognize three tokens T<sub>1</sub>, T<sub>2</sub>, and T<sub>3</sub> over 
+the alphabet {a,b,c}. 
+
+    T<sub>1</sub>:   a? (b|c)<sup>*</sup>a  
+    T<sub>2</sub>:   b? (a|c)<sup>*</sup>b  
+    T<sub>3</sub>:   c? (b|a)<sup>*</sup>c   
+
+Note that 'x?' means 0 or 1 occurrence of the symbol x. Note also that the analyzer outputs 
+the token that matches the longest possible prefix.  
+
+If the string  bbaacabc is processed by the analyzer, which one of the following is the 
+sequence of tokens it outputs?
+Options:
+(A) T<sub>1</sub>T<sub>2</sub>T<sub>3</sub> 
+(B) T<sub>1</sub>T<sub>1</sub>T<sub>3</sub> 
+(C) T<sub>2</sub>T<sub>1</sub>T<sub>3</sub> 
+(D) T<sub>3</sub>T<sub>3</sub>
+
+
+Question:
+Consider the following parse tree for the expression a#b$c$d#e#f, involving two binary 
+operators $ and #.  
+
+<img src="img/2018_38.png" width="100px" height="100px" />
+
+Which one of the following is correct for the given parse tree?
+Options:
+(A) $ has higher precedence and is left associative; # is right associative 
+(B) # has higher precedence and is left associative; $ is right associative 
+(C) $ has higher precedence and is left associative; # is left associative 
+(D) # has higher precedence and is right associative; $ is left associative
+
+
+Question:
+In a system, there are three types of resources: E, F and G. Four processes P0, P1, P2 and P3 
+execute concurrently. At the outset, the processes have declared their maximum resource 
+requirements using a matrix named Max as given below. For example, Max[P2,F] is the 
+maximum number of instances of F that P2 would require. The number of instances of the 
+resources allocated to the various processes at any given state is given by a matrix named 
+Allocation.  
+
+Consider a state of the system with the Allocation matrix as shown below, and in which 3 
+instances of E and 3 instances of F are the only resources available.  
+
+Allocation    Max 
+   E F G      E F G 
+P0 1 0 1   P0 4 3 1 
+P1 1 1 2   P1 2 1 4 
+P2 1 0 3   P2 1 3 3 
+P3 2 0 0   P3 5 4 1 
+
+From the perspective of deadlock avoidance, which one of the following is true?
+Options:
+(A) The system is in safe state. 
+(B) The system is not in safe state, but would be safe if one more instance of E were 
+    available 
+(C) The system is not in safe state, but would be safe if one more instance of F were 
+    available 
+(D) The system is not in safe state, but would be safe if one more instance of G were 
+    available
+
+
+Question:
+Consider the following solution to the producer-consumer synchronization problem. The 
+shared buffer size is N. Three semaphores empty,  full and mutex are defined with respective 
+initial values of 0, N and 1. Semaphore empty denotes the number of available slots in the 
+buffer, for the consumer to read from. Semaphore full denotes the number of available slots 
+in the buffer, for the producer to write to. The placeholder variables, denoted by P, Q, R, 
+and S, in the code below can be assigned either empty or full. The valid semaphore 
+operations are: wait() and signal(). 
+
+<code>
+Producer:              Consumer: 
+
+do{                    do{ 
+    wait(P);               wait(R); 
+    wait(mutex);           wait(mutex); 
+    //Add item to buffer   //Consume item from buffer 
+    signal(mutex);         signal(mutex); 
+    signal(Q);             signal(S); 
+}while(1);              }while(1);
+</code> 
+
+Which one of the following assignments to P, Q, R and S will yield the correct solution?
+Options:
+(A) P: full,     Q: full,     R: empty, S: empty 
+(B) P: empty,  Q: empty, R: full,     S: full 
+(C) P: full,     Q: empty, R: empty, S: full 
+(D) P: empty, Q: full,     R: full,     S: empty
+Category:
+OperatingSystem
+
+Question:
+Consider the relations r(A, B) and s(B, C), where s.B is a primary key and r.B is a foreign 
+key referencing s.B.  Consider the query 
+
+    Q:   r &bowtie; (&sigma;B<5(s)) 
+
+Let LOJ denote the natural left outer-join operation.  Assume that r and s contain no null 
+values.  
+
+Which one of the following queries is NOT equivalent to Q?
+Options:
+(A) &sigma;<sub>B<5</sub>(r &bowtie; s) 
+(B) &sigma;<sub>B<5</sub>(r LOJ s) 
+(C) r LOJ (&sigma;<sub>B<5</sub>(s)) 
+(D) &sigma;<sub>B<5</sub>(r) LOJ s
+Category:
+Databases
+
+Question:
+Consider the following four relational schemas. For each schema, all non-trivial functional 
+dependencies are listed. The underlined attributes are the respective primary keys. 
+
+Schema I: Registration (<ins>rollno</ins>, courses) 
+          Field 'courses' is a set-valued attribute containing the set of courses a student has 
+          registered for.  
+          Non-trivial functional dependency:  
+          rollno &rarr; courses 
+
+Schema II: Registration (<ins>rollno, courseid</ins>, email) 
+           Non-trivial functional dependencies: 
+           rollno, courseid &rarr; email 
+           email &rarr; rollno 
+
+Schema III: Registration (<ins>rollno, courseid</ins>, marks, grade) 
+            Non-trivial functional dependencies: 
+            rollno, courseid &rarr; marks, grade 
+            marks &rarr; grade 
+
+Schema IV: Registration (<ins>rollno, courseid</ins>, credit) 
+           Non-trivial functional dependencies:  
+           rollno, courseid &rarr; credit 
+           courseid &rarr; credit 
+
+Which one of the relational schemas above is in 3NF but not in BCNF?
+Options:
+(A)  Schema I  
+(B)  Schema II 
+(C)  Schema III 
+(D)  Schema IV
+Category:
+Databases
+
+Question:
+Let G be a graph with 100! vertices, with each vertex labelled by a distinct permutation of 
+the numbers 1,2, ... , 100.  There is an edge between vertices u and v if and only if the label 
+of u can be obtained by swapping two adjacent numbers in the label of v. Let  y denote the 
+degree of a vertex in G, and z denote the number of connected components in G.  
+Then, y +  10z = ____.
+
+
+Question:
+Consider Guwahati (G) and Delhi (D) whose temperatures can be classified as high (H), 
+medium (M) and low (L). Let P(H<sub>G</sub>) denote the probability that Guwahati has high 
+temperature. Similarly, P(M<sub>G</sub>) and P(L<sub>G</sub>) denotes the probability of Guwahati having 
+medium and low temperatures respectively. Similarly, we use P(H<sub>D</sub>), P(M<sub>D</sub>) and P(L<sub>D</sub>) for 
+Delhi.  
+
+The following table gives the conditional probabilities for Delhi's temperature given 
+Guwahati's temperature. 
+
+    H<sub>D</sub>     M<sub>D</sub>     L<sub>D</sub> 
+H<sub>G</sub>  0.40   0.48   0.12 
+M<sub>G</sub>  0.10   0.65   0.25 
+L<sub>G</sub>  0.01   0.50   0.49 
+
+Consider the first row in the table above. The first entry denotes that if Guwahati has high 
+temperature (H<sub>G</sub>) then the probability of Delhi also having a high temperature (H<sub>D</sub>) is 0.40; 
+i.e., P(H<sub>D</sub>|H<sub>G</sub>) = 0.40. Similarly, the next two entries are P(M<sub>D</sub>|H<sub>G</sub>) = 0.48 and 
+P(L<sub>D</sub>|H<sub>G</sub>) = 0.12. Similarly for the other rows.  
+
+If it is known that P(H<sub>G</sub>) = 0.2, P(M<sub>G</sub>) = 0.5, and P(L<sub>G</sub>) = 0.3, then the probability 
+(correct to two decimal places) that Guwahati has high temperature given that Delhi has high 
+temperature is ____.
+
+
+Question:
+Consider the following program written in pseudo-code. Assume that x and y are integers. 
+
+<code>
+Count(x,y) { 
+    if (y != 1){   
+        if (x != 1) { 
+            print("*"); 
+            Count(x/2, y); 
+        } 
+        else { 
+            y = y-1; 
+            Count(1024, y); 
+       } 
+   } 
+}
+</code> 
+
+The number of times that the print statement is executed by the call 
+Count(1024,1024) is ____.
+
+
+Question:
+The number of possible min-heaps containing each value from {1, 2, 3, 4, 5, 6, 7} exactly once 
+is ____.
+
+
+Question:
+Consider the following undirected graph G: 
+
+  <img src="img/2018_47.png" width="100px" height="100px" /> 
+
+Choose a value for x that will maximize the number of minimum weight spanning trees 
+(MWSTs) of G. The number of MWSTs of G for this value of x is ____.
+
+
+Question:
+Consider the weights and values of items listed below. Note that there is only one unit of 
+each item. 
+
+Item number  Weight     Value 
+             (in Kgs)   (in Rupees) 
+      1        10        60 
+      2        7         28 
+      3        4         20 
+      4        2         24 
+
+The task is to pick a subset of these items such that their total weight is no more than 11 Kgs 
+and their total value is maximized. Moreover, no item may be split. The total value of items 
+picked by an optimal algorithm is denoted by V<sub>opt</sub>. A greedy algorithm sorts the items by 
+their value-to-weight ratios in descending order and packs them greedily, starting from the 
+first item in the ordered list. The total value of items picked by the greedy algorithm is 
+denoted by V<sub>greedy</sub>.  
+
+The value of V<sub>opt</sub> - V<sub>greedy</sub> is ____.
+
+
+Question:
+Consider the minterm list form of a Boolean function F given below. 
+
+F(P, Q, R, S) =  &sum; m(0, 2, 5, 7, 9, 11) + d(3, 8, 10, 12, 14) 
+
+Here, m denotes a minterm and d denotes a don't care term. The number of essential prime 
+implicants of the function F is ____.
+Category:
+DigitalLogic
+
+Question:
+The instruction pipeline of a RISC processor has the following stages: Instruction Fetch (IF), 
+Instruction Decode (ID), Operand Fetch (OF), Perform Operation (PO) and Writeback (WB). 
+The IF, ID, OF and WB stages take 1 clock cycle each for every instruction. Consider a 
+sequence of 100 instructions. In the PO stage, 40 instructions take 3 clock cycles each, 35 
+instructions take 2 clock cycles each, and the remaining 25 instructions take 1 clock cycle 
+each. Assume that there are no data hazards and no control hazards.  
+
+The number of clock cycles required for completion of execution of the sequence of 
+instructions is ____.
+Category:
+ComputerOrganizationAndArchitecture
+
+Question:
+A processor has 16 integer registers (R0, R1, .. , R15) and 64 floating point registers (F0, 
+F1,... , F63). It uses a 2-byte instruction format. There are four categories of instructions: 
+Type-1, Type-2, Type-3, and Type-4. Type-1 category consists of four instructions, each 
+with 3 integer register operands (3Rs). Type-2 category consists of eight instructions, each 
+with 2 floating point register operands (2Fs). Type-3 category consists of fourteen 
+instructions, each with one integer register operand and one floating point register operand 
+(1R+1F). Type-4 category consists of N instructions, each with a floating point register 
+operand (1F).  
+
+The maximum value of N is ____.
+
+
+Question:
+Given a language L, define L<sup>i</sup> as follows: 
+
+L<sup>0</sup> = {&epsilon;} 
+L<sup>i</sup> = L<sup>i-1</sup> . L for all i > 0 
+
+The order of a language L is defined as the smallest k such that  L<sup>k</sup> = L<sup>k+1</sup>.  
+Consider the language L<sub>1</sub> (over alphabet 0) accepted by the following automaton. 
+
+<img src="img/2018_52.png" width="100px" height="100px" />
+
+The order of L<sub>1</sub> is ____.
+
+
+Question:
+Consider a storage disk with 4 platters (numbered as 0, 1, 2 and 3), 200 cylinders (numbered 
+as 0, 1, ... , 199), and 256 sectors per track (numbered as 0, 1, ... , 255). The following 6 
+disk requests of the form [sector number, cylinder number, platter number] are received by 
+the disk controller at the same time: 
+
+[120, 72, 2] , [180, 134, 1] , [60, 20, 0] , [212, 86, 3] , [56, 116, 2] , [118, 16, 1] 
+
+Currently the head is positioned at sector number 100 of cylinder 80, and is moving towards 
+higher cylinder numbers. The average power dissipation in moving the head over 100 
+cylinders is 20 milliwatts and for reversing the direction of the head movement once is 15 
+milliwatts. Power dissipation associated with rotational latency and switching of head 
+between different platters is negligible.  
+
+The total power consumption in milliwatts to satisfy all of the above disk requests using the 
+Shortest Seek Time First disk scheduling algorithm is ____.
+
+
+Question:
+Consider an IP packet with a length of 4,500 bytes that includes a 20-byte IPv4 header and 
+a 40-byte TCP header. The packet is forwarded to an IPv4 router that supports a Maximum 
+Transmission Unit (MTU) of 600 bytes. Assume that the length of the IP header in all the 
+outgoing fragments of this packet is 20 bytes. Assume that the fragmentation offset value 
+stored in the first fragment is 0.  
+
+The fragmentation offset value stored in the third fragment is ____.
+
+
+Question:
+Consider a simple communication system where multiple nodes are connected by a shared 
+broadcast medium (like Ethernet or wireless). The nodes in the system use the following 
+carrier-sense based medium access protocol. A node that receives a packet to transmit will 
+carrier-sense the medium for 5 units of time. If the node does not detect any other 
+transmission in this duration, it starts transmitting its packet in the next time unit. If the node 
+detects another transmission, it waits until this other transmission finishes, and then begins 
+to carrier-sense for 5 time units again. Once they start to transmit, nodes do not perform any 
+collision detection and continue transmission even if a collision occurs. All transmissions 
+last for 20 units of time. Assume that the transmission signal travels at the speed of 10 meters 
+per unit time in the medium.  
+
+Assume that the system has two nodes P and Q, located at a distance d meters from each 
+other. P starts transmitting a packet at time t=0 after successfully completing its carrier-sense 
+phase. Node Q has a packet to transmit at time t=0 and begins to carrier-sense the medium.  
+
+The maximum distance d (in meters, rounded to the closest integer) that allows Q to 
+successfully avoid a collision between its proposed transmission and P's ongoing 
+transmission is ____.
+
+

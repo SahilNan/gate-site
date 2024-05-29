@@ -1,0 +1,105 @@
+.appContainer {
+	display: grid;
+	height: 100vh;
+	width: 100vw;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr 2fr 3fr 5fr;
+	grid-template-areas:
+		"appHeading appHeading"
+		"appActions appActions"
+		"elementsContainer questionsPreviewContainer"
+		"questionsContent  questionsPreviewContainer"
+		"questionsContent  pdfPreview"
+	;
+	overflow: hidden;
+	gap: 10px;
+}
+
+.appHeading {
+	color: var(--brand-color-dark);
+	grid-area: appHeading;
+	padding: 10px;
+}
+
+.appActions {
+	display: flex;
+	grid-area: appActions;
+	padding: 10px;
+}
+
+.actionButton {
+	color: #fff;
+	padding: 10px;
+	background-color: var(--brand-color);
+	border: none;
+	margin-left: 10px;
+	border-radius: 4px;
+}
+
+.elementsContainer {
+	display: flex;
+	flex-wrap: wrap;
+	grid-area: elementsContainer;
+	padding: 10px;
+	overflow: scroll;
+	gap: 10px;
+}
+
+.contentElement {
+	background-color: var(--brand-color-light);
+	color: var(--brand-color-dark);
+	padding: 10px;
+}
+
+.questionsContent {
+	grid-area: questionsContent;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.questionsPreviewContainer {
+	display: flex;
+	flex-direction: column;
+	grid-area: questionsPreviewContainer;
+	overflow: scroll;
+	padding: 10px;
+}
+
+.questionContainer {
+	display: flex;
+	flex-direction: column;
+	background-color: #fff;
+	color: var(--brand-color-dark);
+}
+
+.questionHeading {
+	color: var(--brand-color-dark);
+	background-color: var(--brand-color-light);
+	padding: 10px;
+}
+
+.questionContent {
+	color: var(--brand-color-dark);
+	padding: 10px;
+}
+
+.options {
+	padding: 10px;
+}
+
+.option {
+	padding: 10px;
+}
+
+.pdfPreview {
+	grid-area: pdfPreview;
+	overflow: scroll;
+	padding: 10px;
+}
+
+.pdfContent {
+	width:100%;
+	height:100%;
+}

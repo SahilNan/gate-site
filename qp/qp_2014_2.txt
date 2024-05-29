@@ -1,0 +1,774 @@
+Question:
+Choose the most appropriate phrase from the options given below to complete the following 
+sentence. 
+
+India is a post-colonial country because
+Options:
+(A) it was a former British colony 
+(B) Indian Information Technology professionals have colonized the world 
+(C) India does not follow any colonial practices 
+(D) India has helped other countries gain freedom
+Category:
+GeneralAptitude
+
+Question:
+Who ____ was coming to see us this evening?
+Options:
+(A) you said 
+(B) did you say
+(C) did you say that 
+(D) had you said
+Category:
+GeneralAptitude
+
+Question:
+Match the columns.
+
+Column 1        Column 2
+1) eradicate    P) misrepresent 
+2) distort      Q) soak completely 
+3) saturate     R) use
+4) utilize      S) destroy utterly
+Options:
+(A) 1:S, 2:P, 3:Q, 4:R 
+(B) 1:P, 2:Q, 3:R, 4:S 
+(C) 1:Q, 2:R, 3:S, 4:P 
+(D) 1:S, 2:P, 3:R, 4:Q
+Category:
+GeneralAptitude
+
+Question:
+What is the average of all multiples of 10 from 2 to 198?
+Options:
+(A) 90 
+(B) 100 
+(C) 110 
+(D) 120
+Category:
+GeneralAptitude
+
+Question:
+The value of &radic;(12 + &radic;(12 + &radic;(12 + ...))) is
+Options:
+(A) 3.464 
+(B) 3.932 
+(C) 4.000 
+(D) 4.444
+Category:
+GeneralAptitude
+
+Question:
+The old city of Koenigsberg, which had a German majority population before World War 2, is now 
+called Kaliningrad.  After the events of the war, Kaliningrad is now a Russian territory and has a 
+predominantly Russian population. It is bordered by the Baltic Sea on the north and the countries of 
+Poland to the south and west and Lithuania to the east respectively.  Which of the statements below 
+can be inferred from this passage?
+Options:
+(A) Kaliningrad was historically Russian in its ethnic make up 
+(B) Kaliningrad is a part of Russia despite it not being contiguous with the rest of Russia 
+(C) Koenigsberg was renamed Kaliningrad, as that was its original Russian name 
+(D) Poland and Lithuania are on the route from Kaliningrad to the rest of Russia
+Category:
+GeneralAptitude
+
+Question:
+The number of people diagnosed with dengue fever (contracted from the bite of a mosquito) in 
+north India is twice the number diagnosed last year. Municipal authorities have concluded that 
+measures to control the mosquito population have failed in this region. 
+
+Which one of the following statements, if true, does not contradict this conclusion?
+Options:
+(A) A high proportion of the affected population has returned from neighbouring countries where 
+    dengue is prevalent 
+(B) More cases of dengue are now reported because of an increase in the Municipal Office's 
+    administrative efficiency 
+(C) Many more cases of dengue are being diagnosed this year since the introduction of a new and 
+    effective diagnostic test 
+(D) The number of people with malarial fever (also contracted from mosquito bites) has increased 
+    this year
+Category:
+GeneralAptitude
+
+Question:
+If x is real and |x<sup>2</sup> - 2x + 3| = 11, then possible values of |-x<sup>3</sup> + x<sup>2</sup> - x| include
+Options:
+(A) 2, 4 
+(B) 2, 14 
+(C) 4, 52 
+(D) 14, 52
+Category:
+GeneralAptitude
+
+Question:
+The ratio of male to female students in a college for five years is plotted in the foll1owing line graph. 
+If the number of female students doubled in 2009, by what percent did the number of male students 
+increase in 2009? ____
+
+<img src="img/2014_2_9.png" width="100px" height="100px" />
+Category:
+GeneralAptitude
+
+Question:
+At what time between 6 a.m. and 7 a.m. will the minute hand and hour hand of a clock make an 
+angle closest to 60&deg;?
+Options:
+(A) 6:22 a.m. 
+(B) 6:27 a.m. 
+(C) 6:38 a.m. 
+(D) 6:45 a.m.
+Category:
+GeneralAptitude
+
+Question:
+The security system at an IT office is composed of 10 computers of which exactly four are 
+working. To check whether the system is functional, the officials inspect four of the computers 
+picked at ran.dom (without replacement). The system is deemed functional if at least three of the 
+four computers inspected are working.  Let the probability that the system is deemed functional be 
+denoted by p. Then 100p = ____.
+
+
+Question:
+Each of the nine words in the sentence  "The quick brown fox jumps over the lazy 
+dog" is written on a separate piece of paper. These nine pieces of paper are kept in a box. One of 
+the pieces is drawn at random from the box. The expected length of the word drawn is 
+____. (The answer should be rounded to one decimal place.)
+
+
+Question:
+The maximum number of edges in a bipartite graph on 12 vertices  is 2
+____.
+
+
+Question:
+If the matrix A is such that
+
+     A = [2 ] [1 9 5]
+         [-4]
+         [7 ]  
+
+then the determinant of A is equal to ____.
+
+
+Question:
+A non-zero polynomial f(x) of degree 3 has roots at x = 1, x = 2 and x = 3.  Which one of the 
+following must be TRUE?
+Options:
+(A) f(0)f(4) < 0
+(B) f(0)f(4) > 0
+(C) f(0) + f(4) > 0  
+(D) f(0) + f(4) < 0
+
+
+Question:
+The dual of a Boolean function  F(x<sub>1</sub>, x<sub>2</sub>, ... , x<sub>n</sub>, +, .,'), written= as F<sup>D</sup> is the same expression 
+as that of F with + and  '  swapped. F is said to be self-dual if F = F<sup>D</sup> . The number of self-dual 
+functions with n Boolean variables is
+Options:
+(A) 2<sup>n</sup>
+(B) 2<sup>n - 1</sup> 
+(C) 2<sup>2<sup>n</sup></sup>
+(D) 2<sup>2<sup>n - 1</sup></sup>
+Category:
+DigitalLogic
+
+Question:
+Let k = 2<sup>n</sup>. A circuit is built by giving the output of an n-bit binary counter as input to an   
+n-to-2<sup>n</sup> bit decoder. This circuit is equivalent to a
+Options:
+(A) k-bit binary up counter. 
+(B) k-bit binary down counter. 
+(C) k-bit ring counter. 
+(D) k-bit Johnson counter.
+Category:
+DigitalLogic
+
+Question:
+Consider the equation (123)<sub>5</sub> = (x8)<sub>y</sub> with x and y as unknown. The number of possible solutio)ns is 
+____ .
+
+
+Question:
+A 4-way set-associative cache memory unit with a capacity of 16 KB is built using a block size of 8 
+words. The word length is 32 bits. The size of the physical address space is 4 GB. The number of 
+bits for the TAG field is ____
+
+
+Question:
+Consider the function func shown below:
+
+<code>
+int func(int num) { 
+int count = 0; T
+    while (num) { 
+       count++;
+       num >>= 1; 
+    } 
+return (count);
+} 
+</code>
+
+The value returned by func(435)is ____.
+
+
+Question:
+Suppose n and p are unsigned int variables in a C program. We wish to set p to <sup>n</sup>C<sub>3</sub>.  
+If n is large, which one of the following statements is most likely to set p correctly?
+Options:
+(A) p = n * (n - 1) * (n - 2) / 6; 
+(B) p = n * (n - 1) / 2 * (n - 2) / 3;  
+(C) p = n * (n - 1) / 3 * (n - 2) / 2; 
+(D) p = n * (n - 1) * (n - 2) / 6.0;
+
+
+Question:
+A priority queue is implemented as a Max-Heap. Initially, it has 5 elements. The level-order 
+traversal of the heap is:  10, 8, 5, 3, 2. Two new elements 1 and 7 are inserted into the heap in that 
+order. The level-order traversal of the heap after the insertion of the elements is:
+Options:
+(A) 10, 8, 7, 3, 2, 1, 5 
+(B) 10, 8, 7, 2, 3, 1, 5 
+(C) 10, 8, 7, 1, 2, 3, 5 
+(D) 10, 8, 7, 5, 3, 2, 1
+
+
+Question:
+Which one of the following correctly determines the solution of the recurrence relation with
+T(1) = 1? 
+             T(n) = 2T(n/2) + log n
+Options:
+(A) &Theta;(n)
+(B) &Theta;=(nlog n) 
+(C) &Theta;(n<sup>2</sup>) 
+(D) &Theta;(log n)
+
+
+Question:
+Consider the tree arcs of a BFS traversal from a source node W in an unweig1hted, connected, 
+undirected graph.  The tree T formed by the tree arcs is a data structure for computing
+Options:
+(A) the shortest path between every pair of vertices. 
+(B) the shortest path from W to every vertex in the graph.  
+(C) the shortest paths from W to only those nodes that areE leaves of  T. 
+(D) the longest path in the graph.
+
+
+Question:
+If L1 = {a<sup>n</sup> | n &ge; 0} and L2 = {b<sup>n</sup> | n &ge; 0}, consider  
+
+    (I) L1.L2 is a regular language 
+   (II) L1.L2 = {a<sup>n</sup>b<sup>n</sup> | n &ge; 0} 
+
+Which one of the following is  CORRECT?
+Options:
+(A) Only (I)
+(B) Only (II)
+(C) Both (I) and (II) 
+(D) Neither (I) nor (II)
+
+
+Question:
+Let A &le;<sub>m</sub> B denotes that language A is mapping reducible (also known as many-to-one reducible) 
+to language B. Which one of the following is FALSE?
+Options:
+(A) If A &le;<sub>m</sub> B and B is recursive then A is recursive. 
+(B) If A &le;<sub>m</sub> B and A is undecidable then B is undecidable. 
+(C) If A &le;<sub>m</sub> B and B is recursively enumerable then A is recursively enumerable. 
+(D) If A &le;<sub>m</sub> B and B is not recursively enumerable then A is not recursively enumerable.
+
+
+Question:
+Consider the grammar defined by the following production rules, with two operators * and +  
+   
+     S &rarr; T * P
+     T &rarr; U | T * U
+     P &rarr; Q + P | Q
+     Q &rarr; Id
+     U &rarr; Id
+
+Which one of the following is TRUE?
+Options:
+(A) + is left associative, while * is right associative 
+(B) + is right associative, while * is left associative 
+(C) Both + and * are right associative 
+(D) Both + and * are left associative
+
+
+Question:
+Which one of the following is NOT performed during compilation?
+Options:
+(A) Dynamic memory allocation 
+(B) Type checking
+(C) Symbol table management 
+(D) Inline expansion
+
+
+Question:
+Which one of the following is TRUE?
+Options:
+(A) The requirements document also describes how the requirements that are listed in the document 
+    are implemented efficiently. 
+(B) Consistency and completeness of functional requirements are always achieved in practice. 
+(C) Prototyping is a method of requirements validation. 
+(D) Requirements review is carried out to find the errors in system design.
+
+
+Question:
+A FAT(file allocation table) based file system is being used and the total overhead of each entry in 
+the FAT is 4 bytes in size. Given a 100 x 10<sup>6</sup>  bytes disk on which the file system is stored and data 
+block size is 103 bytes, the maximum size of a file that can be stored on this disk in units of 10<sup>6</sup> 
+bytes is ____.
+
+
+Question:
+The maximum number of superkeys for the relation schema R(E,F,G,H) with E as the key is 
+____.
+
+
+Question:
+Given an instance of the STUDENTS relation as shown below:
+
+StudentID StudentName StudentEmail StudentAge CPI 
+2345      Shankar     shankar@math X          9.4 
+1287      Swati       swati@ee     19         9.5 
+7853      Shankar     shankar@cse  19         9.4 
+9876      Swati       swati@mech   18         9.3 
+8765      Ganesh      ganesh@civil 19         8.7 
+
+For (StudentName, StudentAge) to be a key for this instance, the value X should NOT be  
+equal to ____.
+
+
+Question:
+Which one of the following is TRUE about the interior gateway routing protocols - Routing 
+Information Protocol (RIP) and Open Shortest Path First (OSPF)?
+Options:
+(A) RIP uses distance vector routing and OSPF uses link state routing 4
+(B) OSPF uses distance vector routing and RIP uses link state routing 1
+(C) Both RIP and OSPF use link state routing 
+(D) Both RIP and OSPF use distance vector routing
+
+
+Question:
+Which one of the following socket API functions converts an unconnected active TCP socket into a 
+passive socket?
+Options:
+(A) connect 
+(B) bind
+(C) listen 
+(D) accept
+
+
+Question:
+In the diagram shown below,  L1 is an Ethernet LAN and L2 is a Token-Ring LAN.  An IP packet 
+originates from sender 2S and traverses to R, as shown.  The links within each ISP and across the 
+two ISPs, are all point-to-point optical links.  The initial value of the TTL field is 32.  The 
+maximum possible value of the TTL field when R receives the datagram is ____.
+
+<img src="img/2014_2_25.png" width="100px" height="100px" />
+
+
+Question:
+Consider the store and forward packet switched network given below. Assume that the bandwidth 
+of each link is 10<sup>6</sup> bytes / sec. A user on host A sends a file of size 103 bytes to host B through 
+routers R1 and R2 in  three  different ways. In the first case a single packet containing the complete 
+file is transmitted from A to B. In the second case, the file is split into 10 equal parts, and these 
+packets are transmitted from A to B. In the third case, the file is split into 20 equal parts and these 
+packets are sent from A to B. Each packet contains 100 bytes of header information along with the 
+user data. Consider only transmission time and ignore processing, queuing and propagation delays. 
+Also assume that there are no errors during transmission. Let T1, T2 and T3 be the times taken to 
+transmit the file in the first, second and third case respectively. Which one of the following is 
+CORRECT?  
+
+<img src="img/2014_2_26.png" width="100px" height="100px" />
+Options:
+(A) T1 < T2 < T3
+(B) T1 > T2 > T3 
+(C) T2 = T3, T3 < T1
+(D) T1 = T3, T3 > T2
+
+
+Question:
+An IP machine Q has a path to another IP machine H via three IP routers R1, R2, and R3. 
+
+    Q-R1-R2-R3-H 
+
+H acts as an HTTP server, and (Q connects to H via HTTP and downloads a file. Session layer 
+encryption is used, with DES as the shared key encryption protocol. Consider the following four 
+pieces of information: 
+
+[I1] The URL of the file downloaded by Q 
+[I2] The TCP port numbers at Q and H 
+[I3] The IP addresses of Q and H 
+[I4] The link layer addresses of Q and H 
+
+Which of I1, I2, I3, and I4 can an intruder learn through sniffing at R2 alone?
+Options:
+(A) Only I1 and I2 
+(B) Only I1 
+(C) Only I2 and I3 
+(D) Only I3 and I4
+
+
+Question:
+A graphical HTML browser resident at a network client machine Q accesses a static HTML 
+webpage from a HTTP server S. The static HTML page has exactly one static embedded image 
+which is also at S.  Assuming no caching, which one of the following is correct about the HTML 
+webpage loading (including the embedded image)?
+Options:
+(A) Q needs to send at least 2 HTTP requests to S, each necessarily in a separate TCP 
+    connection to server S 
+(B) Q needs to send at least 2 HTTP requests to S, but a single TCP connection to server S is 
+    sufficient 
+(C) A single HTTP request from Q to S is sufficient, and a single TCP connection between Q 
+    and S is necessary for this 
+(D) A single HTTP request from Q to S is sufficient, and this is possible without any TCP
+    connection between Q and S
+
+
+Question:
+Consider the following schedule S of transactions T1, T2, T3, T4:
+  
+T1            T2         T3            T4
+              Reads(X)
+ 
+                         Writes(X) 
+                         Commit  
+  
+Writes(X)
+Commit
+
+             Writes(Y)
+             Reads(Z)
+             Commit
+
+                                       Reads(X)
+                                       Reads(Y)
+                                       Commit           
+
+Which one of the following statements is CORRECT?
+Options:
+(A) S is conflict-serializable but not recoverable 
+(B) S is not conflict-serializable but is recoverable 
+(C) S is both conflict-serializable and  recoverable 
+(D) S is neither conflict-serializable nor is it recoverable
+
+
+Question:
+Consider a join (relation algebra) between relations r(R) and s(S) using the nested loop method. 
+There are 3 buffers each of size equal to disk block size, out of which one buffer is reserved for 
+intermediate results. Assuming size(r(R)) < size(s(S)), the join will have fewer number of 
+disk block accesses if
+Options:
+(A) relation r(R) is in the outer loop. 
+(B) relation s(S) is in the outer loop. 
+(C) join selection factor between r(R) and s(S) is more than 0.5. 
+(D) join selection factor between r(R) and s(S) is less than 0.5.
+
+
+Question:
+Consider the procedure below for the Producer-Consumer problem which uses semaphores: 
+
+semaphore n = 0;  
+semaphore s = 1;
+void producer()             void consumer() 
+{                           {
+    while(true)                 while(true) 
+    {                           { 
+        produce();                  semWait(s);
+        semWait(s);                 semWait(n); 
+        addToBuffer();              removeFromBuffer(); 
+        semSignal(s);               semSignal(s); 
+        semSignal(n);               consume(); 
+    }                           } 
+}                           } 
+
+Which one of the following is TRUE?
+Options:
+(A) The producer will be able to add an item to the buffer, but the consumer can never  
+    consume it. 
+(B) The consumer will remove no more than one item from  the buffer. 
+(C) Deadlock occurs if the consumer succeeds in acquiring semaphore s when the buffer is 
+    empty. 
+(D) The starting value for the semaphore n must be 1 and not 0 for deadlock-free operation.
+
+
+Question:
+Three processes A, B and C each execute a loop of 100 iterations. In each iteration of the loop, a 
+process performs a single computation that requires tc CPU milliseconds and then initiates a single 
+I/O operation that lasts for tio milliseconds. It is assumed that the computer where the processes 
+execute has sufficient number of I/O devices and the OS of the computer assigns different I/O 
+devices to each process. Also, the scheduling overhead of the OS is negligible. The processes have 
+the following characteristics: 
+
+   Process id  tc      tio 
+   A           100 ms  500 ms 
+   B           350 ms  500 ms 
+   C           200 ms  500 ms 
+
+The processes A, B, and C are started at times 0, 5 and 10 milliseconds respectively, in a pure time 
+sharing system (round robin scheduling) that uses a time slice of 50 milliseconds. The time in 
+milliseconds at which process C would complete its first I/O operation is ____.
+
+
+Question:
+A computer has twenty physical page frames which contain pages numbered 101 through 120.  
+Now a program accesses the pages numbered 1, 2, ..., 100 in that order, and repeats the access 
+sequence THRICE. Which one of the following page replacement policies experiences the same 
+number of page faults as the optimal page replacement policy for this program?
+Options:
+(A) Least-recently-used 
+(B) First-in-first-out 
+(C) Last-in-first-out 
+(D) Most-recently-used
+
+
+Question:
+For a C program accessing X[i][j][k], the following intermediate code is generated by a 
+compiler. Assume that the size  of an integer is 32 bits and the size of a character is 8 bits.  
+
+t0 = i * 1024  
+t1 = j * 32  
+t2 = k * 4 
+t3 = t1 + t0
+t4 = t3 + t2
+t5 = X[t4]
+
+Which one of the following statements about the source code for the C program is CORRECT?
+Options:
+(A) X is declared as "int X[32][32][8]". 
+(B) X is declared as "int X[4][1024][32]". 
+(C) X is declared as "char X[4][32][8]".  
+(D) X is declared as "char X[32][16][2]".
+
+
+Question:
+Let < M > be the encoding of a Turing machine as a string over &sum; = {0, 1}. Let  
+L = { < M > | M is a Turning machine that accepts a string of length 2014}. Then, L is
+Options:
+(A) decidable and recursively enumerable  
+(B) undecidable but recursively enumerable 
+(C) undecidable and not recursively enumerable 
+(D) decidable but not recursively enumerable
+
+
+Question:
+Let L1 = {w &isin; {0,1}<sup>*</sup> | w has at least as many occurrences of (110)'s as (011)'s}.
+Let L2 = {w &isin; {0,1}<sup>*</sup> | w has at least as many occurrences of (000)'s as (111)'s}.
+ 
+Which one of the following is TRUE?
+Options:
+(A) L1 is regular but not L2
+(B) L1 is regular but not L2
+(C) Both L1 and L2 are regular  
+(D) Neither L1 nor L2 are regular
+
+
+Question:
+Consider two strings A = "qpqrr" and B = "pqprqrp". Let x be the length of the longest common 
+subsequence (not necessarily contiguous) between A and B and let y be the number of such longest 
+common subsequences between A and B. Then x + 10y = ___.
+
+
+Question:
+Suppose P, Q, R, S, T are sorted sequences having lengths 20, 24, 30, 35, 50 respectively.  They are 
+to be merged into a single sequence by merging together two sequences at a time.  The number of 
+comparisons that will be needed in the worst case by the optimal algorithm for doing this is ____.
+
+
+Question:
+Consider the expression tree shown. Each leaf represents a numerical value, which can either be 0 
+or 1.  Over all possible choices of the values at the leaves, the maximum possible value of the 
+expression represented by the tree is ___.  
+
+<img src="img/2014_2_39.png" width="100px" height="100px" />
+
+
+Question:
+Consider the following function 
+
+double f(double x){ 
+   if(abs(x*x - 3) < 0.01) return x;
+   else return f(x/2 + 1.5/x); 
+} 
+
+Give a value q(to 2 decimals) such that f(q) will return q:____.
+
+
+Question:
+Suppose a stack implementation supports an instruction REVERSE, which reverses the order of 
+elements on the stack, in addition to the PUSH and POP instructions. Which one of the following 
+statements is TRUE with respect to this modified stack?
+Options:
+(A) A queue cannot be implemented using this stack.  
+(B) A queue can be implemented where ENQUEUE takes a single instruction and DEQUEUE takes 
+    a sequence of two instructions. 
+(C) A queue can be implemented where ENQUEUE takes a sequence of three instructions and    
+    DEQUEUE takes a single instruction. 
+(D) A queue can be implemented where both ENQUEUE and DEQUEUE take a single instruction  
+    each.
+
+
+Question:
+Consider the C function given below. 
+
+<code>
+int f(int j)  
+{  
+  static int i = 50; 
+  int k; 
+  if (i == j)  
+     { 
+       printf("something"); 
+       k = f(i); 
+       return 0; 
+     } 
+  else return 0; 
+}
+</code>
+
+Which one of the following is TRUE?
+Options:
+(A) The function returns 0 for all values of j. 
+(B) The function prints the string something for all values of j.
+(C) The function returns 0 when j = 50.
+(D) The function will exhaust the runtime stack or run into an infinite loop when j = 50.
+
+
+Question:
+In designing a computer's cache system, the cache block (or cache line) size is an important 
+parameter.  Which one of the following statements is correct in this context?
+Options:
+(A) A smaller block size implies better spatial locality 
+(B) A smaller block size implies a smaller cache tag and hence lower cache tag overhead 
+(C) A smaller block size implies a larger cache tag and hence lower cache hit time 
+(D) A smaller block size incur s a( lower cache miss penalty
+
+
+Question:
+If the associativity of a processor cache is doubled while keeping the capacity and block size 
+unchanged, which one of the following is guaranteed to be NOT affected?
+Options:
+(A) Width of tag comparator 
+(B) Width of set index decoder 
+(C) Width of way selection multiplexor 
+(D) Width of processor to main memory data bus
+
+
+Question:
+The value of a float type variable is represented using the single-precision 32-bit floating point 
+format of IEEE-754 standard that uses 1 bit for sign, 8 bits for biased exponent and 23 bits for 
+mantissa. A float type variable X is assigned the decimal value of -14.25. The representation of X 
+in hexadecimal notation is
+Options:
+(A) C1640000H 
+(B) 416C0000H 
+(C) 41640000H 
+(D) C16C0000H
+
+
+Question:
+In the Newton-Raphson method, an initial guess x<sub>0</sub> = 2 is made and the sequence x<sub>0</sub>, x<sub>1</sub>, x<sub>2</sub>... 
+is obtained for the function
+      
+         0.75x<sup>3</sup> - 2x<sup>2</sup> - 2x + 4 = 0
+
+Consider the statements
+ 
+ (I) x<sub>3</sub> = 0
+(II) The method converges to a solution in a finite number of iterations. 
+
+Which of the following is TRUE?
+Options:
+(A) Only I  
+(B) Only II  
+(C) Both I and II 
+(D) Neither I nor II
+
+
+Question:
+The product of the non-zero eigenvalues of the matrix
+
+   1 0 0 0 1
+   0 1 1 1 0
+   0 1 1 1 0
+   0 1 1 1 0
+   1 0 0 0 1
+
+is ____.
+Category:
+EngineeringMathematics
+
+Question:
+The probability that a given positive integer lying between 1 and 100 (both inclusive) is NOT 
+divisible by 2, 3 or 5 is ____ .
+Category:
+EngineeringMathematics
+
+Question:
+The number of distinct positive integral factors of 2014 is  ____
+Category:
+EngineeringMathematics
+
+Question:
+Consider the following relation on subsets of the set S of integers between 1 and 2014. For two 
+distinct subsets U and V of S we say U < V  if the minimum element in the symmetric difference of 
+the two sets is in U. 
+
+Consider the following two statements:
+
+ S1: There is a subset of S that is larger than every other subset. 
+ S2: There is a subset of S that is smaller than every other subset. 
+
+Which one of the following is CORRECT?
+Options:
+(A) Both S1 and S2 are true 
+(B) S1 is true and S2 is false 
+(C) S2 is true and S1 is false 
+(D) Neither S1 nor S2 is true
+
+
+Question:
+A cycle on n vertices is isomorphic to its complement. The value of n is ____.
+
+
+Question:
+The number of distinct minimum spanning trees for the weighted graph below is ____ 
+
+<img src="img/2014_2_52.png" width="100px" height="100px" />
+
+
+Question:
+Which one of the following Boolean expressions is NTOT a tautology?
+Options:
+(A) ((a &rarr; b) &and; (b &rarr; c)) &rarr; (a &rarr; c)
+(B) (a &harr; c) &rarr; (&sim;b &rarr; (a &and; c))
+(C) (a &and; b &and; c) &rarr; (c &or; a)
+(D) a &rarr; (b &rarr; a)
+Category:
+DigitalLogic
+
+Question:
+SQL allows duplicate tuples in relations, and correspondingly defines the multiplicity of tuples in 
+the result of joins. Which one of the following queries always gives the same answer as the nested 
+query shown below:  
+
+    select * from R where a in (select S.a from S)
+Options:
+(A) select R.* from R, S where R.a = S.a 
+(B) select distinct R.* from R,S where R.a = S.a 
+(C) select R.* from R,(select distinct a from S) as S1 where   
+    R.a = S1.a 
+(D) select R.* from R,S where R.a = S.a and is unique R
+Category:
+Databases
+
+Question:
+Consider a main memory system that consists of 8 memory modules attached to the system bus, 
+which is one word wide. When a write request is made, the bus is occupied for 100 nanoseconds 
+(ns) by the data, address, and control signals. During the same 100 ns, and for 500 ns thereafter, the 
+addressed memory module executes one cycle accepting and storing the data. The (internal) 
+operation of different memory modules may overlap in time, but only one request can be on the bus 
+at any time. The maximum number of stores (of one word each) that can be initiated in 1 
+millisecond is ____
+
+

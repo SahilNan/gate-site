@@ -1,0 +1,877 @@
+Question:
+A binary operation &oplus; on a set of integers is defined as x &oplus; y = x<sup>2</sup> + y<sup>2</sup> . Which one of the following 
+statements is TRUE about &oplus;?  
+Options:
+(A) Commutative but not associative 
+(B) Both commutative and associative 
+(C) Associative but not commutative 
+(D) Neither commutative nor associative 
+
+Question:
+Suppose p is the number of cars per minute passing through a certain road junction between 5 PM 
+and 6 PM, and p has a Poisson distribution with mean 3. What is the probability of observing fewer 
+than 3 cars during any given minute in this interval? 
+Options:
+(A) 8/(2e<sup>3</sup>) 
+(B) 9/(2e<sup>3</sup>) 
+(C) 17/(2e<sup>3</sup>) 
+(D) 26/(2e<sup>3</sup>)
+
+Question:
+Which one of the following does NOT equal
+ 
+1 x x<sup>2</sup> 
+1 y y<sup>2</sup>
+1 z z<sup>2</sup>
+Options:
+(A) 1 x(x + 1) x + 1
+    1 y(y + 1) y + 1
+    1 z(z + 1) z + 1
+(B) 1 x + 1 x<sup>2</sup> + 1
+    1 y + 1 y<sup>2</sup> + 1
+    1 z + 1 z<sup>2</sup> + 1 
+(C) 0 x - y x<sup>2</sup> - y<sup>2</sup>
+    0 y - z y<sup>2</sup> - z<sup>2</sup>
+    1   z      z<sup>2</sup>  
+(D) 2 x + y x<sup>2</sup> + y<sup>2</sup>
+    2 y + z y<sup>2</sup> + z<sup>2</sup>
+    1   z      z<sup>2</sup>
+ 
+Question:
+The smallest integer that can be represented by an 8-bit number in 2's complement form is  
+Options:
+(A) -256 
+(B) -128 
+(C) -127 
+(D) 0  
+ 
+Question:
+In the following truth table, V = 1 if and only if the input is valid.  
+ 
+Inputs      Outputs 
+D0 D1 D2 D3 X0 X1 V 
+0  0  0  0  x  x  0 
+1  0  0  0  0  0  1 
+x  1  0  0  0  1  1 
+x  x  1  0  1  0  1 
+x  x  x  1  1  1  1
+ 
+What function does the truth table represent?  
+Options:
+(A) Priority encoder 
+(B) Decoder 
+(C) Multiplexer 
+(D) Demultiplexer 
+ 
+Question:
+Which one of the following is the tightest upper bound that represents the number of swaps 
+required to sort n numbers using selection sort? 
+Options:
+(A) O(log n) 
+(B) O(n) 
+(C) O(nlog n) 
+(D) O(n<sup>2</sup>)
+
+Question:
+Which one of the following is the tightest upper bound that represents the time complexity of 
+inserting an object into a binary search tree of n nodes?  
+Options:
+(A) O(1) 
+(B) O(log n) 
+(C) O(n) 
+(D) O(nlog n)
+
+Question:
+Consider the languages L1 = &Phi; and L2 ={a}. Which one of the following represents L1 L2<sup>*</sup> &cup; L1<sup>*</sup>? 
+Options:
+(A) {&epsilon;} 
+(B) &Phi; 
+(C) a<sup>*</sup> 
+(D) {&epsilon;, a}
+
+Question:
+What is the maximum number of reduce moves that can be taken by a bottom-up parser for a 
+grammar with no epsilon- and unit-production (i.e., of type A &rarr; &epsilon; and A &rarr; a) to parse a string 
+with n tokens? 
+Options:
+(A) n/2 
+(B) n - 1 
+(C) 2n - 1 
+(D) 2<sup>n</sup>
+
+Question:
+A scheduling algorithm assigns priority proportional to the waiting time of a process. Every process 
+starts with priority zero (the lowest priority). The scheduler re-evaluates the process priorities every 
+T time units and decides the next process to schedule. Which one of the following is TRUE if the 
+processes have no I/O operations and all arrive at time zero? 
+Options:
+(A) This algorithm is equivalent to the first-come-first-serve algorithm. 
+(B) This algorithm is equivalent to the round-robin algorithm. 
+(C) This algorithm is equivalent to the shortest-job-first algorithm. 
+(D) This algorithm is equivalent to the shortest-remaining-time-first algorithm. 
+ 
+Question:
+Match the problem domains in GROUP I with the solution technologies in GROUP II. 
+ 
+GROUP I                                 GROUP II  
+ 
+(P) Service oriented computing          (1) Interoperability 
+(Q) Heterogeneous communicating systems (2) BPMN 
+(R) Information representation          (3) Publish-find-bind 
+(S) Process description                 (4) XML 
+ 
+Options:
+(A) P-1, Q-2, R-3, S-4 
+(B) P-3, Q-4, R-2, S-1 
+(C) P-3, Q-1, R-4, S-2 
+(D) P-4, Q-3, R-2, S-1
+
+Question:
+The transport layer protocols used for real time multimedia, file transfer, DNS and email, 
+respectively are 
+Options:
+(A) TCP, UDP, UDP and TCP 
+(B) UDP, TCP, TCP and UDP 
+(C) UDP, TCP, UDP and TCP 
+(D) TCP, UDP, TCP and UDP
+
+Question:
+Using public key cryptography, X adds a digital signature &sigma; to message M, encrypts <M, &sigma;>, and 
+sends it to Y, where it is decrypted. Which one of the following sequences of keys is used for the 
+operations? 
+Options:
+(A) Encryption: X's private key followed by Y's private key; Decryption: X's public key followed 
+    by Y's public key 
+(B) Encryption: X's private key followed by Y's public key; Decryption: X's public key followed 
+    by Y's private key 
+(C) Encryption: X's public key followed by Y's private key; Decryption: Y's public key followed 
+    by X's private key 
+(D) Encryption: X's private key followed by Y's public key; Decryption: Y's private key followed
+    by X's public key
+
+Question:
+Assume that source S and destination D are connected through two intermediate routers labeled R. 
+Determine how many times each packet has to visit the network layer and the data link layer during 
+a transmission from S to D.  
+
+    S - R - R - D
+Options:
+(A) Network layer - 4 times and Data link layer - 4 times  
+(B) Network layer - 4 times and Data link layer - 3 times  
+(C) Network layer - 4 times and Data link layer - 6 times  
+(D) Network layer - 2 times and Data link layer - 6 times 
+
+Question:
+An index is clustered, if 
+Options:
+(A) it is on a set of fields that form a candidate key. 
+(B) it is on a set of fields that include the primary key. 
+(C) the data records of the file are organized in the same order as the data entries of the index. 
+(D) the data records of the file are organized not in the same order as the data entries of the index.
+
+Question:
+Three concurrent processes X, Y, and Z execute three different code segments that access and 
+update certain shared variables. Process X executes the P operation (i.e., wait) on semaphores  
+a, b and c; process Y executes the P operation on semaphores b, c and d; process Z executes the  
+P operation on semaphores c, d, and a before entering the respective code segments. After 
+completing the execution of its code segment, each process invokes the V operation (i.e., signal) on 
+its three semaphores. All semaphores are binary semaphores initialized to one. Which one of the 
+following represents a deadlock-free order of invoking the P operations by the processes?   
+Options:
+(A)  X: P(a)P(b)P(c)      Y: P(b)P(c)P(d)      Z: P(c)P(d)P(a) 
+(B)  X: P(b)P(a)P(c)      Y: P(b)P(c)P(d)      Z: P(a)P(c)P(d) 
+(C)  X: P(b)P(a)P(c)      Y: P(c)P(b)P(d)      Z: P(a)P(c)P(d) 
+(D)  X: P(a)P(b)P(c)      Y: P(c)P(b)P(d)      Z: P(c)P(d)P(a)
+
+Question:
+Which of the following statements is/are FALSE? 
+ 
+1. For every non-deterministic Turing machine, there exists an equivalent deterministic 
+   Turing machine. 
+2. Turing recognizable languages are closed under union and complementation. 
+3. Turing decidable languages are closed under intersection and complementation. 
+4. Turing recognizable languages are closed under union and intersection. 
+Options:
+(A) 1 and 4 only 
+(B) 1 and 3 only 
+(C) 2 only 
+(D) 3 only
+
+Question:
+Which of the following statements are TRUE?    
+    1. The problem of determining whether there exists a cycle in an undirected graph is in P.     
+    2. The problem of determining whether there exists a cycle in an undirected graph is in NP. 
+    3. If a problem A is NP-Complete, there exists a non-deterministic polynomial time algorithm 
+       to solve A. 
+Options:
+(A) 1, 2 and 3 
+(B) 1 and 2 only 
+(C) 2 and 3 only 
+(D) 1 and 3 only
+
+Question:
+What is the time complexity of Bellman-Ford single-source shortest path algorithm on a complete 
+graph of n vertices? 
+Options:
+(A) &Theta;(n<sup>2</sup>) 
+(B) &Theta;(n<sup>2</sup>log n)
+(C) &Theta;(n<sup>3</sup>)
+(D) &Theta;(n<sup>3</sup>log n)
+
+Question:
+In a k-way set associative cache, the cache is divided into v sets, each of which consists of k lines. 
+The lines of a set are placed in sequence one after another. The lines in set s are sequenced before 
+the lines in set (s+1). The main memory blocks are numbered 0 onwards. The main memory block 
+numbered j must be mapped to any one of the cache lines from 
+Options:
+(A) (j mod v) * k to (j mod v) * k + (k-1) 
+(B) (j mod v) to (j mod v) + (k-1) 
+(C) (j mod k) to (j mod k) + (v-1) 
+(D) (j mod k) * v to (j mod k) * v + (v-1)
+ 
+Question:
+Which one of the following expressions does NOT represent exclusive NOR of x and y?  
+Options:
+(A) xy + x'y'  
+(B) x &oplus; y'  
+(C) x' &oplus; y  
+(D) x' &oplus; y'
+
+Question:
+Which one of the following functions is continuous at x = 3?   
+Options:
+(A) f(x) = 2, if x = 3
+           x - 1, if x > 3
+           (x + 3)/3, if < 3   
+(B) f(x) = 4, if x = 3
+           8 - x, if x &ne; 3
+(C) f(x) = x + 3, if x &le; 3
+           x - 4, if x > 3
+(D) f(x) = 1/(x<sup>3</sup> - 27), if x &ne; 3
+
+Question:
+Function f is known at the following points: 
+ 
+x    0 0.3  0.6  0.9  1.2  1.5  1.8  2.1  2.4  2.7  3.0 
+f(x) 0 0.09 0.36 0.81 1.44 2.25 3.24 4.41 5.76 7.29 9.00 
+
+The value of <sup>3</sup>&int;<sub>0</sub>f(x)dx  computed using the trapezoidal rule is
+Options:
+(A) 8.983 
+(B) 9.003 
+(C) 9.017 
+(D) 9.045
+
+Question:
+Consider an undirected random graph of eight vertices. The probability that there is an edge 
+between a pair of vertices is 1/2. What is the expected number of unordered cycles of length three? 
+Options:
+(A) 1/8 
+(B) 1 
+(C) 7 
+(D) 8 
+
+Question:
+Which of the following statements is/are TRUE for undirected graphs?
+
+P: Number of odd degree vertices is even. 
+Q: Sum of degrees of all vertices is even. 
+Options:
+(A) P only 
+(B) Q only 
+(C) Both P and Q 
+(D) Neither P nor Q
+
+Question:
+The line graph L(G) of a simple graph G is defined as follows: 
+ 
+  There is exactly one vertex v(e) in L(G) for each edge e in G. 
+  For any two edges e and e' in G, L(G) has an edge between v(e) and v(e'), if and only if e and e' 
+are incident with the same vertex in G. 
+ 
+Which of the following statements is/are TRUE? 
+ 
+(P) The line graph of a cycle is a cycle. 
+(Q) The line graph of a clique is a clique. 
+(R) The line graph of a planar graph is planar. 
+(S) The line graph of a tree is a tree. 
+Options:
+(A)  P only 
+(B)  P and R only 
+(C)  R only 
+(D)  P, Q and S only
+
+Question:
+What is the logical translation of the following statement? 
+    "None of my friends are perfect."  
+Options:
+(A) &exist;x(F(x) &and; &not;P(x))  
+(B) &exist;x(&not;F(x) &and; P(x)) 
+(C) &exist;x(&not;F(x) &and; &not;P(x))  
+(D) &not;&exist;x(F(x) &and; P(x))
+
+Question:
+Consider the following sequence of micro-operations. 
+ 
+           MBR &larr; PC 
+           MAR &larr; X 
+           PC &larr; Y 
+           Memory &larr; MBR 
+ 
+Which one of the following is a possible operation performed by this sequence? 
+Options:
+(A) Instruction fetch  
+(B) Operand fetch 
+(C) Conditional branch 
+(D) Initiation of interrupt service 
+
+Question:
+Consider a hard disk with 16 recording surfaces (0-15) having 16384 cylinders (0-16383) and each 
+cylinder contains 64 sectors (0-63). Data storage capacity in each sector is 512 bytes. Data are 
+organized cylinder-wise and the addressing format is < cylinder no., surface no., sector no. >. A file 
+of size 42797 KB is stored in the disk and the starting disk location of the file is < 1200, 9, 40 >. 
+What is the cylinder number of the last sector of the file, if it is stored in a contiguous manner? 
+Options:
+(A) 1281 
+(B) 1282 
+(C) 1283 
+(D) 1284
+
+Question:
+The number of elements that can be sorted in &Theta;(log n) time using heap sort is
+Options:
+(A) &Theta;(1) 
+(B) &Theta;(&radic;log n)  
+(C) &Theta;(log n/(log log n))  
+(D) &Theta;(log n)
+  
+Question:
+Consider the following function: 
+ 
+<code>
+int unknown(int n){ 
+int i, j, k = 0; 
+for (i = n/2; i <= n; i++) 
+    for (j=2; j <= n; j = j * 2) 
+        k = k + n/2; 
+    return (k); 
+}
+</code>
+
+The return value of the function is 
+Options:
+(A) &Theta;(n<sup>2</sup>) 
+(B) &Theta;(n<sup>2</sup>log n)
+(C) &Theta;(n<sup>3</sup>)
+(D) &Theta;(n<sup>3</sup>log n)
+
+Question:
+Consider the following languages. 
+ 
+L1 = {0<sup>p</sup>1<sup>q</sup>0<sup>r</sup> | p, q, r &ge; 0} 
+L2 = {0<sup>p</sup>1<sup>q</sup>0<sup>r</sup> | p, q, r &ge; 0, p &ne; r } 
+ 
+Which one of the following statements is FALSE? 
+Options:
+(A)  L2 is context-free. 
+(B)  L1 &cap; L2 is context-free. 
+(C)  Complement of L2 is recursive. 
+(D)  Complement of L1 is context-free but not regular. 
+ 
+Question:
+Consider the DFA A given below. 
+ 
+<img src="img/2013_33.png" width="100px" height="100px" />
+
+Which of the following are FALSE?
+ 
+1. Complement of L(A) is context-free. 
+2. L(A) = L((11<sup>*</sup>0 + 0)(0 + 1)<sup>*</sup>0<sup>*</sup>1<sup>*</sup>) 
+3. For the language accepted by A, A is the minimal DFA. 
+4. A accepts all strings over {0, 1} of length at least 2. 
+Options:
+(A) 1 and 3 only 
+(B) 2 and 4 only 
+(C) 2 and 3 only 
+(D) 3 and 4 only
+
+Question:
+A shared variable x, initialized to zero, is operated on by four concurrent processes W, X, Y, Z as 
+follows. Each of the processes W and X reads x from memory, increments by one, stores it to 
+memory, and then terminates. Each of the processes Y and Z reads x from memory, decrements by 
+two, stores it to memory, and then terminates. Each process before reading x invokes the P 
+operation (i.e., wait) on a counting semaphore S and invokes the V operation (i.e., signal) on the 
+semaphore S after storing x to memory. Semaphore S is initialized to two. What is the maximum 
+possible value of x after all processes complete execution? 
+Options:
+(A) -2 
+(B) -1 
+(C) 1 
+(D) 2 
+  
+Question:
+Consider the following relational schema.
+ 
+Students(<ins>rollno: integer</ins>, sname: string) 
+Courses(<ins>courseno: integer</ins>, cname: string) 
+Registration(<ins>rollno: integer, courseno: integer</ins>, percent: real)
+ 
+Which of the following queries are equivalent to this query in English? 
+  "Find the distinct names of all students who score more than 90% in the course numbered 107"
+ 
+   (I)   SELECT DISTINCT S.sname 
+         FROM Students as S, Registration as R 
+         WHERE R.rollno=S.rollno AND R.courseno = 107 AND R.percent > 90 
+  (II)   &prod;<sub>sname</sub>(&sigma;<sub>courseno=107 &and; percent>90</sub>(Registration &bowtie; Students)) 
+ (III)   {T | &exist;S &isin; Students, &exist;R &isin; Registration (S.rollno = R.rollno &and;  
+         R.courseno = 107 &and; R.percent > 90 &and; T.sname=S.sname)} 
+  (IV) {< S<sub>N</sub> > | &exist;S<sub>R</sub>&exist;R<sub>P</sub> ( < S<sub>R</sub>, S<sub>N</sub> > &isin; Students &and; < S<sub>R</sub>, 107, R<sub>P</sub> > &isin; Registration &and; R<sub>P</sub> > 90)} 
+Options:
+(A) I, II, III and IV 
+(B) I, II and III only 
+(C) I, II and IV only 
+(D) II, III and IV only
+
+Question:
+Determine the maximum length of the cable (in km) for transmitting data at a rate of 500 Mbps in 
+an Ethernet LAN with frames of size 10,000 bits. Assume the signal speed in the cable to be 
+2,00,000 km/s. 
+Options:
+(A) 1 
+(B) 2 
+(C) 2.5 
+(D) 5
+
+Question:
+In an IPv4 datagram, the M bit is 0, the value of HLEN is 10, the value of total length is 400 and 
+the fragment offset value is 300. The position of the datagram, the sequence numbers of the first 
+and the last bytes of the payload, respectively are 
+Options:
+(A) Last fragment, 2400 and 2789   
+(B) First fragment, 2400 and 2759 
+(C) Last fragment, 2400 and 2759 
+(D) Middle fragment, 300 and 689
+
+Question:
+The following figure represents access graphs of two modules M1 and M2. The filled circles 
+represent methods and the unfilled circles represent attributes. If method m is moved to module M2 
+keeping the attributes where they are, what can we say about the average cohesion and coupling 
+between modules in the system of two modules? 
+ <img src="img/2013_38.png" width="100px" height="100px" />
+Options:
+(A) There is no change. 
+(B) Average cohesion goes up but coupling is reduced. 
+(C) Average cohesion goes down and coupling also reduces. 
+(D) Average cohesion and coupling increase. 
+  
+Question:
+A certain computation generates two arrays a and b such that a[i] = f(i) for 0 &le; i < n and  
+b[i] = g(a[i]) for 0 &le; i < n. Suppose this computation is decomposed into two concurrent processes 
+X and Y such that X computes the array a and Y computes the array b. The processes employ two 
+binary semaphores R and S, both initialized to zero. The array a is shared by the two processes. The 
+structures of the processes are shown below. 
+ 
+Process X:                   Process Y: 
+private i;                   private i; 
+for (i = 0; i < n; i++) {    for (i = 0; i < n; i++) { 
+   a[i] = f(i);                  EntryY(R, S); 
+   ExitX(R, S);                  b[i] = g(a[i]); 
+}                            } 
+ 
+Which one of the following represents the CORRECT implementations of ExitX and EntryY? 
+Options:
+(A) ExitX(R, S) {
+        P(R);
+        V(S);
+    }
+    EntryY(R, S) {
+        P(S);
+        V(R);
+    }
+(B) ExitX(R, S) {
+        V(R);
+        V(S);
+    }
+    EntryY(R, S) {
+        P(R);
+        P(S);
+    }
+(C) ExitX(R, S) {
+        P(S);
+        V(R);
+    }
+    EntryY(R, S) {
+        V(S);
+        P(R);
+    }  
+(D) ExitX(R, S) {
+        V(R);
+        P(S);
+    }
+    EntryY(R, S) {
+        V(S);
+        P(R);
+    }
+
+Question:
+Consider the following two sets of LR(1) items of an LR(1) grammar. 
+ 
+X &rarr; c.X, c/d     X &rarr; c.X, $ 
+X &rarr; .cX, c/d     X &rarr; .cX, $ 
+X &rarr; .d, c/d      X &rarr; .d, $
+
+Which of the following statements related to merging of the two sets in the corresponding LALR 
+parser is/are FALSE?
+
+1. Cannot be merged since look aheads are different. 
+2. Can be merged but will result in S-R conflict. 
+3. Can be merged but will result in R-R conflict. 
+4. Cannot be merged since goto on c will lead to two different sets. 
+Options:
+(A) 1 only 
+(B) 2 only 
+(C) 1 and 4 only 
+(D) 1, 2, 3 and 4
+ 
+Question:
+Which of the following is/are undecidable? 
+ 
+1. G is a CFG. Is L(G) = &Phi;? 
+2. G is a CFG. Is L(G) = &sum;<sup>*</sup>? 
+3. M is a Turing machine. Is L(M) regular? 
+4. A is a DFA and N is an NFA. Is L(A) = L(N)? 
+Options:
+(A) 3 only 
+(B) 3 and 4 only 
+(C) 1, 2 and 3 only 
+(D) 2 and 3 only 
+
+Question:
+What is the return value of f(p,p), if the value of p is initialized to 5 before the call? Note that 
+the first parameter is passed by reference, whereas the second parameter is passed by value. 
+ 
+<code>
+int f(int &x, int c) { 
+   c = c - 1; 
+   if (c ==0 ) return 1; 
+   x = x + 1; 
+   return f(x, c) * x; 
+}
+</code>
+Options:
+(A) 3024 
+(B) 6561 
+(C) 55440 
+(D) 161051
+ 
+Question:
+The preorder traversal sequence of a binary search tree is 30, 20, 10, 15, 25, 23, 39, 35, 42. Which 
+one of the following is the postorder traversal sequence of the same tree? 
+Options:
+(A) 10, 20, 15, 23, 25, 35, 42, 39, 30 
+(B) 15, 10, 25, 23, 20, 42, 35, 39, 30 
+(C) 15, 20, 10, 23, 25, 42, 35, 39, 30 
+(D) 15, 10, 23, 25, 20, 35, 42, 39, 30 
+ 
+Question:
+Consider the following operation along with Enqueue and Dequeue operations on queues, where 
+k is a global parameter. 
+
+    MultiDequeue(Q){ 
+        m = k   
+        while (Q is not empty) and (m > 0) {     
+            Dequeue(Q)  
+            m = m - 1  
+        } 
+    }
+
+What is the worst case time complexity of a sequence of n queue operations on an initially empty 
+queue? 
+Options:
+(A) &Theta;(n) 
+(B) &Theta;(n + k) 
+(C) &Theta;(nk) 
+(D) &Theta;(n<sup>2</sup>)
+
+Question:
+Consider an instruction pipeline with five stages without any branch prediction: Fetch Instruction 
+(FI), Decode Instruction (DI), Fetch Operand (FO), Execute Instruction (EI) and Write Operand 
+(WO). The stage delays for FI, DI, FO, EI and WO are 5 ns, 7 ns, 10 ns, 8 ns and 6 ns, respectively. 
+There are intermediate storage buffers after each stage and the delay of each buffer is 1 ns. A 
+program consisting of 12 instructions I1, I2, I3, ..., I12 is executed in this pipelined processor. 
+Instruction I4 is the only branch instruction and its branch target is I9. If the branch is taken during 
+the execution of this program, the time (in ns) needed to complete the program is 
+Options:
+(A) 132 
+(B) 165 
+(C) 176 
+(D) 328 
+ 
+Question:
+A RAM chip has a capacity of 1024 words of 8 bits each (1K x 8). The number of 2 x 4 decoders 
+with enable line needed to construct a 16K x 16 RAM from 1K x 8 RAM is 
+Options:
+(A) 4 
+(B) 5 
+(C) 6 
+(D) 7
+
+Question:
+Which one of the following is NOT logically equivalent to &not;&exist;x(&forall;y(&alpha;) &and; &forall;z(&beta;))? 
+Options:
+(A) &forall;x(&exist;z(&not;&beta;) &rarr; &forall;y(&alpha;))  
+(B) &forall;x(&forall;z(&beta;) &rarr; &exist;y(&not;&alpha;)) 
+(C) &forall;x(&forall;y(&alpha;) &rarr; &exist;z(&not;&beta;))  
+(D) &forall;x(&exist;y(&not;&alpha;) &rarr; &exist;z(&not;&beta;))  
+ 
+Question:
+The following code segment is executed on a processor which allows only register operands in its 
+instructions.  Each instruction can have atmost two source operands and one destination operand. Assume 
+that all variables are dead after this code segment. 
+ 
+c = a + b; 
+d = c * a; 
+e = c + a; 
+x = c * c; 
+if (x > a) { 
+   y = a * a; 
+} 
+else { 
+   d = d * d; 
+   e = e * e; 
+} 
+
+Suppose the instruction set architecture of the processor has only two registers. The only allowed 
+compiler optimization is code motion, which moves statements from one place to another while 
+preserving correctness. What is the minimum number of spills to memory in the compiled code? 
+Options:
+(A) 0 
+(B) 1 
+(C) 2 
+(D) 3
+ 
+Question:
+The following code segment is executed on a processor which allows only register operands in its 
+instructions.  Each instruction can have atmost two source operands and one destination operand. Assume 
+that all variables are dead after this code segment. 
+ 
+c = a + b; 
+d = c * a; 
+e = c + a; 
+x = c * c; 
+if (x > a) { 
+   y = a * a; 
+} 
+else { 
+   d = d * d; 
+   e = e * e; 
+}
+
+What is the minimum number of registers needed in the instruction set architecture of the processor 
+to compile this code segment without any spill to memory? Do not apply any optimization other 
+than optimizing register allocation. 
+Options:
+(A) 3 
+(B) 4 
+(C) 5 
+(D) 6 
+ 
+Question:
+The procedure given below is required to find and replace certain characters inside an input character string 
+supplied in array A.  The characters to be replaced are supplied in array oldc, while their respective 
+replacement characters are supplied in array newc. Array A has a fixed length of five characters, while 
+ arrays oldc and newc contain three characters each. However, the procedure is flawed.  
+
+void find_and_replace (char *A, char *oldc, char *newc) { 
+    for (int i=0; i<5; i++) 
+        for (int j=0; j<3; j++)  
+            if (A[i] == oldc[j])  A[i] = newc[j]; 
+}  
+ 
+The procedure is tested with the following four test cases. 
+ 
+(1)   oldc = "abc", newc = "dab"                 (2)   oldc = "cde", newc = "bcd" 
+(3)   oldc = "bca", newc = "cda"                 (4)   oldc = "abc", newc = "bac" 
+
+The tester now tests the program on all input strings of length five consisting of characters 'a', 
+'b', 'c', 'd' and 'e' with duplicates allowed. If the tester carries out this testing with the four 
+test cases given above, how many test cases will be able to capture the flaw? 
+Options:
+(A) Only one 
+(B) Only two 
+(C) Only three   
+(D) All four
+
+Question:
+The procedure given below is required to find and replace certain characters inside an input character string 
+supplied in array A.  The characters to be replaced are supplied in array oldc, while their respective 
+replacement characters are supplied in array newc. Array A has a fixed length of five characters, while 
+ arrays oldc and newc contain three characters each. However, the procedure is flawed.  
+
+void find_and_replace (char *A, char *oldc, char *newc) { 
+    for (int i=0; i<5; i++) 
+        for (int j=0; j<3; j++)  
+            if (A[i] == oldc[j])  A[i] = newc[j]; 
+}  
+ 
+The procedure is tested with the following four test cases. 
+ 
+(1)   oldc = "abc", newc = "dab"                 (2)   oldc = "cde", newc = "bcd" 
+(3)   oldc = "bca", newc = "cda"                 (4)   oldc = "abc", newc = "bac"
+
+If array A is made to hold the string "abcde", which of the above four test cases will be successful 
+in exposing the flaw in this procedure? 
+Options:
+(A) None 
+(B) 2 only 
+(C) 3 and 4 only 
+(D) 4 only 
+  
+Question:
+A computer uses 46-bit virtual address, 32-bit physical address, and a three-level paged page table 
+organization. The page table base register stores the base address of the first-level table (T1), which 
+occupies exactly one page. Each entry of T1 stores the base address of a page of the second-level table (T2). 
+Each entry of T2 stores the base address of a page of the third-level table (T3). Each entry of T3 stores a page 
+table entry (PTE). The PTE is 32 bits in size. The processor used in the computer has a 1 MB 16-way set 
+associative virtually indexed physically tagged cache. The cache block size is 64 bytes. 
+
+What is the size of a page in KB in this computer? 
+Options:
+(A) 2  
+(B) 4  
+(C) 8  
+(D) 16
+  
+Question:
+A computer uses 46-bit virtual address, 32-bit physical address, and a three-level paged page table 
+organization. The page table base register stores the base address of the first-level table (T1), which 
+occupies exactly one page. Each entry of T1 stores the base address of a page of the second-level table (T2). 
+Each entry of T2 stores the base address of a page of the third-level table (T3). Each entry of T3 stores a page 
+table entry (PTE). The PTE is 32 bits in size. The processor used in the computer has a 1 MB 16-way set 
+associative virtually indexed physically tagged cache. The cache block size is 64 bytes.
+What is the minimum number of page colours needed to guarantee that no two synonyms map to 
+different sets in the processor cache of this computer? 
+Options:
+(A) 2 
+(B) 4 
+(C) 8 
+(D) 16 
+ 
+Question:
+Relation R has eight attributes ABCDEFGH. Fields of R contain only atomic values.  
+F={CH&rarr;G, A&rarr;BC, B&rarr;CFH, E&rarr;A, F&rarr;EG} is a set of functional dependencies (FDs) so that F<sup>+</sup> is 
+exactly the set of FDs that hold for R. 
+
+How many candidate keys does the relation R have? 
+Options:
+(A) 3 
+(B) 4 
+(C) 5 
+(D) 6
+ 
+Question:
+Relation R has eight attributes ABCDEFGH. Fields of R contain only atomic values.  
+F={CH&rarr;G, A&rarr;BC, B&rarr;CFH, E&rarr;A, F&rarr;EG} is a set of functional dependencies (FDs) so that F<sup>+</sup> is 
+exactly the set of FDs that hold for R.
+
+The relation R is 
+Options:
+(A) in 1NF, but not in 2NF. 
+(B) in 2NF, but not in 3NF. 
+(C) in 3NF, but not in BCNF. 
+(D) in BCNF. 
+ 
+Question:
+Which one of the following options is the closest in meaning to the word given below?
+
+Nadir 
+Options:
+(A) Highest 
+(B) Lowest 
+(C) Medium  
+(D) Integration
+
+Question:
+Complete the sentence: 
+Universalism is to particularism as diffuseness is to ____. 
+Options:
+(A) specificity 
+(B) neutrality 
+(C) generality  
+(D) adaptation
+  
+Question:
+What will be the maximum sum of 44, 42, 40, ... ? 
+Options:
+(A) 502 
+(B) 504 
+(C) 506  
+(D) 500
+
+Question:
+Were you a bird, you ____ in the sky. 
+Options:
+(A) would fly 
+(B) shall fly 
+(C) should fly  
+(D) shall have flown 
+
+Question:
+Choose the grammatically INCORRECT sentence: 
+Options:
+(A) He is of Asian origin. 
+(B) They belonged to Africa. 
+(C) She is an European. 
+(D) They migrated from India to Australia.
+
+Question:
+Find the sum of the expression 
+1(&radic;1 + &radic;2) + 1/(&radic;2 + &radic;3) + 1/(&radic;3 + &radic;4) + ... + 1/(&radic;80 + &radic;81)
+Options:
+(A) 7      
+(B) 8 
+(C) 9      
+(D) 10
+
+Question:
+Out of all the 2-digit integers between 1 and 100, a 2-digit number has to be selected at random. 
+What is the probability that the selected number is not divisible by 7? 
+Options:
+(A) 13/90 
+(B) 12/90 
+(C) 78/90  
+(D) 77/90
+
+Question:
+After several defeats in wars, Robert Bruce went in exile and wanted to commit suicide. Just before 
+committing suicide, he came across a spider attempting tirelessly to have its net. Time and again, 
+the spider failed but that did not deter it to refrain from making attempts. Such attempts by the 
+spider made Bruce curious. Thus, Bruce started observing the near-impossible goal of the spider to 
+have the net. Ultimately, the spider succeeded in having its net despite several failures. Such act of 
+the spider encouraged Bruce not to commit suicide. And then, Bruce went back again and won 
+many a battle, and the rest is history. 
+Which one of the following assertions is best supported by the above information? 
+Options:
+(A) Failure is the pillar of success. 
+(B) Honesty is the best policy. 
+(C) Life begins and ends with adventures. 
+(D) No adversity justifies giving up hope.
+
+Question:
+A tourist covers half of his journey by train at 60 km/h, half of the remainder by bus at 30 km/h and 
+the rest by cycle at 10 km/h. The average speed of the tourist in km/h during his entire journey is 
+Options:
+(A) 36  
+(B) 30  
+(C) 24  
+(D) 18
+
+Question:
+The current erection cost of a structure is Rs. 13,200. If the labour wages per day increase by 1/5 of 
+the current wages and the working hours decrease by 1/24 of the current period, then the new cost 
+of erection in Rs. is 
+Options:
+(A) 16,500 
+(B) 15,180 
+(C) 11,000  
+(D) 10,120

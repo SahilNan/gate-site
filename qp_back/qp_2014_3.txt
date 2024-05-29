@@ -1,0 +1,745 @@
+Question:
+<ins>While trying to collect</ins> an envelope <ins>from under the table</ins>, <ins>Mr. X fell down</ins> and  
+            I                           II                         III                           
+<ins>was losing consciousness</ins>. 
+            IV 
+Which one of the above underlined parts of the sentence is NOT appropriate? 
+Options:
+(A) I 
+(B) II 
+(C) III 
+(D) IV
+
+Question:
+If she ____ how to calibrate the instrument, she ____ done the 
+experiment. 
+Options:
+(A) knows, will have 
+(B) knew, had 
+(C) had known, could have 
+(D) should have known, would have
+
+Question:
+Choose the word that is opposite in meaning to the word "coherent".
+Options:
+(A) sticky 
+(B) well-connected 
+(C) rambling 
+(D) friendly
+
+Question:
+Which number does not belong in the series below? 
+2, 5, 10, 17, 26, 37, 50, 64
+Options:
+(A) 17 
+(B) 37 
+(C) 64  
+(D) 26
+  
+Question:
+The table below has question-wise data on the performance of students in an examination. The 
+marks for each question are also listed. There is no neTgativeE or partial marking in the examination.  
+
+ Q No. Marks Answered Answered Not 
+             Correctly Wrongly Attempted 
+ 1     2     21       17       6 
+ 2     3     15       27       2 
+ 3     2     23       18       3 
+
+What is the average of the marks obtained by the class in the examination? 
+Options:
+(A) 1.34 
+(B) 1.7  
+(C) 3.02 
+(D) 3.91
+ 
+Question:
+A dance programme is scheduled for 10.00 a.m.  Some students are participating in the programme 
+and they need to come an hour earlier than the start of the event. These students should be 
+accompanied by a parent.  Other students and parents should come in time for the programme.  The 
+instruction you think that is appropriate for this is 
+Options:
+(A) Students should come at 9.00 a.m. and parents should come at 10.00 a.m. 
+(B) Participating students should come at 9.00 a.m. accompanied by a parent, and other parents 
+    and students should come by 10.00 a.m. 
+(C) Students who are not participating should come by 10.00 a.m. and they should not bring their 
+    parents.  Participating students should come at 9.00 a.m. 
+(D) Participating students should come before 9.00 a.m.  Parents who accompany them should 
+    come at 9.00 a.m.  All others should come at 10.00 a.m.
+ 
+Question:
+By the beginning of the 20th century, several hypotheses were being proposed, suggesting a 
+paradigm shift in our understanding of the universe. However, the clinching evidence was provided 
+by experimental measurements of the position of a star which was directly behind our sun. 
+
+Which of the following inference(s) may be drawn from the above passage? 
+
+  (i) Our understanding of the universe changes based on the positions of stars 
+ (ii) Paradigm shifts usually occur at the beginning of centuries 
+(iii) Stars are important objects in the universe 
+ (iv) Experimental evidence was important in confirming this paradigm shift 
+Options:
+(A) (i), (ii) and (iv)  
+(B) (iii) only 
+(C) (i) and (iv)   
+(D) (iv) only
+ 
+Question:
+The Gross Domestic Product (GDP) in Rupees grew at 7% during 2012-2013. For internat)ional 
+comparison, the GDP is compared in US Dollars (USD) after conversion based on the market 
+exchange rate. During the period 2012-2013 the exchange rate for the USD increased from  
+Rs. 50/ USD to Rs. 60/ USD. India's GDP in USD during the period 2012-2013 
+Options:
+(A) increased by 5 % 
+(B) decreased by 13%
+(C) decreased by 20% 
+(D) decreased by 11%
+
+Question:
+The ratio of male to female students in a college for five years is plotted in the following line graph. 
+If the number of female students in 2011 and 2012 is equEal, wha t is2 the ratio of male students in 
+2012 to male students in 2011? 
+
+<img src="img/2014_3_9.png" width="100px" height="100px" />
+Options:
+(A) 1:1 
+(B) 2:1 
+(C) 1.5:1 
+(D) 2.5:1 
+
+Question:
+Consider the equation: (7526)<sub>8</sub> - (Y)<sub>8</sub> = (4364)<sub>8</sub> , where (X)<sub>N</sub> stands for X to the base N. Find Y. 
+Options:
+(A) 1634 
+(B) 1737 
+(C) 3142 
+(D) 3162 
+
+Question:
+Consider the following  statements: 
+
+        P: Good mobile phones are not cheap 
+        Q: Cheap mobile phones are not good 
+       
+        L: P implies Q 
+        M: Q implies P 
+        N: P is equivalent to Q 
+
+Which one of the following about L, M, and N is CORRECT?  
+Options:
+(A)  Only L is TRUE. 
+(B)  Only M is TRUE.
+(C)  Only N is TRUE.
+(D)  L, M and N are TRUE.
+
+Question:
+Let X and Y be finite sets and f:X &rarr; Y be a function. Which one of the following statements is 
+TRUE?  
+Options:
+(A) For any subsets A and B of X, |f(A &cup; B))| = |f(A)| + |f(B)| 
+(B) For any subsets A and B of X, f(A &cap; B) = f(A) &cap; f(B)
+(C) For any subsets A and B of X, |f(A &cup; B))| = min{|f(A)|, |f(B)|}
+(D) For any subsets S and T of Y, f<sup>-1</sup>(S &cap; T) = f<sup>-1</sup>(S) &cap; f<sup>-1</sup>(T)
+
+Question:
+Let G be a group with 15 elements. Let L be a subgroup of G. It is known  that L &ne; G and that the 
+size of L is at least 4.  The size of L is ____. 
+ 
+Question:
+Which one of the fol3lowing statements is TRUE about every n x n matrix with only real 
+eigenvalues?     
+Options:
+(A)  If the trace of the matrix is positive and the determinant of the matrix is negative, at least one  
+     of its eigenvalues is negative. 
+(B)  If the trace of the matrix is positive, all its eigenvalues are positive. 
+(C)  If the determinant of the matrix is positive, all its eigenvalues are positive. 
+(D)  If the product of the trace and determinant of the matrix is positive, all its eigenvalues are 
+     positive.
+
+Question:
+If V1 and V2 are 4-dimensional subspaces of a 6-dimensional vector space V, then the smallest 
+possible dimension of  V1 &cap; V2   is ____.
+  
+
+Question:
+If <sup>2&pi;</sup>&int;<sub>0</sub>|xsinx|dx = k&pi;, then the value of k is equal to ____ .
+
+Question:
+Consider the following minterm expression for F:
+ 
+    F(P, Q, R, S) = &sum; 0 , 2, 5, 7, 8, 10, 13, 15 
+
+The minterms 2, 7, 8 and 13 are 'do not care' terms. The minimal sum-of-products form for F is
+Options:
+(A) Q <span class="above_bar">S</span> + <span class="above_bar">Q</span> S 
+(B) <span class="above_bar">Q</span> <span class="above_bar">S</span> + Q S 
+(C) <span class="above_bar">Q</span> <span class="above_bar">R</span> <span class="above_bar">S</span> + <span class="above_bar">Q</span> R <span class="above_bar">S</span> + Q <span class="above_bar">R</span> S + Q R S
+(D) <span class="above_bar">P</span> <span class="above_bar">Q</span> <span class="above_bar">S</span> + <span class="above_bar">P</span> Q S + P Q S + P <span class="above_bar">Q</span> <span class="above_bar">S</span>
+
+Question:
+Consider the following combinational function block involving four Boolean variables x, y, a, 
+b  where x, a, b  are inputs and y is the output.  
+
+f (x, y, a, b) 
+{ 
+      if (x is 1) y = a;
+      else y = b; 
+} 
+
+Which one of the following digit(al logic blocks is the most suitable for implementing this function? 
+Options:
+(A) Full adder 
+(B) Priority encoder 
+(C) Multiplexor 
+(D) Flip-flop 
+
+Question:
+Consider the following 3 processors (ns stands for nanoseconds). Assume that the pipeline registers 
+have zero latency.  
+
+P1: Four-stage pipeline with stage latencies 1 ns, 2 ns, 2 ns, 1 ns. 
+P2: Four-stage pipeline with stage latencies 1 ns, 1.5 ns, 1.5 ns, 1.5 ns. 
+P3: Five-stage pipeline with stage latencies 0.5 ns, 1 ns, 1 ns, 0.6 ns, 1 ns. 
+P4: Five-stage pipeline with stage latencies 0.5 ns, 0.5 ns, 1 ns, 1 ns, 1.1 ns. 
+
+Which processor has the highest peak clock frequency? 
+Options:
+(A) P1 
+(B) P2 
+(C) P3  
+(D) P4
+  
+Question:
+Let A be a square matrix of size  n x n. Consider the following pseudocode. What is the expected 
+output?   
+
+             C = 100; 
+             for i = 1 to n do 
+               for j = 1 to n do 
+                 { 
+                  Temp = A[i][j] + C; 
+                  A[i][j] = A[j][i]; 
+                  A[j][i] = Temp - C; 
+                } 
+             for i = 1 to n do 
+               for j = 1 to n do 
+                  output (A[i][j]); 
+ )
+Options:
+(A)  The matrix A itself
+(B)  Transpose of the matrix A 
+(C)  Adding 100 to the upper diagonal elements and subtracting 100 from lower diagonal elements 
+     of A 
+(D)  None of the above
+ 
+Question:
+The minimum number of 5 arithmetic operations required to evaluate the polynomial
+P(X) = X<sup>5</sup> + 4X<sup>3</sup> + 6X + 5 for a given value of X, using only one temporary variable is   
+____.  
+
+Question:
+Consider the following rooted tree with the vertex labeled P as the root: 
+
+<img src="img/2014_3_12.png" width="100px" height="100px" />
+
+The order in which the nodes are visited during an in-order traversal of the tree is    
+Options:
+(A) SQPTRWUV  
+(B) SQPTUWRV  
+(C) SQPTWUVR 
+(D) SQPTRUWV 
+
+Question:
+Suppose depth first search is executed on the graph below starting at some unknown vertex.  
+Assume that a recursive call to visit a vertex is made only after first checking that the vertex 
+has not been visited earlier.  Then the maximum possible recursion depth (including the 
+initial call)  is  ____.  
+
+<img src="img/2014_3_13.png" width="100px" height="100px" />  
+
+Question:
+You have an array of n elements. Suppose you implement quicksort by always choosing the central 
+element of the array as the pivot.Then the tightest upper bound for the worst case performance is  
+Options:
+(A) O(n<sup>2</sup>)
+(B) O(nlog n) 
+(C) &Theta;(nlog n)
+(D) O(n<sup>3</sup>)
+ 
+Question:
+The length of the shortest string NOT in the language (over &sum; = {a,b}) of the following regular 
+expression is ____.
+
+        a<sup>*</sup>b<sup>*</sup>(ba)<sup>*</sup>a<sup>*</sup> 
+
+Question:
+Let &sum; be a finite non-empty alphabet and let 2<sup>&sum;<sup>*</sup></sup> be the power set of &sum;<sup>*</sup>.  Which one of the 
+following is TRUE?  
+Options:
+(A) Both 2<sup>&sum;<sup>*</sup></sup> and &sum;<sup>*</sup> are countable 
+(B) 2<sup>&sum;<sup>*</sup></sup> is countable and &sum;<sup>*</sup> is uncountable 
+(C) 2<sup>&sum;<sup>*</sup></sup> is uncountable and &sum;<sup>*</sup> is countable 
+(D) Both 2<sup>&sum;<sup>*</sup></sup> and &sum;<sup>*</sup> are uncountable 
+
+Question:
+One of the purposes of using intermediate code in compilers is to  
+Options:
+(A) make parsing and semantic analysis simpler. 
+(B) improve error recovery and error reporting. 
+(C) increase the chances of reusing the machine-independent code optimizer in other compilers. 
+(D) improve the register allocation.
+
+Question:
+Which of the following statements are CORRECT?  
+
+1) Static allocation of all data areas by a compiler makes it impossible to implement recursion. 
+2) Automatic garbage collection is essential to implement recursion. 
+3) Dynamic allocation of activation records is essential to implement recursion. 
+4) Both heap and stack are essential to implement recursion. 
+Options:
+(A) 1 and 2 only 
+(B) 2 and 3 only 
+(C) 3 and 4 only 
+(D) 1 and 3 only
+
+Question:
+In the context of modular software design, which one of the following combinations is desirable?  
+Options:
+(A) High cohesion and high coupling 
+(B) High cohesion and low coupling
+(C) Low cohesion and high coupling
+(D) Low cohesion and low coupling
+
+Question:
+A system uses 3 page frames for storing process pages in main memory. It uses the Least Recently 
+Used (LRU) page replacement policy. Assume that all the page frames are initially empty. What is 
+the total number of page faults that will occur while processing the page reference string given 
+below? ____
+
+4,  7,  6,  1,  7,  6,  1,  2,  7,  2  
+
+Question:
+What is the optimized version of the relation algebra expression &pi;<sub>A1</sub>(&pi;<sub>A2</sub>(&sigma;<sub>F1</sub>(&sigma;<sub>F2</sub>(r)))), where 
+ A1 and A2 are sets of attributes in r with A1 &sub; A2 and F1,F2 are Boolean expressions based on the 
+attributes in r?  
+Options:
+(A) &pi;<sub>A1</sub>(&sigma;<sub>(F1 &and; F2)</sub>(r))
+(B) &pi;<sub>A1</sub>(&sigma;<sub>(F1 &or; F2)</sub>(r))
+(C) &pi;<sub>A2</sub>(&sigma;<sub>(F1 &and; F2)</sub>(r))
+(D) &pi;<sub>A2</sub>(&sigma;<sub>(F1 &or; F2)</sub>(r))
+
+Question:
+A prime attribute of a relation scheme R is an attribute that appears  
+Options:
+(A) in all candidate keys of R. 
+(B) in some candidate key of R. 
+(C) in a foreign key of R. 
+(D) only in the primary key of R. 
+
+Question:
+In the following pairs of OSI protocol layer/sub-layer and its functionality, the INCORRECT pair 
+is   
+Options:
+(A) Network layer and Routing 
+(B) Data Link Layer and Bit synchronization 
+(C) Transport layer and End-to-end process communication 
+(D) Medium Access Control sub-layer and Channel sharing
+ 
+Question:
+A bit-stuffing based framing protocol uses an 8-bit delimiter pattern of 01111110. If the output  
+bit-string after stuffing is 01111100101, then the input bit-string is
+Options:
+(A) 0111110100 
+(B) 0111110101
+(C) 0111111101
+(D) 0111111111
+
+Question:
+Host A (on TCP/IP v4 network A) sends an IP datagram D to host B (also on TCP/IP v4 network B).
+Assume that no error occurred during the transmission of D. When D reaches B, which of the 
+following IP header field(s) may be different from that of the original datagram D?  
+            
+    (i) TTL   (ii) Checksum  (iii) Fragment Offset  
+Options:
+(A) (i) only 
+(B) (i) and (ii) only
+(C) (ii) and (iii) only
+(D) (i), (ii) and (iii)
+
+Question:
+An IP router implementing Classless Inter-domain Routing (CIDR) receives a packet with address 
+131.23.151S.76. The router's routing table has the following entries: 
+
+Prefix         Output Interface 
+                  Identifier 
+131.16.0.0/ 12   3 
+131.28.0.0/ 14   5 
+131.19.0.0/ 16   2 
+131.22.0.0/ 15   1 
+
+The identifier of the output interface on which this packet will be forwarded is  ____.
+
+Question:
+Every host in an IPv4 network has a 1-second resolution real-time clock with battery backup. Each 
+host needs to generate up to 1000 unique identifiers per second. Assume that each host has a 
+globally unique IPv4 address. Design a 50-bit globally unique ID for this purpose. After what 
+period (in seconds) will the identifiers generated by a host wrap around? ____
+   
+Question:
+An IP router with a Maximum Transmission Unit (MTU) of 1500 bytes has received an IP packet 
+of size 4404 bytes with an IP header of length 20 bytes. The values of the  relevant fields in the 
+header of the third IP fragment  generated by the router for this packet are  
+Options:
+(A) MF bit: 0, Datagram Length: 1444; Offset: 370 
+(B) MF bit: 1, Datagram Length: 1424; Offset: 185
+(C) MF bit: 1, Datagram Length: 1500; Offset: 370 
+(D) MF bit: 0, Datagram Length: 1424; Offset: 2960
+
+Question:
+Consider the transactions T1, T2, and T3 and the schedules S1 and S2 given below.  
+
+T1: r1(X); r1(Z); w1(X); w1(Z) 
+T2: r2(Y); r2(Z); w2(Z) 
+T3: r3(Y); r3(X); w3(Y) 
+
+S1: r1(X); r3(Y); r3(X); r2(Y); r2(Z);T w3(Y); w2(Z); r1(Z); w1(X); w1(Z) 
+S2: r1(X); r3(Y); r2(Y); r3(X); r1(Z); r2(Z)E; w3(Y); w1(X); w2(Z); w1(Z) 
+
+Which one of the following statements about the schedules is TRUE?  
+Options:
+(A) Only S1 is conflict-serializable. 
+(B) Only S2 is conflict-serializable.
+(C) Both S1 and S2 are conflict-serializable.      
+(D) Neither S1 nor S2 is  conflict-serializable.
+ 
+Question:
+Consider the relational schema given below, where eId of the relation dependent is a foreign 
+key referring to empId of the relation employee. Assume that every employee has at least one 
+associated dependent in the dependent relation.
+ 
+    employee(empId, empName, empAge) 
+    dependent(depId, eId, depName, depAge)
+
+Consider the following relational algebra query: 
+
+&prod;<sub>empId</sub>(employee) - &prod;<sub>empId</sub>(employee&bowtie;<sub>(empId = eID) &and; (empAge  &le; depAge)</sub>dependent)
+
+The above query evaluates to the set of empIds of employees whose age is greater than that of   
+Options:
+(A) some dependent. 
+(B) all dependents. 
+(C) some of his/her dependents. 
+(D) all of his/her dependents. 
+
+Question:
+A system contains three programs and each requires three tape units for its operation. The 
+minimum number of tape units which the system must have such that deadlocks never arise 
+is ____.
+
+Question:
+An operating system uses shortest remaining time first scheduling algorithm for pre-emptive 
+scheduling of processes. Consider the following set of processes with their arrival times and CPU 
+burst times (in milliseconds): 
+
+Process Arrival Time Burst Time 
+P1      0            12 
+P2      2            4 
+P3      3            6
+P4      8            5 
+
+The average waiting time (in milliseconds) of the processes is ____.
+
+Question:
+Consider a paging hardware with a TLB. Assume that the entire page table and all the pages are  in 
+the physical memory. It takes 10 milliseconds to search the TLB and 80 milliseconds to access the 
+physical memory. If the TLB hit ratio is 0.6, the effective memory access time (in milliseconds) is  
+____. 
+
+Question:
+Consider the basic block given below. 
+
+a = b + c 
+c = a + d
+d = b + c 
+e = d - b 
+a = e + b
+
+The minimum number of nodes and edges present in the DAG representation of the above basic 
+block respectively are  
+Options:
+(A) 6 and 6 
+(B) 8 and 10 
+(C) 9 and 12 
+(D) 4 and 4
+
+Question:
+Which one of the following problems is undecidable?  
+Options:
+(A) Deciding if a given context-free grammar is ambiguous. 
+(B) Deciding if a given string is generated by a given context-free grammar. 
+(C) Deciding if the language generated by a given context-free grammar is empty. 
+(D) Deciding if the language generated by a given context-free grammar is finite.
+
+Question:
+Consider the following languages over the alphabet &sum; = {0, 1, c}: 
+
+    L1 = {0<sup>n</sup>1<sup>n</sup> | n &ge; 0}
+    L2 = {wcw<sup>r</sup> | w &isin; {0,1}<sup>*</sup>}
+    L3 = {ww<sup>r</sup> | w &isin; {0,1}<sup>*</sup>}
+
+Here, w<sup>r</sup> is the reverse of the string . Which of these languages are deterministic Context-free 
+languages?  
+Options:
+(A) None of the languages 
+(B) L1 Only  
+(C) Only L1 and L2  
+(D) All the three languages
+
+Question:
+Suppose you want to move from 0 to 100 on the number line. In each step, you either 
+move right by a unit distance or you take a shortcut.  A shortcut is simply a pre-specified 
+pair of integers i, j with i < j. Given a shortcut i, j if you are at position i on the number 
+line, you may directly move to j. Suppose T(k) denotes the smallest number of steps 
+needed to movm from k to 100. Suppose further that there is at most 1 shortcut involving  
+any number, and in particular from 9 there is a shortcut to 15. Let y and z be such that 
+T(9) = 1 + min(T(y), T(z)). Then the value of the product yz is ____. 
+ 
+Question:
+Consider the decision 2CNFSAT defined as follows:
+
+ { &Phi; | &Phi; is a satisfiable propositional formula in CNF with at most two literals per clause } 
+
+For example, &Phi; = (x<sub>1</sub> &or; x<sub>2</sub>) &and; (x<sub>1</sub> &or; <span class="above_bar">x</span><sub>3</sub>) &and; (x<sub>2</sub> &or; x<sub>4</sub>) is a Boolean formula and it is in 2CNFSAT.  
+
+The decision problem 2CNFSAT is   
+Options:
+(A) NP-Complete. 
+(B) solvable in polynomial time by reduction to directed graph reachability. 
+(C) solvable in constant  time since any input instance is satisfiable. 
+(D) NP-hard, but not NP-complete.
+ 
+Question:
+Suppose we have a balanced binary search tree T holding n numbers.  We are given two 
+numbers L and H and wish to sum up all the numbers in T that lie between L and H.  
+Suppose there are m such numbers in T. If the tightest upper bound on the time to 
+compute the sum is O(n<sup>a</sup>log<sup>b</sup> n + m<sup>c</sup>log<sup>d</sup> n)) the value of a + 10b + 100c + 1000d is 
+____.
+
+Question:
+Consider a hash table with 100 slots. Collisions are resolved using chaining. Assuming simple 
+uniform hashing, what is the probability that the first 3 slots are unfilled after the first 3 insertions?   
+Options:
+(A) (97 x 97 x 97)/100<sup>3</sup>  
+(B) (99 x 98 x 97)/100<sup>3</sup>
+(C) (97 x 96 x 95)/100<sup>3</sup>  
+(D) (97 x 96 x 95)/(3! x 100<sup>3</sup>) 
+
+Question:
+Consider the pseudocode given below. The function DoSomething() takes as argument a 
+pointer to the root of an arbitrary tree represented by the leftMostChild-rightSibling representation. 
+Each node of the tree is of type treeNode. 
+
+typedef struct treeNode* treeptr; 
+
+struct treeNode 
+{
+       treeptr leftMostChild, rightSibling; 
+};
+
+int DoSomething (treeptr tree)
+{ 
+   int value=0;
+   if (tree != NULL) { 
+     if (tree->leftMostChild == NULL) 
+         value = 1;
+     else  
+         value =  DoSomething(tree->leftMostChild); 
+     value = value + DoSomething(tree->rightSibling); 
+   } 
+   return(value); 
+}
+
+When the pointer to the root of a tree is passed as the argument to DoSomething, the value 
+returned by the function corresponds to the
+Options:
+(A) number of internal nodes in the tree. 
+(B) height of the tree.  
+(C) number of nodes without a right sibling in the tree. 
+(D) number of leaf nodes in the tree.
+
+Question:
+Consider the C function given below. Assume that the array listA contains n ( > 0 ) elements, 
+sorted in ascending order. 
+
+int ProcessArray(int *listA, int x, int n) 
+{ 
+  int i, j, k; 
+  i = 0; 
+  j = n-1; 
+  do { 
+       k = (i+j)/2; 
+       if (x <= listA[k]) 
+           j = k-1; 
+       if (listA[k] <= x) 
+           i = k+1; 
+      }while (i <= j);
+
+  if (listA[k] == x)  4
+      return(k); 
+  else  
+      return -1; 1
+} 
+
+Which one of the following statements about the function ProcessArray is CORRECT?  
+Options:
+(A) It will run into an infinite loop when x is not in listA. 
+(B) It is an implementation of binary search.
+(C) It will always find the maximum element in listA.  
+(D) It will return -1 even when x is present in listTA.  
+
+Question:
+An instruction pipeline has five stages, namely, instruction fetch (IF), instruction decode and 
+register fetch (ID/RF), instruction execution (EX), memory access (MEM), and register writeback 
+(WB) with stage latencies 1 ns, 2.2 ns, 2 ns, 1 ns, and 0.75 ns, respectively (ns stands for 
+nanoseconds). To gain in terms of frequency, the designers have decided to split the ID/RF stage 
+into three stages (ID, RF31, RF2) each of latency 2.2/3 ns. Also, the EX stage is split into two stages 
+(EX1, EX2) each of latency 1 ns. The new design has a total of eight pipeline stages. A program 
+has 20% branch in0structions which execute in the EX stage and produce the next instruction pointer 
+at the end of the EX stage in the old design and at the end of the EX2 stage in the new design. The 
+IF stage stalls after fetching a branch instruction until the next instruction pointer is computed. All 
+instructions other than the branch instruction have an average CPI of one in both the designs. The 
+execution times of this program on the old and the new design are P and Q nanoseconds, 
+resCpectively. The value of P/Q is ____.
+
+Question:
+The memory access time is 1 nanosecond for a read operation with a hit in cache, 5 nanoseconds 
+for a read operation with a miss in cache, 2 nanoseconds for a write operation with a hit in cache 
+and 10 nanoseconds for a write operation with a miss in cache. Execution of a sequence of 
+instructions involves 100 instruction fetch operations, 60 memory operand read operations and 40 
+memory operand write operations. The cache hit-ratio is 0.9.  The average memory access time (in 
+nanoseconds) in executing the sequence of instructions is   ____.   
+
+Question:
+<img src="img/2014_3_45.png" width="100px" height="100px" /> 
+
+The above synchronous sequential circuit built using JK flip-flops is initialized with   
+Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub> = 000. The state sequence for this circuit for the next 3 clock cycles is
+Options:
+(A) 001, 010, 011 
+(B) 111, 110, 101 
+(C) 100, 110, 111
+(D) 100, 011, 001 
+
+Question:
+With respect to the numerical evaluation of the definite integral, 
+
+    K = <sup>b</sup>&int;<sub>a</sub>x<sup>2</sup>dx 
+
+where a and b are given, which of the following statements is/are TRUE?   
+
+  I) The value of K obtained using the trapezoidal rule is always greater than or equal to the 
+     exact value of the definite integral. 
+ II) The value of K obtained using the Simpson's rule is always equal to the exact value of 
+     the definite integral. 
+Options:
+(A) I only 
+(B) II only 
+(C) Both I and II 
+(D) Neither I nor II 
+
+Question:
+The value of the integral given below is    
+
+    <sup>&pi;</sup>&int;<sub>0</sub>x<sup>2</sup>cosxdx    
+Options:
+(A) -2&pi; 
+(B) &pi;    
+(C) -&pi;  
+(D) 2&pi; 
+
+Question:
+Let S be a sample space and two mutually exclusive events A and B be such that A &cup; B = S.
+If P(.) denotes the probability of the event, the maximum value of P(A)P(B) is  ____.   
+
+Question:
+Consider set of all functions  f:{0, 1, ..., 2014} &rarr; {0, 1, ..., 2014} such that f(f(i)) = i,
+for all 0 &le; i &le; 2014. Consider the following statements: 
+
+P. For each such function it must be the case that for every i, f(i) = i. 
+Q. For each such function it must be the case that for some i, f(i) = i. 
+R. Each such function must be onto. 
+
+Which one of the following is CORRECT?  
+Options:
+(A)  P, Q and R are true 
+(B)  Only Q and R are true 
+(C)  Only P and Q are true
+(D)  Only R is true
+
+Question:
+There are two elements x, y in a group (G, *) such that every element in the group can be 
+written as a product of some number of x's and y's in some order. It is known that 
+ 
+   x * x = y * y = x * y * x * y = y * x * y * x = e
+  
+where e is the identity element. The maximum number of elements in such a group is 
+____.
+  
+Question:
+If G is a forest with n vertices and k connected components, how many edges does G have?
+Options:
+(A) &LeftFloor;n/k&RightFloor;  
+(B) &LeftCeiling;n/k&RightCeiling;  
+(C) n - k 
+(D) n - k + 1
+
+Question:
+Let &delta; denote the minimum degree of a vertex in a graph.  For all planar graphs on  vertices with 
+&delta; &ge; 3, which one of the following is TRUE?   
+Options:
+(A) In any planar embedding, the number of faces is at least  n/2 + 2 
+(B) In any planar embedding, the number of faces is less than  n/2 + 2 
+(C) There is a planar embedding in which the number of faces is less than n/2  + 2 
+(D) There is a planar embedding in which the number of faces is at most  n/(&delta; + 1)    
+
+Question:
+The CORRECT formula for the sentence, "not all rainy days are cold" is   
+Options:
+(A) &forall;d(Rainy(d) &and; &sim;Cold(d)) 
+(B) &forall;d(&sim;Rainy(d) &rarr; Cold(d)) 
+(C) &exist;d(&sim;Rainy(d) &rarr; Cold(d)) 
+(D) &exist;d(Rainy(d) &and; &sim;Cold(d)) 
+
+Question:
+Consider the following relational schema: 
+
+employee(empId, empName, empDept) 
+customer(custId, custName, salesRepId, rating) 
+
+salesRepId is a foreign key referring to empId of the employee relation. Assume that each 
+employee makes a sale to at least one customer. What does the following query return?
+
+SELECT empName
+FROM employee 
+WHERE NOT EXISTS (SELECT custId
+                  FROM customer 
+                  WHERE C.salesRepId = E.empId  
+                  AND C.rating <> 'GOOD');
+Options:
+(A) Names of all the employees with at least one of their customers having a 'GOOD' rating. 
+(B) Names of all the employees with at most one of their customers having a 'GOOD' rating. 
+(C) Names of all the employees with none of their customers having a 'GOOD' rating. 
+(D) Names of all the employees with all their customers having a 'GOOD' rating.
+
+Question:
+Let &oplus; denote the Exclusive OR (XOR) operation. Let '1' and '0' denote the binary constants. 
+Consider the following Boolean expression for F over two variables P and Q. 
+
+  F(P, Q) = ((1 &oplus; P) &oplus; (P &oplus; P)) &oplus; ((P &oplus; Q) &oplus; (Q &oplus; 0))
+
+The equivalent expression for F is  
+Options:
+(A)  P + Q  
+(B)  <span class="above_bar">P + Q</span> 
+(C)  P &oplus; Q  
+(D)  <span class="above_bar">P &oplus; Q</span>

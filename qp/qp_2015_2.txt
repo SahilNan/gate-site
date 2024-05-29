@@ -1,0 +1,814 @@
+Question:
+We ____ our friend's birthday and we ____ how to
+make it up to him
+Options:
+(A) completely forgot --- don't just know
+(B) forgot completely --- don't just know
+(C) completely forgot --- just don't know
+(D) forgot completely --- just don't know
+Category:
+GeneralAptitude
+
+Question:
+Choose the statement where underlined word is used correctly.
+Options:
+(A) The industrialist had a <ins>personnel</ins> jet.
+(B) I write my experience in my <ins>personnel</ins> diary.
+(C) All <ins>personnel</ins> are being given the day off.
+(D) Being religious is a <ins>personnel</ins> aspect.
+Category:
+GeneralAptitude
+
+Question:
+A generic term that includes various items of clothing such as a skirt, a pair of trousers and a shirt is
+Options:
+(A) fabric 
+(B) textile 
+(C) fibre 
+(D) apparel
+Category:
+GeneralAptitude
+
+Question:
+Based on the given statements, select the most appropriate option to solve the given question.
+
+What will be the total weight of 10 poles each of same weight?
+
+Statements:
+   (I) One fourth of the weight of a pole is 5 Kg.
+  (II) The total weight of these poles is 160 kg more than the total weight of two poles.
+Options:
+(A) Statement I alone is not sufficient.
+(B) Statement II alone is not sufficient.
+(C) Either I or II alone is sufficient.
+(D) Both statements I and II together are not sufficient.
+Category:
+GeneralAptitude
+
+Question:
+Consider a function f(x) = 1 - |x| on -1 &le; x &le; 1. The value of x at which the function attains a
+maximum, and the maximum value of the function are:
+Options:
+(A) 0, -1 
+(B) -1, 0 
+(C) 0, 1 
+(D) -1, 2
+Category:
+GeneralAptitude
+
+Question:
+Out of the following four sentences, select the most suitable sentence with respect to grammar and
+usage:
+Options:
+(A) Since the report lacked needed information, it was of no use to them.
+(B) The report was useless to them because there were no needed information in it.
+(C) Since the report did not contain the needed information, it was not real useful to them
+(D) Since the report lacked needed information, it would not had been useful to them.
+Category:
+GeneralAptitude
+
+Question:
+In a triangle PQR. PS is the angle bisector of &ang;QPR and &ang;QPS = 60&deg;. What is the length of PS?
+
+<img src="img/2015_2_7.png" width="100px" height="100px" />
+Options:
+(A) (q + r)/qr
+(B) qr/(q + r)
+(C) &radic;(q<sup>2</sup> + r<sup>2</sup>)
+(D) (q + r)<sup>2</sup>/qr
+Category:
+GeneralAptitude
+
+Question:
+If p, q, r, s are distinct integers such that:
+f (p, q, r, s) = max (p, q, r, s)
+g (p, q, r, s) = min (p, q, r, s)
+h (p, q, r, s) = remainder of (p x q) / (r x s) if (p x q) > (r x s) or remainder of (r x s) / (p x q) if
+(r x s) > (p x q)
+
+Also a function fgh(p, q, r, s) =f(p, q, r, s) x g(p, q, r, s) x h(p, q, r, s)
+
+Also the same operations are valid with two variable functions of the form f(p, q).
+What is the value of fg(h(2,5,7,3), 4, 6, 8)? ____
+Category:
+GeneralAptitude
+
+Question:
+If the list of letters, P, R, S, T, U is an arithmetic sequence, which of the following are also in
+arithmetic sequence?
+    I. 2P, 2R, 2S, 2T, 2U
+   II. P-3, R-3, S-3, T-3, U-3
+  III. P<sup>2</sup>, R<sup>2</sup>, S<sup>2</sup>, T<sup>2</sup>, U<sup>2</sup>
+Options:
+(A) I only
+(B) I and II
+(C) II and III
+(D) I and III
+Category:
+GeneralAptitude
+
+Question:
+Four branches of a company are located at M, N, O, and P. M is north of N at a distance of 4 km; P
+is south of O at a distance of 2 km: N is southeast of O by 1 km What is the distance between M
+and P in km?
+Options:
+(A) 5.34 
+(B) 6.74 
+(C) 28.5 
+(D) 45.49
+Category:
+GeneralAptitude
+
+Question:
+Consider the following two statements.
+
+S1: If a candidate is known to be corrupt, then he will not be elected
+S2: If a candidate is kind, he will be elected
+
+Which one of the following statements follows from S1 and S2 as per sound inference rules of
+logic?
+Options:
+(A) If a person is known to be corrupt, he is kind
+(B) If a person is not known to be corrupt, he is not kind
+(C) If a person is kind, he is not known to be corrupt
+(D) If a person is not kind, he is not known to be corrupt
+
+
+Question:
+The cardinality of the power set of { 0, 1,  2, ..., 10 } is ____
+
+
+Question:
+Let R be the relation on the set of positive integers such that aRb if and only if a and b are distinct
+and have a common divisor other than 1. Which one of the following statements about R is true?
+Options:
+(A) R is symmetric and reflexive but not transitive
+(B) R is reflexive but not symmetric and not transitive
+(C) R is transitive but not reflexive and not symmetric
+(D) R is symmetric but not reflexive and not transitive
+
+
+Question:
+The number of divisors of 2100 is ____
+
+
+Question:
+The larger of the two eigenvalues of the matrix 
+[4 5]
+[2 1]
+is ____
+
+
+Question:
+An unordered list contains n distinct elements. The number of comparisons to find an element in
+this list that is neither maximum nor minimum is
+Options:
+(A) &Theta;(nlog n) 
+(B) &Theta;(n) 
+(C) &Theta;(log n) 
+(D) &Theta;(1)
+
+
+Question:
+The minimum number of JK flip-flops required to construct a synchronous counter with the count
+sequence (0,0,1,1,2,2,3,3,0,0,...) is ____
+
+
+Question:
+Assume that for a certain processor, a read request takes 50 nanoseconds on a cache miss and 5
+nanoseconds on a cache hit. Suppose while running a program, it was observed that 80% of the
+processor's read requests result in a cache hit. The average read access time in nanoseconds is 
+____
+
+
+Question:
+A computer system implements a 40-bit virtual address, page size of 8 kilobytes, and a 128-entry
+translation look-aside buffer (TLB) organized into 32 sets each having four ways. Assume that the
+TLB tag does not store any process id. The minimum length of the TLB tag in bits is ____
+
+
+Question:
+Consider the following statements.
+
+    I. The complement of every Turing decidable language is Turing decidable
+   II. There exists some language which is in NP but is not Turing decidable
+  III. If L is a language in NP, L is Turing decidable
+
+Which of the above statements is/are true?
+Options:
+(A) Only II 
+(B) Only III 
+(C) Only I and II 
+(D) Only I and III
+
+
+Question:
+Consider the following function written in the C programming language.
+
+<code>
+void foo(char *a) {
+    if( *a && *a ! = ' '{
+        foo(a + 1);
+        putchar (*a);
+    }
+}
+</code>
+
+The output of the above function on input "ABCD EFGH" is
+Options:
+(A) ABCD EFGH 
+(B) ABCD 
+(C) HGFE DCBA 
+(D) DCBA
+
+
+Question:
+Consider a complete binary tree where the left and the right subtrees of the root are max-heaps. The
+lower bound for the number of operations to convert the tree to a heap is
+Options:
+(A) &Omega;(log n) 
+(B) &Omega;(n) 
+(C) &Omega;(nlog n) 
+(D) &Omega;(n<sup>2</sup>)
+
+
+Question:
+A binary tree T has 20 leaves. The number of nodes in T having two children is ____
+
+
+Question:
+Consider the following C function.
+
+<code>
+int fun(int n) {
+    int x=1,k;
+    if(n == 1) return x;
+    for (k=1; k < n; ++k)
+        x = x + fun(k) * fun(n-k);
+    return x;
+}
+</code>
+
+The return value of fun(5) is ____
+
+
+Question:
+A software requirements specification (SRS) document should avoid discussing which one of the
+following?
+Options:
+(A) User interface issues
+(B) Non-functional requirements
+(C) Design specification
+(D) Interfaces with third party software
+
+
+Question:
+Consider two decision problems Q1, Q2 such that Q1 reduces in polynomial time to 3-SAT and
+3-SAT reduces in polynomial time to Q2. Then which one of the following is consistent with the
+above statement?
+Options:
+(A) Q1 is in NP, Q2 is NP hard.
+(B) Q2 is in NP, Q1 is NP hard.
+(C) Both Q1 and Q2 are in NP.
+(D) Both Q1 and Q2 are NP hard.
+
+
+Question:
+Match the following:
+P. Lexical analysis      1. Graph coloring
+Q. Parsing               2. DFA minimization
+R. Register allocation   3. Post-order traversal
+S. Expression evaluation 4. Production tree
+Options:
+(A) P-2,Q-3,R-1,S-4 
+(B) P-2,Q-1,R-4,S-3
+(C) P-2,Q-4,R-1,S-3 
+(D) P-2,Q-3,R-4,S-1
+
+
+Question:
+In the context of abstract-syntax-tree (AST) and control-flow-graph (CFG), which one of the
+following is TRUE?
+Options:
+(A) In both AST and CFG, let node N2 be the successor of node N1. In the input program, the code
+    corresponding to N2 is present after the code corresponding to N1
+(B) For any input program, neither AST nor CFG will contain a cycle
+(C) The maximum number of successors of a node in an AST and a CFG depends on the input
+    program
+(D) Each node in AST and CFG corresponds to at most one statement in the input program
+
+
+Question:
+Consider the basic COCOMO model where E is the effort applied in person-months, D is the
+development time in chronological months, KLOC is the estimated number of delivered lines of
+code (in thousands) and a<sub>b</sub>, b<sub>b</sub>, c<sub>b</sub>, d<sub>b</sub> have their usual meanings. The basic COCOMO equations
+are of the form
+Options:
+(A) E = a<sub>b</sub>(KLOC)exp(b<sub>b</sub>), D = c<sub>b</sub>(E)exp(d<sub>b</sub>)
+(B) D = a<sub>b</sub>(KLOC)exp(b<sub>b</sub>), E = c<sub>b</sub>(D)exp(d<sub>b</sub>)
+(C) E = a<sub>b</sub>exp(b<sub>b</sub>), D = c<sub>b</sub>(KLOC)exp(d<sub>b</sub>)
+(D) E = a<sub>b</sub>exp(d<sub>b</sub>), D = c<sub>b</sub>(KLOC)exp(b<sub>b</sub>)
+
+
+Question:
+A system has 6 identical resources and N processes competing for them. Each process can request
+atmost 2 resources. Which one of the following values of N could lead to a deadlock?
+Options:
+(A) 1 
+(B) 2 
+(C) 3 
+(D) 4
+
+
+Question:
+Consider the following transaction involving two bank accounts x and y .
+read(x); x := x - 50; write(x); read(y); y:= y + 50; write(y)
+
+The constraint that the sum of the accounts x and y should remain constant is that of
+Options:
+(A) Atomicity 
+(B) Consistency
+(C) Isolation 
+(D) Durability
+Category:
+Databases
+
+Question:
+With reference to the B+ tree index of order 1 shown below, the minimum number of nodes
+(including the Root node) that must be fetched in order to satisfy the following query: "Get all
+records with a search key greater than or equal to 7 and less than 15" is ____
+
+<img src="img/2015_2_32.png" width="100px" height="100px" />
+Category:
+Databases
+
+Question:
+Identify the correct order in which a server process must invoke the function calls accept,
+bind, listen, and recv according to UNIX socket API.
+Options:
+(A) listen, accept, bind, recv 
+(B) bind, listen, accept, reev
+(C) bind, accept, listen, recv 
+(D) accept, listen, bind, recv
+
+
+Question:
+A link has a transmission speed of 10<sup>6</sup> bits/sec. It uses data packets of size 1000 bytes each.
+Assume that the acknowledgment has negligible transmission delay, and that its propagation delay
+is the same as the data propagation delay. Also assume that the processing delays at nodes are
+negligible. The efficiency of the stop-and-wait protocol in this setup is exactly 25%. The value of
+the one-way propagation delay (in milliseconds) is ____
+
+
+Question:
+Which one of the following statements is NOT correct about HTTP cookies?
+Options:
+(A) A cookie is a piece of code that has the potential to compromise the security of an Internet user
+(B) A cookie gains entry to the user's work area through an HTTP header
+(C) A cookie has an expiry date and time
+(D) Cookies can be used to track the browsing pattern of a user at a particular site
+
+
+Question:
+Consider the following routing table at an IP router:
+
+Network No.  Net Mask      Next Hop
+128.96.170.0 255.255.254.0 Interface 0
+128.96.168.0 255.255.254.0 Interface 1
+128.96.166.0 255.255.254.0 R2
+128.96.164.0 255.255.252.0 R3
+0.0.0.0      Default       R4
+
+For each IP address in Group I identify the correct choice of the next hop from Group II using the
+entries from the routing table above.
+
+Group I             Group II
+  i) 128.96.171.92  a) Interface 0
+ ii) 128.96.167.151 b) Interface 1
+iii) 128.96.163.151 c) R2
+ iv) 128.96.165.121 d) R3
+                    e) R4
+Options:
+(A) i-a, ii-c, iii-e, iv-d 
+(B) i-a, ii-d, iii-b, iv-e
+(C) i-b, ii-c, iii-d, iv-e 
+(D) i-b, ii-c, iii-e, iv-d
+
+
+Question:
+Host A sends a UDP datagram containing 8880 bytes of user data to host B over an Ethernet LAN.
+Ethemet frames may carry data up to 1500 bytes (i.e. MTU=1500 bytes). Size of UDP header is 8
+bytes and size of IP header is 20 bytes. There is no option field in IP header. How many total
+number of IP fragments will be transmitted and what will be the contents of offset field in the last
+fragment?
+Options:
+(A) 6 and 925
+(B) 6 and 7400
+(C) 7 and 1110
+(D) 7 and 8880
+
+
+Question:
+Assume that the bandwidth for a TCP connection is 1048560 bits /sec. Let @ be the value of RTT in
+milliseconds (rounded off to the nearest integer) after which the TCP window scale option is
+needed. Let B be the maximum possible window size with window scale option. Then the values of
+a and B are
+Options:
+(A) 63 milliseconds, 65535 x 2<sup>14</sup>
+(B) 63 milliseconds, 65535 x 2<sup>16</sup>
+(C) 500 milliseconds, 65535 x 2<sup>14</sup>
+(D) 500 milliseconds, 65535 x 2<sup>16</sup>
+
+
+Question:
+Consider a simple checkpointing protocol and the following set of operations in the log.
+
+(start, T4); (write, T4, y, 2, 3); (start, T1); (commut, T4); (write, T1, z, 5, 7);
+(checkpoint);
+(start, T2); (write, T2, x, 1, 9); (commit, T2); (start, T3), (write, T3, z, 7, 2);
+
+If a crash happens now and the system tries to recover using both undo and redo operations, what
+are the contents of the undo list and the redo list?
+Options:
+(A) Undo: T3, T1; Redo: T2 
+(B) Undo: T3, T1; Redo: T2, T4
+(C) Undo: none; Redo: T2, T4, T3, T1 
+(D) Undo: T3, T1, T4; Redo: T2
+
+
+Question:
+Consider two relations R1(A,B) with the tuples (1,5), (3,7) and R2(A.C) = (1,7), (4,9). Assume that
+R(A,B,C) is the full natural outer join of R1 and R2. Consider the following tuples of the form
+(A,B,C): a = (1,5,null), b = (1,null,7), c = (3, null, 9), d = (4,7,null), e = (1,5,7), f= (3,7,null), g =
+(4,null,9). Which one of the following statements is correct?
+Options:
+(A) R contains a, b, e, f g but not c, d.
+(B) R contains all of a, b, c, d, e, f, g.
+(C) R contains e, f, g but not a, b.
+(D) R contains e but not f, g.
+
+
+Question:
+Consider six memory partitions of sizes 200 KB, 400 KB, 600 KB, 500 KB, 300 KB and 250 KB,
+where KB refers to kilobyte. These partitions need to be allotted to four processes of sizes 357 KB,
+210 KB, 468 KB and 491 KB im that order. If the best fit algorithm is used, which partitions are
+NOT allotted to any process?
+Options:
+(A) 200 KB and 300 KB 
+(B) 200 KB and 250 KB
+(C) 250 KB and 300 KB 
+(D) 300 KB and 400 KB
+
+
+Question:
+Consider a typical disk that rotates at 15000 rotations per minute (RPM) and has a transfer rate of
+50x10<sup>6</sup> bytes/sec. If the average seek time of the disk is twice the average rotational delay and the
+controller's transfer time is 10 times the disk transfer time, the average time (in milliseconds) to
+read or write a 512-byte sector of the disk is ____
+
+
+Question:
+A computer system implements 8 kilobyte pages and a 32-bit physical address space. Each page
+table entry contaims a valid bit, a dirty bit, three permission bits, and the translation. If the
+maximum size of the page table of a process is 24 megabytes, the length of the virtual address
+supported by the system is ____ bits.
+
+
+Question:
+Consider the intermediate code given below.
+
+(1)  i = 1
+(2)  j = 1
+(3)  t1 = 5 * i
+(4)  t2 = t1 + j
+(5)  t3 = 4 * t2
+(6)  t4 = t3
+(7)  a[t4] = -1
+(8)  j = j + 1
+(9)  if j <= 5 goto (3)
+(10) i = i + 1
+(11) if i < 5 goto (2)
+
+The number of nodes and edges in the control-flow-graph constructed for the above code,
+respectively, are
+Options:
+(A) 5 and 7 
+(B) 6 and 7
+(C) 5 and 5 
+(D) 7 and 8
+
+
+Question:
+The number of states in the minimal deterministic finite automaton corresponding to the regular
+expression (0 + 1)<sup>*</sup>(10) is ____
+
+
+Question:
+Which of the following languages is/are regular?
+
+L1: {wxw<sup>R</sup> | w, x &isin; {a, b}<sup>*</sup> and |w|, |x| > 0}, w<sup>R</sup> is the reverse of string w
+L2: {a<sup>n</sup>b<sup>m</sup> | m &ne; n and m, n &ge; 0}
+L3: {a<sup>p</sup>b<sup>q</sup>c<sup>r</sup> | p, q, r &ge; 0}
+Options:
+(A) L1 and L3 only 
+(B) L2 only 
+(C) L2 and L3 only 
+(D) L3 only
+
+
+Question:
+Given below are some algorithms, and some algorithm design paradigms.
+
+1. Dijkstra's Shortest Path                 i. Divide and Conquer
+2. Floyd-Warshall algorithm to compute all ii. Dynamic Programming
+   pairs shortest path
+3. Binary search on a sorted array        iii. Greedy design
+4. Backtracking search on a graph          iv. Depth-first search
+                                            v. Breadth-first search
+
+Match the above algorithms on the left to the corresponding design paradigm they follow.
+Options:
+(A) 1-i, 2-iii, 3-i, 4-v.
+(B) 1-iii, 2-iii, 3-i, 4-v.
+(C) 1-iii, 2-ii, 3-i, 4-iv.
+(D) 1-iii, 2-ii, 3-i, 4-v.
+Category:
+Algorithms
+
+Question:
+A Young tableau is a 2D array of integers increasing from left to right and from top to bottom. Any
+unfilled entries are marked with &infin;, and hence there cannot be any entry to the nght of, or below a
+&infin;. The following Young tableau consists of unique entries.
+
+1  2  5  14
+3  4  6  23
+10 12 18 25
+31 &infin;   &infin;  &infin;
+
+When an element is removed from a Young tableau, other elements should be moved into its place
+so that the resulting table is still a Young tableau (unfilled entries may be filled in with a &infin;). The
+minimum number of entries (other than 1) to be shifted, to remove 1 from the given Young tableau
+is  ____
+
+
+Question:
+Suppose you are provided with the following function declaration in the C programming language.
+
+int partition(int a[], int n);
+
+The function treats the first element of a[] as a pivot, and rearranges the array so that all elements
+less than or equal to the pivot is in the left part of the array, and all elements greater than the pivot
+is in the right part. In addition, it moves the pivot so that the pivot is the last element of the left part.
+The return value is the number of elements in the left part.
+
+The following partially given function in the C programming language is used to find the k**
+smallest element in an array a[] of size n using the partition function. We assume k &le; n.
+
+int kth_smallest(int a[], int n, int k)
+{
+    int left_end = partition(a, n);
+
+    if ( left_end + 1 == k ){
+        return a[left_end];
+    }
+
+    if ( left_end + 1 > k ){
+        return kth_smallest(____);
+    } else {
+        return kth_smallest(____);
+    }
+}
+
+The missing argument lists are respectively
+Options:
+(A) (a, left_end, k) and (a+left_end+1, n-left_end-1, k-left_end-1)
+(B) (a, left_end, k) and (a, n-left_end-1, k-left_end-1)
+(C) (a+left_end+1, n-left_end-1, k-left_end-1) and (a, left_end, k)
+(D) (a, n-left_end-1, k-left_end-1) and (a, left_end, k)
+
+
+Question:
+Which one of the following hash functions on integers will distribute keys most uniformly over 10
+buckets numbered 0 to 9 for i ranging from 0 to 2020?
+Options:
+(A) h(i) = i<sup>2</sup> mod 10
+(B) h(i) = i<sup>3</sup> mod 10
+(C) h(i) = (11 * i<sup>2</sup>) mod 10
+(D) h(i) = (12 * i) mod 10
+
+
+Question:
+The secant method is used to find the root of an equation f(x) = 0. It is started from two distinct
+estimates x<sub>a</sub> and x<sub>b</sub> for the root. It is an iterative procedure involving linear interpolation to a root.
+The iteration stops if f(x<sub>b</sub>) is very small and then x<sub>b</sub> is the solution. The procedure is given below.
+Observe that there is an expression which is missing and is marked by ?. Which is the suitable
+expression that is to be put in place of ? so that it follows all steps of the secant method?
+
+Secant
+Initialize: x<sub>a</sub>, x<sub>b</sub>, &epsilon, N // &epsilon; = convergence indicator
+                                    // N = maximum no. of iterations
+f<sub>b</sub> = f(x<sub>b</sub>)
+i = 0
+while (i < N and |f<sub>b</sub>| > &epsilon;) do
+    i = i + 1 // update counter
+    x<sub>t</sub> = ? // missing expression for
+                      // intermediate value
+    x<sub>a</sub> = x<sub>b</sub> // reset x<sub>a</sub>
+    x<sub>b</sub> = x<sub>t</sub>mi // reset x<sub>b</sub>
+    f<sub>b</sub> = f(x<sub>b</sub>) // function value at new x,
+end while
+if |f<sub>b</sub>| > &epsilon; then // loop is terminated with i=N
+    write "Non-convergence"
+else
+    write "return x<sub>b</sub>"
+end if
+Options:
+(A) x<sub>b</sub> - (f<sub>b</sub> - f(x<sub>a</sub>))f<sub>b</sub> / (x<sub>b</sub> - x<sub>a</sub>)
+(B) x<sub>a</sub> - (f<sub>a</sub> - f(x<sub>a</sub>))f<sub>a</sub> / (x<sub>b</sub> - x<sub>a</sub>)
+(C) x<sub>b</sub> - (x<sub>b</sub> - x<sub>a</sub>)f<sub>b</sub> / (f<sub>b</sub> - f(x<sub>a</sub>) )
+(D) x<sub>a</sub> - (x<sub>b</sub> - x<sub>a</sub>)f<sub>a</sub> / (f<sub>b</sub> - f(x<sub>a</sub>) )
+
+
+Question:
+Consider the C program below.
+
+<code>
+#include < stdio.h >
+int *A, stkTop;
+
+int stkFunc(int opcode, int val)
+{
+    static int size=0, stkTop=0;
+
+    switch (opcode) {
+        case -1: size = val; break;
+        case  0: if (stkTop < size) A[stkTopt++] = val; break;
+        default: if (stkTop) return A[--stkTop];
+    }
+    return -1;
+}
+
+int main()
+
+{
+    int B[20]; A = B; stkTop = -1;
+
+    stkFunc (-1, 10);
+    stkFunc ( 0, 5);
+    stkFunc ( 0, 10);
+    printf ("%d\n", stkFunc(1, 0) + stkFunc(1, 0));
+}
+</code>
+
+The value printed by the above program is ____
+
+
+Question:
+Consider the sequence of machine instructions given below:
+
+MUL  R5, R0, R1
+DIV  R6, R2, R3
+ADD  R7, R5, R6
+SUB  R8, R7, R4
+
+In the above sequence, R0 to R8 are general purpose registers. In the instructions shown, the first
+register stores the result of the operation performed on the second and the third registers. This
+sequence of instructions is to be executed in a pipelined instruction processor with the following 4
+stages: (1) Instruction Fetch and Decode (IF), (2) Operand Fetch (OF), (3) Perform Operation (PO)
+and (4) Write back the result (WB). The IF, OF and WB stages take 1 clock cycle each for any
+instruction. The PO stage takes 1 clock cycle for ADD or SUB instruction, 3 clock cycles for MUL
+instruction and 5 clock cycles for DIV instruction. The pipelined processor uses operand
+forwarding from the PO stage to the OF stage. The number of clock cycles taken for the execution
+of the above sequence of instructions is ____
+Category:
+ComputerOrganizationAndArchitecture
+
+Question:
+Consider a processor with byte-addressable memory. Assume that all registers, including Program
+Counter (PC) and Program Status Word (PSW), are of size 2 bytes. A stack in the main memory is
+implemented from memory location (0100)<sub>16</sub> and it grows upward. The stack pointer (SP) points to
+the top element of the stack. The current value of SP is (016E)<sub>16</sub>. The CALL instruction is of two
+words, the first word is the op-code and the second word is the starting address of the subroutine
+(one word = 2 bytes). The CALL instruction is implemented as follows:
+
+  Store the current value of PC in the stack
+  Store the value of PSW register in the stack
+  Load the starting address of the subroutine in PC
+
+The content of PC just before the fetch of a CALL instruction is (5FA0)<sub>16</sub>. After execution of the
+CALL instruction, the value of the stack pointer is
+Options:
+(A) (016A)<sub>16</sub> 
+(B) (016C)<sub>16</sub> 
+(C) (0170)<sub>16</sub> 
+(D) (0172)<sub>16</sub>
+
+
+Question:
+The number of min-terms after minimizing the following Boolean expression is ____
+[D' + AB' + A'C + AC'D + A'C'D]'
+
+
+Question:
+Let f(x) = x<sup>-(1/3)</sup> and A denote the area of the region bounded by f(x) and the X-axis, when x
+varies from -1 to 1. Which of the following statements is/are TRUE?
+
+   I) f is continuous in [-1, 1]
+  II) f is not bounded in [-1, 1]
+ III) A is nonzero and finite
+Options:
+(A) II only 
+(B) III only
+(C) II and III only 
+(D) I, II and III
+
+
+Question:
+Perform the following operations on the matrix 
+
+3  4 45
+7  9 105
+13 2 195
+
+ (i) Add the third row to the second row
+(ii) Subtract the third column from the first column.
+
+The determinant of the resultant matrix is ____
+Category:
+EngineeringMathematics
+
+Question:
+The number of onto functions (surjective functions) from set X = {1,2,3,4} to set Y = {a,b,c} is 
+____
+Category:
+EngineeringMathematics
+
+Question:
+Let X and Y denote the sets containing 2 and 20 distinct objects respectively and F denote the set of
+all possible functions defined from X to Y. Let f be randomly chosen from F. The probability of f
+being one-to-one is ____
+
+
+Question:
+Consider the alphabet &sum; = {0, 1}, the null/empty string &lambda; and the sets of strings X<sub>0</sub>, X<sub>1</sub>, and X<sub>2</sub>
+generated by the corresponding non-terminals of a regular grammar. X<sub>0</sub>, X<sub>1</sub>, and X<sub>2</sub> are related as
+follows.
+
+X<sub>0</sub> = 1X<sub>1</sub>
+X<sub>1</sub> = 0X<sub>1</sub> + 1X<sub>2</sub>
+X<sub>2</sub> = 0X<sub>1</sub> + {&lambda;}
+
+Which one of the following choices precisely represents the strings in X<sub>0</sub>?
+Options:
+(A) 10(0<sup>*</sup> + (10)<sup>*</sup>)1 
+(B) 10(0<sup>*</sup> + (10)<sup>*</sup>)<sup>*</sup>1
+(C) 1(0 + 10)<sup>*</sup>1 
+(D) 10(0 + 10)<sup>*</sup>1 + 110(0 + 10)<sup>*</sup>1
+
+
+Question:
+A graph is self-complementary if it is isomorphic to its complement. For all self-complementary
+graphs on n vertices, n is
+Options:
+(A) A multiple of 4
+(B) Even
+(C) Odd
+(D) Congruent to 0 mod 4, or, 1 mod 4.
+
+
+Question:
+In a connected graph, a bridge is an edge whose removal disconnects a graph. Which one of the
+following statements is true?
+Options:
+(A) A tree has no bridges
+(B) A bridge cannot be part of a simple cycle
+(C) Every edge of a clique with size &ge; 3 is a bridge (A clique is any complete subgraph of a graph)
+(D) A graph with bridges cannot have a cycle
+
+
+Question:
+Which one of the following well formed formulae is a tautology?
+Options:
+(A) &forall;x &exist;y R(x, y) &harr; &exist;y &forall;x R(x, y)
+(B) (&forall;x [&exist;y R(x, y) &rarr; S(x,y)]) &rarr; &forall;x&exist;y S(x,y)
+(C) [&forall;x &exist;y (P(x, y) &rarr; R(x, y)] &harr; [&forall;x &exist;y (&not;P(x, y) &or; R(x y)]
+(D) &forall;x &forall;y P(x,y) &rarr; &forall;x &forall;y P(y,x)
+
+
+Question:
+Which one of the following assertions concerning code inspection and code walkthrough is true?
+Options:
+(A) Code inspection is carried out once the code has been unit tested
+(B) Code inspection and code walkthrough are synonyms
+(C) Adherence to coding standards is checked during code inspection
+(D) Code walkthrough is usually carried out by an independent test team
+
+
+Question:
+A half adder is implemented with XOR and AND gates. A full adder is implemented with two half
+adders and one OR gate. The propagation delay of an XOR gate is twice that of an AND/OR gate.
+The propagation delay of an AND/OR gate is 1.2 microseconds. A 4-bit nipple-carry binary adder is
+implemented by using four full adders. The total propagation time of this 4-bit binary adder in
+microseconds is ____
+
+

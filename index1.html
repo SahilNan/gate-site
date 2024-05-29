@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<title>Colors</title>
+	<style>
+		.colors_container {
+			display: flex;
+			flex-wrap: wrap;
+			background-color: #ffff;
+		}
+	</style>
+</head>
+
+<body class="colors_container" id="colors_container">
+	<script>
+		for(let i=0; i <= 100; i=i+5){
+			for (let j= 0 ; j<= 100; j=j+5){
+				let divEle = document.createElement('div');
+				divEle.style.backgroundColor = 'hsl(150, '+ i+'%,'+ j +'%)';
+				divEle.style.width = '100px';
+				divEle.style.margin = '10px';
+				divEle.style.textAlign = 'center';
+				divEle.style.color = 'white';
+				divEle.innerHTML= i + "_" + j;
+				document.getElementById("colors_container").appendChild(divEle);
+			}
+		}
+	</script>
+</body>
+
+</html>
